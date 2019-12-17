@@ -1,0 +1,140 @@
+---
+title: "CBE: Text Mining in financial documents"
+subtitle: "Can We Predict Corporate Risk from Hidden Features in Earning Conference Call Transcipts?"
+author: "Yuk Yeung Lam"
+date: "11/7/2019"
+output: pdf_document
+---
+
+## Introduction
+
+It is a common practice that investors construct their portfolio by analyzing financial data, and mostly numerical data. However, Few has explore what the financial text data could tell us. I will attempt to conduct text mining and use machine learining algorithm to see if we can extract valuable information from financial data in text form. To narrow down the scope of research interest, I will exoplore the companies that issue coporate bonds and label their earning call transcipts by whether they default on the bonds later on. Then this project falls into a binary classifcation which is more viable and reliable.
+
+## Data
+
+### Earning Conference Call
+
+Earning conferece call is a question-answering session between executives and major investors where company comments on its financial results. It is usually held quarterly by most public companies. 
+
+### Data Collection
+
+To ensure the data I collect is clean, consistent, and reliable.
+A list of default corporate bonds in 2016 is aquired from S&P Global (https://www.spratings.com/documents/20184/774196/2016+Annual+Global+Corporate+Default+Study+And+Rating+Transitions.pdf/2ddcf9dd-3b82-4151-9dab-8e3fc70a7035). It is notable that most of the energy companies default on their bonds in that year. To avoid biasness, I selected only one from the energy sector and others from different sectors. For another category of interest, which is corporate bonds that have not defaulted (yet). We shall assume that the companies in this category have no major differences with those in default list. In other words, I collected data from companies rated below *BB*. 
+![](Corporate Bond Default Rates.png){width=500px}
+
+
+The reason is that copoarte rated above *BBB* is almost *default-proof*.
+
+The training set includes a list of default coporate bonds as well as those who did not default. Then I adapted the random forest script in class to try to predict the probability of default on debt of the companies in the test data. 
+
+## Method and Plan
+
+Currently I am still in the process of exploring, but the overall architecture has been built up. First I will scrape transcripts from Seeking Alpha, ideally 50 from each category. Then, I will need to choose a subset of words to put in the model. Common words and highly frequent words are worthless (e.g "the", "and", "of", "in", "to"), and they will be removed from the document feature matrix. Evaluation will be performed once the prediction is done and I will adjust the keywords to put in model based on the result. I will also to try to implement neurol network afterwards.
+
+The next step is to figure out what "bag-of-words" to choose. Also I may move the code to Python as it seems that R cannot process huge verctorized data well.
+
+The following plot shows how the data looks like after preprocessing.
+
+![](Rplot.png){width=1000, height=872}
+
+## Results
+
+
+![](output.png)
+Due to a lack of data, the result is extremely biased. This is what I will improve next, to collect more data. Sample output is at the bottom, which shows a predicted probability of debt default given the conference call transcript. It may not seem reasonable now, but as I have more progress on the data, I would expect it the have meaningful result.
+
+## Discussion
+
+For right now, I expect that earning conference call does have implication on financial risks which are hidden from the public. Potentially, I will find out these hidden features by text mining or sophisticated machine learning algorithm. 
+
+
+## Code Appendix
+```{r setup, include=FALSE, echo=F}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(quanteda)
+library(rsample)
+library(randomForest) # basic implementation
+library(rfUtilities)
+#library(reticulate)
+#use_condaenv('base')
+source("helper_functions.R")
+library(pander)
+```
+
+```{r, error=F}
+corporate_meta <- read_csv('meta_data.csv')
+corporate_train <- corporate_meta %>% filter(!is.na(default))
+corporate_txt <- readtext_lite(corporate_meta$file_path)
+corporate_nona_txt <- readtext_lite(corporate_train$file_path)
+
+corporate_corpus <- corpus(corporate_txt)
+docvars(corporate_corpus, 'default') <- corporate_meta$default
+corporate_tokens <- tokens(corporate_corpus, remove_punc= T, remove_symbols = T, include_docvars = T) %>%
+  tokens_remove(stopwords("en"))
+corporate_dfm <- dfm(corporate_tokens) %>%
+  dfm_weight(scheme = "prop")
+
+corporate_nona_corpus <- corpus(corporate_nona_txt)
+docvars(corporate_nona_corpus, 'default') <- corporate_train$default
+corporate_nona_tokens <- tokens(corporate_nona_corpus, remove_punc= T, remove_symbols = T, include_docvars = T) %>%
+  tokens_remove(stopwords("en"))
+corporate_nona_dfm <- dfm(corporate_nona_tokens) %>%
+  dfm_weight(scheme = "prop")
+
+default_dfm <- dfm_subset(corporate_dfm, default == 1)
+ndefault_dfm <- dfm_subset(corporate_dfm, default == 0)
+default_idx <- corporate_train$default == 1
+keyness <- textstat_keyness(corporate_nona_dfm, target = default_idx)
+w <- textmodel_wordscores(corporate_dfm, y=corporate_meta$default)
+```
+Some data visualization
+```{r}
+# Top 100 features
+top_feature <- textstat_frequency(corporate_dfm, 100)
+top_feature$feature <- with(top_feature, reorder(feature, -frequency))
+top100 <- ggplot(top_feature, aes(x = feature, y = frequency)) +
+  geom_point() + theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 10))
+```
+
+```{r, error=F}
+classifier_df <- corporate_dfm %>%
+  convert(to = "data.frame")
+
+classifier_df <- classifier_df[,!duplicated(colnames(classifier_df))]
+classifier_df <- classifier_df %>%
+  mutate(document = str_remove(document, ".txt")) %>%
+  select(document, names(sort(colMeans(.[,-1]), decreasing = TRUE))) %>%
+  rename(text_id = document)
+ 
+classifier_df <- classifier_df %>%
+  dplyr::left_join(select(corporate_meta, text_id, 
+                          default),text_id=text_id) %>% 
+  select(text_id, default, everything()) %>% 
+  as_tibble()
+
+
+train_df <- classifier_df %>% subset(!is.na(default)) %>%
+  column_to_rownames("text_id") %>% data.frame()
+
+test_df <- classifier_df %>% filter(is.na(default)) %>%
+  column_to_rownames("text_id") %>% data.frame()
+
+topfeatures(corporate_dfm)
+topfeatures(default_dfm)
+topfeatures(ndefault_dfm)
+
+```
+
+```{r}
+set.seed(1)
+c_m1 <- randomForest(formula = default ~ .,data = train_df)
+
+pander(c_m1)
+
+pred_c <- predict(c_m1, test_df)
+pred_c
+pred_c %>% data.frame()
+```
+  

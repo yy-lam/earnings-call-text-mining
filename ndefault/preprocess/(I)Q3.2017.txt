@@ -1,0 +1,493 @@
+Yes, let me just talk about the last part first. I mean, we still do believe that we are talking about a timing issue when we talk about growth in Intelsat Epic. We are seeing new contracts, as I noted. There is growth there, but we're not seeing it at the pace that we had anticipated. We believe that the timing will, obviously recover in time. But we're still early in the Intelsat Epic era let's say, in terms of putting this capacity into service. If you think about it, Intelsat 33e, 32e, 35e, have all just gone in service in the last eight months. So we're still in the early part of the ramp.
+
+And as we've talked before, we feel pretty good about Intelsat 29e and where it's ramping. And we feel that we have a delayed ramp on 33e. So again, it's a point of timing, but we do see demand across multiple segments.
+
+In terms of 2018, as usual, we don't address specific 2018 guidance until our fourth quarter call in February. But I -- let me just -- and we're actually very active right now on building our business plan for next year and beyond, so it's a work in progress.
+
+But I can make some general comments. We are, as we noted in the earlier remarks, we are in transition still, and we have noted that it's taking us longer than anticipated to get to a growth profile.
+
+In terms of the business dynamics that we're seeing today that may be in the future, it's important to note, in media, our growth has been as a result of new capacity and new services on a number of specific satellites.
+
+In 2018, we won't have substantial new capacity in media. And we've noted also that on a few North American media renewals in 2018, 2019, there may be a bit of compression, although nowhere near what it was in 2015.
+
+In government, we've noted that new business is generally flattish. Not a lot of new starts there right now. And I noted, just a few minutes ago, about re-competes, which are renewals from the government business that are coming up for renewal after a 5-year period that will probably have some pricing market-to-market reset.
+
+And then in NST, while we're seeing mobility as being a strong part of the business and growing at double digits and Intelsat Epic ramping, it is ramping slower than anticipated, as we've noted. And we still have headwinds across that unit in terms of repricing point-to-point services in other areas that are a little bit challenging at the moment.
+
+So maybe that can give you a little bit of view of where we see the business today and what it may [Indiscernible] for 2018.
+
+Jason Kim
+
+Okay, thanks for that. And then for the C-band spectrum proposal, I know the process is just getting started, but it's been about a month since your announcement. What have you heard, thus far, from various constituents, whether it's the FCC, wireless operators or other player in the C-band in North America in terms of their receptivity for the proposal?
+
+And that at least still a very wide range, but if this proposal or version of this does become a reality, do you have a sense of how long it would take Intelsat to see some tangible financial benefits from the initiatives?
+
+Stephen Spengler
+
+Sure. I mean we're still very early in that process. And because we're in the middle of a NOI process, the FCC is appropriately not commenting at this stage. They had 80 different submissions, a couple of months ago, and then there is another due date for submissions in the middle of November.
+
+So they're gathering a lot of information, a lot of perspectives from a lot of different places. We think we put forward a very creative, pragmatic, market-based solution that can give our customers certainty that their media services will continue well into the future without interference, but also address the real needs of the 5G industry and broadband growth in the U.S.
+
+We have been talking to parties across the broader telecom industry and talking about our proposal and explaining it to them and helping them understand and why we believe this is a win-win across the broader telecom sector.
+
+And so I'm not going to comment on any specific conversation, but we are engaging across the industry. And of course, we're talking to our customers. And first and foremost making sure they understand our motivation for doing this and how it gives them the certainty and surety that they need going forward for their services.
+
+Jason Kim
+
+Thank you.
+
+Stephen Spengler
+
+You’re welcome
+
+Operator
+
+Thank you. And the next question will come from Michael Pace of JPMorgan. Your line is open.
+
+Michael Pace
+
+Hi, just a follow-up on the business from some questions ago. I guess, I just want to be clear, with the slowing of I guess 33e and Epic, in general. Again, I just want to reiterate, you're not losing potential customers to competitive services, it's just that delay is still there. And then, Steve, you mentioned that it's going to take gaining momentum. I'm curious what you think that catalyst can be for the company to gain momentum with Epic.
+
+Stephen Spengler
+
+Sure. You may remember in the last quarter call, I talked about the challenges of growing business on Intelsat 33e as it relates to mobile operators. And it is not a matter of not getting receptivity from them because we are still closing business with mobile operators, but it is a longer sales cycle due to the how they evaluate their business cases across multiple investment options that they have.
+
+So we don't see this a matter -- as a matter of losing business, but a matter of timing, going forward. Intelsat Epic has grown, as we've noted it, with additional contracts over the past quarter. Our backlog is now over $1 billion on the Intelsat Epic satellites. And so we are pretty firm in our belief about this is a timing matter.
+
+In terms of catalysts for going forward, our managed services are important element of it and our package services are an important element. I talked about the Mobile Reach service that we have put together for 2G, 3G and 4G mobile operators, which is a packaged solution that we could believe give these mobile operators a better economic package to expand into remote and rural areas, to expand their reach of their networks in a very economical way, delivering them the service that they need, leveraging solar power capabilities.
+
+That's one step. The IntelsatOne Flex service rides primarily across the Intelsat Epic network, that will also be a catalyst. So as we continue to move capacity to customers, we're also focused on delivering services in different packages and managed service offerings to help catalyze that growth over time.
+
+Michael Pace
+
+And as part of that, does having 37e up and running in early 2018, does that also help you sell globally Epic? Or is it still more of a regional focus? And then, again on the same topic, you said in the past that your goals or targets would be to get to a 40% to 60% utilization rate on Epic within a 3-year-ish period time frame. Does that change given what you've seen over the last 12 to 18 months operating Epic?
+
+Stephen Spengler
+
+No, we're still tracking towards that business case goal that we have. And as I noted earlier, we're still in the very early days on a number of these satellites, and Intelsat 37e doesn't go into service until the first quarter of next year.
+
+Intelsat 37e, in particular, while it does have coverage that's similar to 33e over Africa, it is a large satellite that has a lot of capabilities across the Americas, across Europe, Africa, Middle East for mobility services, across ocean regions and it has an advanced payload that provides full connectivity between C-band, Ku-band and Ka-band, including some Ka-band spot beams that are steerable, that are going to be very interesting for a number of customers.
+
+So it should not be viewed as a duplicate of Intelsat 33e, it has some coverage areas that are comparable, but it has a lot of capabilities that we think over the longer term will be quite attractive, especially for mobility customers and government customers.
+
+Michael Pace
+
+Thanks, just a quick one for Jacques. I guess, we're seeing kind of record low cost line items direct and SG&A. You did take out some bad debt noise, historically. So I'm wondering how sustainable are these levels and is there any bad debt noise in the SG&A number for the third quarter? Thank you.
+
+Jacques Kerrest
+
+Thanks, Michael. I think if you look at our third quarter it's the total of the cost both SG&A and the direct cost. It's pretty similar. Obviously, there are some numbers that went up and down between these two quarters, but I think it's a good run rate going forward. On Q3 -- remember, on Q2, we benefited from a reversal of bad debt. So -- but we had that quarter very high professional fees associated with the M&A activity that we had in the first half of the year.
+
+We didn't have this in the third quarter, and we had normal bad debt expenses in the third quarter. The rest of it we discussed earlier in the previous quarter in terms of staff costs associated with incentive payments going forward.
+
+So I think this quarter is very similar to the second quarter besides the up and down in the items that I just mentioned.
+
+Michael Pace
+
+Thanks, very helpful.
+
+Operator
+
+Thank you. The next question is from Andrew Spinola of Wells Fargo. Your line is open.
+
+Andrew Spinola
+
+Thank you. The guidance for the full year, the bottom end of the range, $2.15 billion, would imply a big ramp from Q3 to Q4 ex the onetime revenue. And I'm just wondering, if you are expecting a sharp ramp like that or if your guidance is just sort of roughly around the $2.15 level. Thanks.
+
+Stephen Spengler
+
+Well, we indicated that we're going to expect to come in at the bottom of our guidance range. We obviously are confident that we have a way to get there, and that's why we reaffirm that today. We have to bring closure to some new business and some renewals over the coming weeks. To get there we have to diligently manage risks and headwinds during the same period. So, that is our best view as we are right now and totally focused on achieving that.
+
+Andrew Spinola
+
+Okay. Steve, I wanted to ask you the discussion about the Flex product and the managed services as being one of the drivers going forward. My understanding is managed services is somewhat of a change for the service providers in the market, that Intelsat takes a little bit more of the responsibility for the service, the service provider loses some of its value-add, etcetera. And I'm wondering, can you elaborate on some of the reasons, that the managed service product hasn't move faster? Is there any pushback from the service providers or any of sort of other issues just beyond longer purchasing cycles and a slow ramp?
+
+Stephen Spengler
+
+Yes, sure. First of all, it's important to remember that about 20% of our revenues today come from managed services at some form. And so what we're talking about here is sort of this next step in managed service, the IntelsatOne Flex, that are specifically designed around the value of Intelsat Epic and what it can do for customers.
+
+We also don't view it as a situation where we are taking value away from our service providers but we're enabling them to deliver more value to end users. In other words, we have what we believe is core expertise in building and managing satellite networking infrastructure. And by leveraging our investments and our infrastructure builds and platforms, we allow our service provider partners to focus on what they're good at especially, which is focusing on the applications that they layer on top of these communication services that they deliver to end customers, focused on the marketing and sales of the services to the end users, focusing on the support and services that they may provide perhaps to an airline or a commercial shipping line and others, and that whole life cycle support.
+
+In terms of where we are on IntelsatOne Flex, the delay is not because of a lack of demand or a lack of orders, the delay is really due to operational matters where we've had challenges with some software implementations from one of our vendors that have been challenging over the last few months that we believe we're coming to the end of right now.
+
+And so, we have customers that are actually operating on the system, but will be going live very shortly as we've resolved these issues. And in fact, in my opening comments, I referenced a large and substantial maritime service provider that will be commencing services in the fourth quarter for the IntelsatOne Flex service.
+
+So there has been a delay, of course in terms of getting those services up and running, and so the ramp has now shifted into 2018. And it's going to ramp over time and so -- but we do believe that this is going to be an important service for us over the long term.
+
+Andrew Spinola
+
+Thank you.
+
+Stephen Spengler
+
+You’re welcome.
+
+Operator
+
+Thank you. The next question is from Anthony Klarman of Deutsche Bank. Your line is open.
+
+Anthony Klarman
+
+Hi, thanks a few questions. First is, Steve I guess, you mentioned Epic backlog. I thought I heard you say Epic backlog of about $1 billion. I don't recall you hearing -- hearing you talk about that type of backlog figure previously. I guess, I was wondering if you could provide some context, maybe just sort of give us a sense as to what that number would have looked like a quarter or two ago, just so we can get a sense as to how we tie up the ramp in Epic backlog with the slower sales lead cycle that you've identified, in particular, on some of the Epic birds?
+
+Stephen Spengler
+
+Yes. You're correct, that is something I don't think we've mentioned before. It is over $1 billion. That backlog will move in two forms. That may move in big chunks when we have high volume customers primarily in the mobility sector, that may take on large commitments. And it may move in small increments, where we may provide services to enterprise network providers and also wireless network operators.
+
+And so, I don't want to really get into the history of how that's ramped over time. We obviously got a strong start at the very beginning, as everybody knows. It has been pretty steady over that time period. And our focus is to continue to build that backlog and solidify that part of our business.
+
+I think it's important to note if you look at the overall volume on our network, our fill factor on our wide beam satellites is -- had been steady at 78% or in that neighborhood for a while. And we've been getting growth in build on our Intelsat Epic platform at the same time. It just hasn't been at that rate that we wanted it to be at, but it is growing to be a more substantial part of our network services backlog, in particular, as we go forward.
+
+Anthony Klarman
+
+Thanks. And then, Jacques I guess, you guys have called out the low end of the range on revenue, but you didn't talk about the range on EBITDA, and I was wondering if that was with intention. And I guess, my question is, given that there's only one quarter left in the guidance, a $30 million range in EBITDA in the guidance obviously implies a very wide range for the fourth quarter.
+
+Could you help, sort of narrow down your views on where you think EBITDA comes in the fourth quarter in the guidance range?
+
+Jacques Kerrest
+
+Well as you could tell, there are some items that can move the needle here in EBITDA. And so that's why we said we were very comfortable with that guidance. We don't want to be more specific. I think we still believe that we'll be in the guidance, but we didn't want to indicate further specificity on that number. So...
+
+Anthony Klarman
+
+Okay. And then maybe, two final questions. First, on the cash flow statement there is an insurance settlement. I think you've previously disclosed filing an insurance claim on a satellite where you had an issue. Is that the full amount that you expect to receive in insurance purposes, or are there any other settlements that you think moved into some future quarters?
+
+Jacques Kerrest
+
+No. I think what we've indicated, and I'm not sure if you referring to the $28 million that we have recovered so far at the end of the September, or the large amount that we had indicated before, which is the $78 million that we were looking for.
+
+Since the end of the quarter we have collected more than $28 million, and we continue to discuss this with the insurers, and we feel comfortable with where our position is. And we'll give more details on this at the end of this quarter when we release our full year.
+
+Anthony Klarman
+
+Great, thanks. And then final question, you've talked a bit about some capital structure priorities. Obviously you've largely spoken for the bond maturity that you have coming up next year. I guess my question was more on the bank debt. And I think you've called out that the bank debt is a priority for you to think about going forward. The first lien market is still a very good market. And I was wondering if you could sort of layout your priorities and maybe a time line along which to think about how you approach refinancing the big bank debt maturity in 2019.
+
+Jacques Kerrest
+
+Yes. It's always a balance managing -- trying to manage the maternity schedule that we have and also the incremental expenses because spread on the term loan which matures in 2019 is 275 basis points. And so, we believe, that our secure leverage, which is less than 3x EBITDA will continue to give us plenty of alternative to refinance this. We look at the markets on a daily basis, and we will act when we feel that it's appropriate for us to refinance and push the maturity of that secure debt.
+
+It's the next maturity, as we indicated before, since we've refinanced the 2019 bonds to 2025. So I think, you may -- we tend to look at things at least a year or 18 months in advance of maturity. So we'll continue to look at the market and move when we think it's appropriate.
+
+Anthony Klarman
+
+Thanks, and then final question for Steve. On the C-band NOI, I guess, I know you said in your commentary, could take years to sort of realize this to whatever conclusion it may come out to. But I guess, could you set a more near-term time frame on when you expect the NOI process to be complete and then how that might transition to an NPRM or sort of what step you think kind of comes after the NOI with some time frame?
+
+Stephen Spengler
+
+Yes. That's very hard to predict, because it's really in the hands of the FCC. The -- as I mentioned the next submission is on the 15th of November, that's when their final comments are due to the NOI. And then, the FCC has to evaluate all of those inputs that have come in and then decide how they're going to move to rule making or not. I think, if history is any guide, this process could take a year or two to go through. The FCC is extremely busy with a lot of different activities at the moment, and so this is not something that can -- will necessarily happen quickly at the FCC.
+
+However, our proposal, as constructed and if it is received well by the FCC and something comes out of the rule-making that is similar to what we believe, the approach that we put together is an approach that, once the FCC makes a decision, we can get to an end result within two years, perhaps. It's something where we would have to work quite quickly in terms of clearing capacity, reaching agreement with operators.
+
+And so that's one of the benefits of our approach is taking a market based approach to it. It could move a lot faster. But that's a proposition that we've made at this stage.
+
+Anthony Klarman
+
+Great. Thank you.
+
+Stephen Spengler
+
+You’re welcome.
+
+Operator
+
+Thank you. The next question comes from Batya Levi of UBS. Your line is open.
+
+Unidentified Analyst
+
+This is Chris [Ph] for Batya. If your proposal were adopted, can you help us think through the impact your current business might face on a go-forward basis? And any restrictions on existing services you might see. And along those lines, as you think about monetizing this spectrum, would you mainly focus on the top cities and how much of your holdings do you anticipate retaining to support ongoing operations? Thanks.
+
+Stephen Spengler
+
+Sure. So our proposal is designed in that we would have a complete ability to serve our customers and what their needs are in terms of media distribution and other services in the United States. So it is not a proposal where we will be sacrificing any revenues or disappointing any customers in terms of our ability to serve them. That's an important element of what we're putting together. And so, that is an absolute priority for us as we go forward.
+
+The second part of the question? I'm sorry.
+
+Unidentified Analyst
+
+As you monetize the spectrum, would you mainly focus on the top cities and how much of your portfolio could you sell?
+
+Stephen Spengler
+
+Oh, sorry. Yes. Well, we think that and our assessment at this stage is that the most urgent and attractive geographic areas for the wireless operators is that -- is in the metropolitan areas. And so our proposal envisions clearing capacity a block of capacity, in the major metropolitan areas where 5G operators need the spectrum most urgently. And so that is what we've put on the table.
+
+In doing so, we would retain our priority and our rights for the capacity. And we would make it available, on a specific-block basis, to the wireless operators under management from Intelsat.
+
+Unidentified Analyst
+
+Okay. Thank you.
+
+Stephen Spengler
+
+You’re welcome.
+
+Operator
+
+Thank you. The next question is from Wilton Fry of Royal Bank of Canada. Your line is open
+
+Wilton Fry
+
+Hi. Just on C-band. Could you give us some color on [Indiscernible] break ranks with the industry. Obviously, you being a signatory to the industry defends C-band historically at the World Radio Conference. And was that decision driven really by a financial opportunity? Was there some acknowledgment that if you didn't use it, it could be taken away from you? I guess, also wrapped up in that question is did you consider the impact you would have on SoftBank? And lastly just [Indiscernible] topic, could you use C-band globally? Thanks.
+
+Stephen Spengler
+
+Okay. So first of all, we have been a vigorous defender of C-band globally. And we still view ourselves as a vigorous defender of C-band globally. We have not broken ranks with the industry. And we believe that co-frequency use of the C-band between wireless and satellite, we still contend and believe firmly that that is not feasible, use of the same frequencies by multiple -- by satellite and by wireless. And so we have not broken ranks at all in that sense.
+
+However, in the United States, it is very clear from over the last few years, from comments by the FCC, by the legislation that's in Congress, that there is extreme focus on the 3.7 to 4.2 spectrum bands. In fact, there's one bill that passed the Senate already that directs the FCC to conduct a study to free up those bands for wireless operators. There's another bill that's in Congress right now that mandates that the FCC clear up those -- that spectrum for wireless operators.
+
+Yesterday, there was a hearing on the House of Commerce Commission -- Committee where all five FCC commissioners were present. And in that hearing, there was specific mention of the 3.7 to 4.2 spectrum band being a target for 5G. So this is where things are developing. And so we made the decision specifically, on behalf of our customers, and on behalf of the services that we're providing, to develop an approach that's proactive, that's creative, that's market-based, that would allow us to preserve our customer services and allow them to operate on an interference-free basis well into the future, which would not be the case under a co-frequency sharing scheme, and also to allow freeing up of a portion of the C-band for wireless operators.
+
+And so we think this is a win-win. That is the motivation for what we're doing. We think that as we -- this is better understood, it'll be appreciated that this is a proactive approach to avoid what could be a very unattractive situation creating risk and interference into our media customers businesses and transmissions. So that's the motivation and where we stand on our position.
+
+Then you asked a question about SoftBank. SoftBank was not involved, whatsoever, in our decision-making here. This is an Intelsat business decision. We have a -- as you know, we have a commercial arrangement with SoftBank, in connection with our OneWeb partnership. And so that is continuing, but we're not engaged with SoftBank on this particular issue.
+
+And so globally, C-band, let me talk about what we view this. We view this as a U.S.-specific situation and a U.S.-specific issue to be addressed, and that is how we're pursuing it. We do not believe this is necessarily applicable, globally, for several reasons. One is that the urgency for this C-band spectrum to be used by 5G is much less around the world. In other words, there is currently plenty of spectrum for wireless operators to expand in 4G and 5G, in general.
+
+Secondly, C-band, in many regions of the world, is extensively used not just by television distribution, but also by core telecom networks across many of these countries. And so it is embedded into the infrastructure, it will be much more difficult to extract. The third thing, just to note, that some of these frequency bands within the broader C-band have already been allocated to wireless in certain countries, and so this is not something that's unprecedented, but it's not so much a factor in other places.
+
+Wilton Fry
+
+Thank you.
+
+Stephen Spengler
+
+You’re welcome.
+
+Operator
+
+Thank you. The next question is from Lance Vitanza of Cowen. Your line is open.
+
+Lance Vitanza
+
+Hi. Thanks for taking the questions. Actually, I'm going to try to get three in. The first, just on Epic, with the revenue ramp taking more time than you expected, the sales cycle being slower, does that mean that, in a perfect world, you would have launched the fleet over a longer period of time from the first to the fifth? Or does some of the revenue ramp depend on having more of the satellites up in place?
+
+Stephen Spengler
+
+We have always viewed the Intelsat Epic investment as an investment in a series of satellites that gives us global coverage and gives us some resiliency between multiple satellites. We think this is what our customers are looking for, especially mobility customers that need a footprint of services on a global basis with multiple layers of capacity. So I don't think we would change our philosophy in terms of how we would build and how we would architect the system.
+
+Obviously, we can't control -- when we make these decisions, several years ago, we can't control the timing of different market dynamics and how the take-up is. It's not necessarily going to be linear. It's -- and so, we're going to continue to see growth in spurts. And other times, it's going to be perhaps slower. But over the long term, we believe we've made the right decision, right investment, and this is exactly what our customers need for growth.
+
+I also want to note that the -- let me just add, Lance, one more thing. The Intelsat Epic satellites are also replacement satellites. And so they're replacing, largely, our 9-series satellites that are reaching the end of life. And so it was an important investment to make from that standpoint as well to give those customers continuity well into the future.
+
+Lance Vitanza
+
+Got it. Okay, so then speaking of mobility, that was my next question, could you put any metrics around that business in terms of annual revenues as a category? How quickly it's growing? I mean, my sense is it now could be your biggest category and certainly your fastest-growing. But if there's anymore specifics that you could provide would be helpful?
+
+Stephen Spengler
+
+Sure. A couple things, perhaps, may be helpful. Mobility, as we've been talking about, has been a strong growth area for the business. And for us, it's been maritime mobility for cruise ships, for commercial shipping as well as superyachts and those sorts of things. And it's been aeronautical mobility for commercial airlines. And we also see opportunity in private business jet, government jets, et cetera. And we've, of course, been serving the U.S. Military as well for manned and unmanned applications.
+
+The next-phase mobility may also be on the land. And what we're doing with Kymeta is specifically focused on land mobility applications, which would be the precursor, eventually, of a connected car application down the road. But in the meantime, we see services we can develop and bring to market with Kymeta for emergency response and other kind of land mobility applications. Mobility is a bit over $200 million annualized. Right now, that's commercial mobility, specifically, excluding government mobility. And year-to-year growth is around 18%. So maybe that gives you some sort of perspective of where we are at the present time.
+
+Lance Vitanza
+
+That's perfect. And just last for me, just to finish -- get on the C-band stuff. You've mentioned a couple of times, I think, you referred to it as having primary status on the 500 megahertz or maybe I'm getting the language wrong. But I'm wondering who else or what other types of people, number of people organizations have access to that band right now? And then, specifically, if you have any reaction or rebuttal to the T-Mobile comments that perhaps we might see on the docket or perhaps it's already on the docket and I've missed it. But if you could comment on that, I'd appreciate it? Thanks.
+
+Stephen Spengler
+
+Yes. We have primary rights to that capacity, and we have had that for decades. We are not the only ones. There is one other U.S. licensed C-band provider, that's SES, but there are also a few other companies that have C-band services over the U.S. In terms of the T-Mobile comments, look, I think you're seeing a diversity of opinions in the NOI response and perhaps publicly since the NOI response.
+
+Every company is looking at it from their own business perspectives. In particular, for a mobile operator, they have particular strategies around their spectrum, and so they're going to approach it from there own particular prospective. And so I don't want to comment specifically, but it's really something for T-Mobile to, perhaps, elaborate on and explain further.
+
+Lance Vitanza
+
+Thank you very much.
+
+Stephen Spengler
+
+You’re welcome.
+
+Operator
+
+Thank you. The next question is from David Phipps of Citi Group. Your line is open.
+
+David Phipps
+
+Hi. Thanks for taking the question. I guess, maybe I’ll try another angle on the sales for Epic. So in the sales for Epic, it's a different product to different people. So are there -- is there a different sales team or a different approach? And maybe you can talk about how you're fostering some of the sales ramp and what you're doing differently in the face of a slower sales ramp?
+
+Stephen Spengler
+
+Well, I mean, it's not -- the Intelsat Epic service and platform was, as we've talked about before, designed to help stimulate growth in new sectors and new markets, but it's also important for our current customers. We've talked about, just a minute ago, about how it has been a platform for transition of services from our 9-series satellites to the future. And so, we have seen our established customer base of service providers and distribution partners utilize Intelsat Epic and grow on Intelsat Epic and expand their services on Intelsat Epic.
+
+It is a bit different architecturally. And so we have a team of solutions engineers that work with our sales force, work with our customers, and engage very closely on optimizing the design of their network requirements around this high-throughput spot beam environment. And so we've focused teams around these efforts to work in that direction. So it's something, as I said, we think is going to ramp over time.
+
+You asked about what are the things that can catalyze this. I've touched upon some of them already. We think that in addition to capacity sales, for a number of customers, it's important to have packaged solutions, and it could be a packaged solution where we help mobile operators expand into remote and rural areas with our Mobile Reach service. It could be the work we're doing with Kymeta and their KALO service to allow the utilization of Intelsat Epic services for land mobile solutions.
+
+And I'll give you an example of that, if I could, in just one second. And there could be the IntelsatOne Flex service that helps both enterprise customers and mobility customers expand and build on the Intelsat Epic system globally in a much more simple and unified way. But maybe I could just illustrate one thing, David. And the example is Puerto Rico. In Puerto Rico right now, we're responding to their -- the dire needs that they have down there, in partnership with Kymeta, in partnership with Liberty. And it's an example of how we're leveraging the Intelsat Epic power and performance and reducing our Intelsat Epic satellite and our ground network and platforms that are teleports in the U.S. to provide a service into Puerto Rico to Liberty.
+
+And what they're doing is they have several SUVs equipped with electronically steerable flat-panel Kymeta antenna and a Wi-Fi system, and then taking these SUVs around Puerto Rico for support of communities that have been disconnected to support FEMA as they help individuals make claims and other kinds of services. That is a relief effort, an emergency response effort, but it's -- it illustrates what we can do in providing services over Intelsat Epic, a mobility solution, leveraging this new antenna technology and really making a difference as well in that kind of application.
+
+David Phipps
+
+So a couple of things. I've got a couple of incoming messages while the call has been going on. So one is, I guess, people are looking for more color as to why someone would choose to terminate when you get a good service, so that on the not-so-constructive side. And on the positive side, could you talk a little bit about the maritime ramp and how you think that rolls out and maybe give us some context on size, timing, or Middle East, what the area is targeting?
+
+Stephen Spengler
+
+Just on the termination, I presume you're talking about the media customer.
+
+David Phipps
+
+Yes. The media customer. Yes.
+
+Stephen Spengler
+
+Yes, just to be clear. That customer did not terminate. They terminated a particular service. And so, we are still a major provider to that particular customer across a very large geographic region, and [Indiscernible] as a major. We are the distribution for that customer, period, across the geographic region, and that will continue into the future. What we were doing is supporting them to enhance a particular service through some terrestrial managed services that we're providing, and they decided to partially terminate, obviously, a portion of that service at this point in time rather than going forward. So it is not a lost customer, we are still providing both satellite and terrestrial service to that customer, but it was partially terminated. And your second question was maritime ramp, was it specifically about ramping maritime?
+
+David Phipps
+
+Yes. So talk about the maritime ramp and what the opportunity set is there?
+
+Stephen Spengler
+
+Sure. Maritime, the big opportunities in maritime are commercial shipping and cruise, with an emerging growth in smaller vessels over time, as the Intelsat Epic and the antenna solutions improve and are able to be delivered. So in the cruise sector, there is a lot of growth. It's a position where Intelsat is very active. Statistically there's about 250 large cruise ships in operations today. Intelsat provides services to about 90% -- sorry, 87% of them. And so it's something where we're very active with service provider partners in providing those services.
+
+What we have seen is that the cruise companies are needing more and more bandwidth to the ships. Their customers are bringing more and more devices on board. The average family brings 10 devices now as opposed to two just a few years ago, and so there's a lot of demand and growth in that sector, and we're very active there. The commercial maritime businesses are places where we're enabling service providers in that sector to deliver broadband VSAT services to ships. They could be container ships. They could be tankers or other kind of commercial vehicles -- vessels.
+
+And so it's an opportunity to really deliver broadband that hasn't been traditionally available on a global basis. And we're seeing steady growth in that sector as well, and we have the strongest service providers working with us.
+
+David Phipps
+
+Thank you for that clarity. That’s all my questions.
+
+Stephen Spengler
+
+You’re welcome.
+
+Operator
+
+Thank you. The next question is from Arun Seshadri of Credit Suisse. Your line is open.
+
+Arun Seshadri
+
+Hi. Thanks for squeezing me in. Just a couple of questions for me. First, on the C-band, do you think it's more likely that SES and other satellite providers that are key here? Will they join the consortium now? Or do you think it's more likely that the FCC says -- sort of blesses the idea and then your satellite can progress, join afterwards?
+
+Stephen Spengler
+
+I really can't speak for SES. Obviously, they must be making their own evaluation of what their strategy is and how they would approach this. So I think, as I said earlier, we're still in early days in the formation of this and so the timing of different aspects of it, I'd rather not predict because it's kind of unknown. But it will be an evolving process, certainly. Anything related to this, typically, is an evolving process, and we'll see how it plays out in the months ahead.
+
+Arun Seshadri
+
+Okay, fair enough. And then as far as on the -- for 2018 on some of the questions that were presented earlier. How should we think about the base of business in media and in government that comes up for renewal next year? And if you could just remind us, especially in the government side. And then, what type of price decrements that you're likely to see? Is it likely to be somewhat similar to what you've seen in network services or less?
+
+Stephen Spengler
+
+Yes. We're still working through our 2018 business plan and budget. So, I probably can't get too specific on this because we're still trying to understand this. But we do know that there's going to be a number of services that come up for what are called re-competes in the government sector, it considering the renewal. And it's after five years of service, so we know that in those particular cases, that those renewals, and we expect those services to be renewed by the customers, we’ll need to be reset in price when we do that.
+
+So there will be competitive situations. The government operates for these kinds of services under an LPTA, low priced technically acceptable basis. And so there will be some competition there. And we're, obviously, well-positioned as a leading supplier in that sector and intend to do everything possible to retain all that business as we can.
+
+In media, we're really talking about volume. We don't see significant price pressure in media. Overall, our media neighborhoods hold up in pricing pretty well. It doesn't mean that there aren't competitive deals in different places from time to time, but it's more a volume-based business as opposed to price at the moment.
+
+Arun Seshadri
+
+Great. Last question for me, potentially, for Jacques here. Just wanted to think about beyond the bank debt, when you look at the capital structure, Jacques, and you think about bonds versus bank debt, how dependent on, I guess, the Luxembourg maturities are the refinancing of the VSATs in 2020 and 2021?
+
+Jacques Kerrest
+
+Thank you, Arun. It's a good question. But let me just take this to go down a little bit to capital structure. I talked earlier about the bank debt, and as I said, we're benefiting from a low spread, obviously, and we're carefully watching the market and we'll act when we think that the market is appropriate. I also talked briefly about the 2019, and the question when we refinanced the 2019 was why didn't you touch the 2020 and it's little bit tied to your question.
+
+The answer is because the 2020 is maturing in October 2020, which meant there was 18 months after the 2019. And we have obviously time to look at this, and we didn't want to move everything at the same time. It didn't make any sense for us because, as I said before, it's a balance between the maturity schedule and, obviously, what you want to do in terms of the incremental expenses.
+
+Now there's also questions that came about the 2024 which is trading at roughly, I didn't look this morning, but yesterday it was trading roughly at the yield of 5%. The call on that one is February 2019, so I think we have time to consider this one. And that brings me to the 2021, which is, as you know, a few years from now. I think we have time to consider this. We have to go one at a time because, as you know, sometimes some covenants are put into some of these debt and we need to make sure that we manage the whole maturity schedule as opposed to just one. But we will consider this when it's appropriate. And if the market continues to be good and fair, we will, obviously, act appropriately.
+
+Arun Seshadri
+
+Okay. Thank you for the thoughts.
+
+Operator
+
+Thank you. The next question is from Matt Dratch [ph] of Millennium. Your line is open.
+
+Unidentified Analyst
+
+Hi, guys. All mines have been answered. Thanks a lot.
+
+Operator
+
+Thank you. The next question is from Laurie Davison of Deutsche Bank London. Your line is open.
+
+Laurie Davison
+
+Hi. Just two quick questions. On the immediate termination, did you say that was from the customer going OTT or was it for a different reason, the partial cut? Second question is just you just mentioned some upcoming pressure on the '18 and '19, major renewals. Can you add some detail here?
+
+Stephen Spengler
+
+Sure. The termination had nothing to do with OTT. The termination was for terrestrial managed services, and customer made the decision to go on a different direction on how they wanted to implement that part of their network. It's that simple. And again, to reiterate, it was a partial termination, and we still retain all of the distribution responsibilities for that customer across a particular region.
+
+Yes, media renewal in 2018 and 2019. We have talked in the past, and you've seen in the past, where we've had -- what we're just generally calling compression of distribution in our North American cable distribution neighborhood where customers are utilizing new technologies, perhaps moving from MPEG-2 to MPEG-4, perhaps distributing in one particular format as opposed to multiple. This is something that we experienced back in 2015. We see a couple of renewals coming up in 2018 and 2019 where these customers -- where other customers may do the same. But the point that I made earlier is that we do not expect that this cycle of renewals will result in the same type of impact that we saw in 2015.
+
+Laurie Davison
+
+Okay. That’s great. Thanks.
+
+Operator
+
+Thank you. The next question is from Giles Thorne of Jefferies. Your line is open.
+
+Giles Thorne
+
+Thanks. I had three questions, please, all on C-band. The first one is the history of reassigning satellite spectrum for terrestrial uses [Indiscernible] in 10 years into that plan and one bankruptcy data and still waiting. And here in Europe, we've got ViaSat trying [Indiscernible] Inmarsat's works around using the X-band on the ground. So could you summarize exactly why you think, in a few sentences, you will be able to align all of the various stakeholders to deliver a new market-based provision?
+
+And secondly, of the various rebukes that have been thrown at your plan, there's a fundamental contention that you don't actually own this spectrum, and therefore, you don't have the right to monetize it in any other application other than what it was purposed for. I'll be interested to hear your response to that challenge. And then, finally, in proactively putting this plan forward, is there any implicit statement here about the future of cable head-end distribution entering sector [ph] decline in the U.S.?
+
+Stephen Spengler
+
+So Giles, thanks for your questions. Let me start with the last one, first, and come back to that. There is no implicit statement being made about the future of cable distribution in the U.S. We still see this as being a very important part of our customer's distribution of their content across the U.S. There is roughly 5,000 head-ends still being served. Customers -- we're engaged with customers in renewing their services into the next decade. We just noted a long-term renewal for Trinity Broadcasting in this quarter's results.
+
+And so, we expect that this will be a distribution neighborhood for us for the foreseeable future. So our objective in this was to make sure that, as we're serving these customers and for as long as we're serving these customers, that we're able to do so in a way that is interference-free, that allows them to continue to distribute their services, that allows them to continue to grow channels or expand into 5 -- 4K, if they choose to and be able to continue to enjoy what they're doing right now, and obviously, for us to retain our revenues.
+
+Back to your first point, which is aligning stakeholders, so I think, is what you were asking. Look, I think what we put together is a creative approach to a vexing problem and a vexing challenge for the FCC. We thought -- we are thinking very pragmatically that it's important that a creative solution is put forward now that addresses these needs. I think it's different than other situations that you referred to in the sense that we are providing services actively right now in these bands. And so while there may be precedent for these kinds of dual-use arrangements, what we are providing here is a joint use across multiple operators.
+
+I think the other unique aspect is that 90% of the services today are from two operators, and so that doesn't mean that there are others that are in the North American market, but we think that, potentially, it could be easier to implement given that reality. To your second point about the spectrum, we've been allocated the spectrum and have had rights to the spectrum for many decades now. We've been providing services to media companies and other customers over that period of time.
+
+We are not selling the spectrum. We are making arrangements for joint use of the spectrum. And so, ultimately, if we are able to do this, it's going to be determined by the FCC. If they find that this is a market-based way, a creative way to make these services happen quicker, then maybe it will be accepted and maybe they would value it. It's important to note that we've made billions of dollars of investment in this orbital ark and provided services to companies that are distributing content across millions of American households.
+
+For us to make this happen, it is not trivial. We think it is a complex effort to make this arrangement to free up this spectrum so we can have this joint use. It will cost us money. We may have to relocate our stations. We certainly will have to put equipment into our stations. We may have to design new satellites that can be more adept at this kind of joint-use arrangement. So we will have to make some sizable investments to make this happen. And as a result, we feel that it is right that we should have some sort of compensation as a result of that.
+
+Giles Thorne
+
+Stephen, if I could just pick up on that last point. If we look at precedent around the coop agreement within [Indiscernible]. There's was two phases to it. There was a re-banding phase in which [Indiscernible] got compensation. And then there was the lease, the phase 2 lease. I can clearly understand the logic that you would have to be compensated for any investment you've made to clear the spectrum. But will your -- do you envisage your revenue opportunity extending to a lease of the capacity that you've -- sorry, a lease of the spectrum that you've vacated?
+
+Stephen Spengler
+
+Giles, I think it's too early to talk about specific models. I mean, this is only -- we're only a few weeks into this, and we're just in the NOI phase of the process. I think we will -- as time goes on, if this gains some receptivity within the FCC, we'll have plenty of time to engage with others in our sector and also the wireless industry to talk about how this can be done and how the financial arrangements can be done. And again, ultimately, it's going to be decided by the FCC through a rule-making process to determine the methodology and how it would happen.
+
+Giles Thorne
+
+Thank you very much.
+
+Stephen Spengler
+
+Okay. You’re welcome.
+
+Operator
+
+Thank you. And we have time for one more question. The last question will come from Andrew Spinola of Wells Fargo. Your line is open.
+
+Andrew Spinola
+
+Thank. Steve, I just wanted to follow up on that last point. It's obviously up to the FCC, but could you help us understand what you view as your legal defenses to your spectrum, given the different sort of proposals that have been put forth? I think, earlier in this call, you said specifically you're not comfortable with the co-frequency solution, which I assume, and correct me if I'm wrong, means providing co-primary to either mobile or wireless or maybe a secondary designation.
+
+And I'm just wondering, specifically on that, but maybe more in general, how do you view your legal rights vis-à-vis the FCC's ability to do a co-frequency solution or some of these other solutions without compensating you?
+
+Stephen Spengler
+
+So, let me just clarify what I mean by co-frequency. A co-frequency solution, which is what has been suggested up to this point for sharing, we believe is not feasible. What that means is that you would basically, over the same spectrum, in the same geographic areas, both wireless and satellite would use it together. That is very complicated. We think that it's frothed with all kinds of issues. We think that, that would create interference issues for our customers and be extremely difficult to implement.
+
+What we're saying is an approach that's different. It's saying that we can have joint use of the broader 500 megahertz that we, at our expense, would work with our customers to clear a portion of that 500 megahertz, a block that can be cleared completely in certain geographic areas after discussions with wireless operators and what they may need, and make that capacity available to them where they can enjoy interference-free transmissions and our customers can retain interference-free transmissions in another portion of that wider 500 megahertz band.
+
+So it is a very different arrangement. Regarding the legal points you made. We believe we have legal arguments to defend our position if the FCC went with co-frequency, but I think we don't want to enumerate on those right at the moment. But it's something that we would be vigorously engaged in if that's the decision that they make for the defense of our customers' businesses -- customers' services and our business as well.
+
+Andrew Spinola
+
+Thank you very much.
+
+Stephen Spengler
+
+You’re welcome.
+
+Operator
+
+Thank you. I would now like to turn the call back over to Mr. Spengler for closing remarks.
+
+Stephen Spengler
+
+Thanks, everybody, for joining our call today. As we move forward in the fourth quarter, we're focusing on closing new business, accelerating the commercialization and adoption of Intelsat Epic and scaling our managed service offerings and enhancing the value that we deliver to all of our stakeholders. So thanks again for your questions today, and thanks for joining our call.

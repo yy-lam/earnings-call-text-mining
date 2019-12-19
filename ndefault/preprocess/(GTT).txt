@@ -1,0 +1,271 @@
+I want to welcome Mike Sicoli, our new Chief Financial Officer, who recently joined GTT to lead our finance team. Many of you already know Mike through his years in the communication industry. He is a high caliber executive, and we look forward to his contributions to executing our growth and capital market strategies.
+
+Our first quarter 2015 performance was strong, as we delivered another quarter of revenue and adjusted EBITDA growth. Revenue increased 31% from last year, driven largely by UNSi which we acquired in October. We also delivered organic growth in the quarter with revenue increasing 1.2% sequentially on a constant currency basis or just under 5% on an annualized basis. We recorded strong new sales and installs in the quarter and our churn rates were in the mid-1% range. Our revenue growth in the quarter was below our annualized 8% to 10% goal though we see excellent growth prospects for our combined business going forward, so we still expect to be in the 8% to 10% range for the full year.
+
+Gross margin in the quarter continued to expand nicely, another 250 basis points year-over-year as we integrated UNSi, achieved further core network efficiencies, and continue to sell and install new services with gross margins in the 60% range. This increase in operating leverage helped us drive adjusted EBITDA up by 32% from last year, and 10% from last quarter. Our integration of UNSi was completed in the fourth quarter and we saw additional benefits of these cost synergies reflected in first quarter reported results. UNSi was highly strategic to GTT and the answering to our valued proposition to multinational clients by expanding our portfolio of cloud networking services, and I'm pleased to report that we can now add UNSi to the long list of successful acquisitions by GTT at 5X to 6X or better on a multiple prosynergy EBITDA.
+
+Our valued proposition and growth opportunity are even further strengthened by completing the acquisition of the MegaPath managed services business which provides private wide area networking, internet access services, managed services and lend security to over 500 large multinational clients. This was a significant strategic scaling move for GTT. As we disclosed previously, in 2014 MegaPath generated recurring revenue of approximately $124 million and adjusted EBITDA of approximately $20 million. Integration is well underway and we announced our organizational plan this week. On March 31, GTT had approximately 300 full time equivalent employees and once the MegaPath organizational integration is completed this quarter, we will have approximately 500 employees. We expect the system and networks integration to be completed within the second and third quarters of 2015 and we expect to realize the full financial benefits by the fourth quarter of 2015.
+
+With MegaPath, as with all of our previous M&A activity, we hear to our proven template and therefore expect to deliver a post synergy EBITDA multiple of 5X to 6X or better. As we have discussed on our last call MegaPath is a terrific strategic win for us. It expands our network connectivity and client rooster leverages the broadband data offering acquired through UNSi, further expands our cloud networking services and managed services, particularly in multi-tiered managed security services and give us an experienced sales, client service engineering, and operations team. Therefore it offers very strong potential for cross sell revenue opportunities by expanding internationally with multinational clients, particularly those with high capacities offering our broaden suite of cloud services across our entire client portfolio and strengthening our competitive positioning in certain industry verticals. The retail segment is a good example of this; now that GTT is one of the larger PCI compliant backbones in the world we can offer connectivity, Wi-Fi, and higher capacity solutions that provide additional layers of security at the point of sale to our retail customers who need ever increasing bandwidth.
+
+Finally, the economics to the MegaPath model are strong with growth margins that run higher than our historical company average because of its greater concentration in managed services. As you know, a central element of our growth strategy is to expand our gross margin in part by increasing our revenue contribution derived from managed services which carry higher margins, and this was an important lead forward in this direction. Mike will discuss the financing of MegaPath in his prepared remarks, and I'd like to extend our thanks to our lenders who have continued to work with and support our debt financing needs as we have grown.
+
+In all, we are off to a great start in 2015, our growth strategy execution is working and the elements of our strategy remain the same, to expand cloud networking services to multinational clients, to extend ubiquitous network connectivity to any location in the world and with any application in the cloud, and can deliver outstanding client experience by living our core values of simplicity, speed and agility. We will execute our growth strategy organically and through selective acquisitions.
+
+In terms of organic growth, our sales force now combined with MegaPath numbers approximately 80 core team members. Investing in organic growth means investing in our sales team and our objective assuming continued performance is to approach the 100 by year end. With a higher concentration and growth potential with both existing and new clients in managed services which require more customer premise equipment to properly service, we are now expecting our CapEx to be slightly as a percent of revenue going forward, likely in the range of 4% to 5% of revenue compared to the 3% we have targeted in the past. Still, our business model will remain CapEx wide [ph] as we drive increasing returns and cash flow to extending EBITDA margins and revenue growth.
+
+On the acquisition front, we will continue to identify small transactions that allow us to add products, customer bases or network locations in under penetrated segments or geographies that support additional growth with our strong valued proposition. We will also continue to look for larger strategic acquisitions that further scale our business and increase our global competitive position with a strong pipeline of excellent targets. With MegaPath we are nearing our previously stated financial objective of $400 million in revenue and $100 million in adjusted EBITDA, with increasing credibility from larger scale, a unique value proposition serving multinationals, and a proving growth strategy, we are very well positioned for continued growth.
+
+Now I will turn the call over to Mike Sicoli for review of the financials.
+
+Mike Sicoli
+
+Thanks, Rick, and good morning everyone. I'm very happy to be joining the GTT team in such an exciting time for the company with tremendous opportunities for both organic and strategic growth ahead. I look forward to getting out on the road in the coming weeks and months and talking with many of you who are on the call today.
+
+Let's start with the income statement. Revenue of $62.4 million grew 31% year-over-year compared to $47.5 million in the first quarter of 2014, and decreased to 0.5% from $62.7 million in fourth quarter 2014. The year-over-year increase was driven primarily by the acquisition of UNSi, and the sequential decrease was due to foreign currency translation. In constant dollars, Q1 revenue actually grew by 1.2% compared to Q4.
+
+Gross margin of 39.5% increased to 250 basis points from first quarter 2014 and 150 basis points from fourth quarter 2014, as GTT completed the integration of the UNSi network and continued to install higher margin services. We expect gross margin to move higher this year driven by MegaPath higher margins, and as we continue to sell and install higher margins services.
+
+SG&A excluding non-cash stock was 21.7% as a percent of revenue which was higher than the year ago figure of 19.3% but slightly below fourth quarter 21.8%. The increase from a year ago resulted primarily from the acquisition of UNSi, while the slight sequential decrease is the result of realization of synergies from UNSi partially offset by seasonal increases in payroll taxes and year end audit fees. Based on all these factors, adjusted EBITDA of $11.1 million grew 32% compared to $8.4 million in the first quarter of 2014, and 10% compared to fourth quarter of 2014.
+
+The currency impact to adjusted EBITDA was nominal as our cost to nominations offer a natural hinge. While weaker foreign currencies lower our revenue, they also lower our cost of revenue and SG&A expenses. Unleveraged free cash flow defined as adjusted EBITDA less CapEx was $7.7 million in Q1 compared to $6.7 million in Q1 last year, and $7.4 million in Q4. Capital expenditures in the quarter were $3.4 million or 5.5% of revenue driven by equipment upgrades in our core IT network.
+
+As Rick mentioned, CapEx going forward is now expected to be in the 4% to 5% of revenue range on an annual basis, higher than our previous 3% target due to equipment purchases necessary to support our managed services business.
+
+Let's move to the balance sheet. As of March 31, our cash balance was $52.1 million and our outstanding debt balance was $122.3 million. As Rick mentioned earlier, on April 1, we closed the acquisition of the MegaPath managed services business for $152.3 million, at closing we paid $134.8 million in cash and the assumption of capital leases, as well as approximately 611,000 shares of our common stock valued at $7.5 million. We'll pay the remaining $10 million in purchase price on the first anniversary of closing subject to certain reduction, including any indemnification claims.
+
+For the cash portion of the consideration, we used cash on-hand of $28.2 million and raised the balance through an amendment to our credit agreement which increased the size of the term loan, the revolving credit facility and the uncommitted incremental credit facility. We also extended the credit agreements maturity to five-years from the closing of the amendment and all other terms remain substantially the same.
+
+Our debt structure today is a $230 million term loan, $25 million revolving credit facility which is currently undrawn, and $50 million uncommitted incremental credit facility. On a pro forma basis for MegaPath and the amended credit agreement including expected cost syngergies, our leverage ratio as of first quarter 2015 would have been just above 3X, well within our target range of 3X to 4X. Our first quarter results show that we're executing very well on our proven growth strategy, and I think we're well positioned to continue to deliver solid performance in 2015.
+
+With that I'll turn the call back over to the operator who will take your questions. Operator?
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And we'll move first to James Breen with William Blair.
+
+James Breen
+
+Thanks for taking the question, just a couple, one on the growth rate. Rick, you talked about getting a little bit under 5% year-over-year, do you see - when you close a transaction, do you see any attrition or revenue - is there certain percentage of revenue in the transaction that you just let turn off because it's not core? And then secondly, with synergies around UNSi, are we sort of fully through that at this point? And then, as MegaPath close on April, how do you see those synergies breaking out from a timeline perspective, should we realize the full effect of that by the third quarter? Thanks.
+
+Rick Calder
+
+Green, thank you very much for the question, I'll take them in order. The first one in terms of the integration - at times it was reported on the call that we have seen some non-strategic revenue, we did see a little bit of that with UNSi but not significant, and I would say in the first quarter as we take a business that effectively was reasonably flat despite shrinking the UNSi base, we are going to integrate it and we see as we mention on the call, the ability to continue to grow at our aggregate growth rates in total with UNSi at 8% to 10%. It's a little bit slower in the fourth quarter net installs which contributed to slightly lower than our overall growth on a constant currency basis of just under 5% but we see a tremendous backlog in our business and as we enter into the first quarter, some really great sales results, very nice, very positive net installed backlog and the ability to grow the combined business at a very nice rate moving forward. So we do expect the full year to widen that 8% to 10% organic growth rate.
+
+Same thing I would say - let me help you with UNSi last on the MegaPath side, same thing there, we usually thoroughly indications are that very high quality revenue streams, fantastic client base, has historically been a fast grower but again with the integration of this business we expect that we can actually grow the aggregate business overall at the 8% to 10% rate. We have seen some good early signs from that, we are - to your third question, well along in the integration, we've announced all of the organizational integration, we have one go to market consolidation organization at this stage, so we have taken some of those SG&A synergies. We still expect that it would be a step function and we would realize some of the synergies in the second quarter, we would realize some of the synergies in the third quarter, more on the third quarter and that all of them will be baked in by the fourth quarter of this year. So we see a nice starred step of synergy on top of the base, $20 million and annualized EBITDA contribution that we saw, so we would do expect some in second quarter, some in third, and the fourth quarter.
+
+And then to your second question about UNSi, similarly there, we saw a nice - some synergy in the third quarter - fourth quarter, excuse me, we saw more this quarter in that $11.1 million that we reported. The full effect was not there, we're looking for some incremental in the second quarter as well, overlaid on top with MegaPath, so all of them will be baked in as we said in that 5X to 6X or better range by the second quarter, this current quarter.
+
+James Breen
+
+Great, thank you very much.
+
+Rick Calder
+
+Thank you.
+
+Operator
+
+We will now take a question from Scott Goldman with Jefferies.
+
+Scott Goldman
+
+Good morning, guys. I guess two - one a quick follow-up on that last one, Rick you committed to the 8% to 10% organic growth on sort of fully ordered base, that you have now. I'm wondering if maybe you can help us think about the acceleration from here in net growth, is it coming predominantly out of the legacy business, are seeing good cross selling and the benefit that you expected out of the UNSi, and how quickly you can ramp up sort of the cross selling on the MegaPath side? And then, secondly we'd love to hear your thoughts just in terms of the pipeline of M&A deals, how comfortable you are with what you see out there and particularly, maybe some commentary, maybe even from Mike I think has some background in this area, around the recent five-year deals that we've seen in the marketplace and the valuations we are seeing there. Thanks.
+
+Rick Calder
+
+So I'll take the question on the growth, I'll ask Chris McKee, who is with us to comment on the pipeline and then Mike to comment on M&A as well. The growth, yes, we see the ability to take on consolidated on a pro forma basis, roughly $375 million for our business with the consolidation of our core process, $124 million or current revenue from MegaPath, and being able to grow that on consolidated basis at the 8% to 10% range. And we see that in a number of different ways, we see some tremendous progress with the original GTT business and our valued proposition of selling to multinational clients or broad historic [ph] portfolio, cloud networking services in all of the new account, both from the UNSi acquisition and the MegaPath acquisitions, we see opportunity in two - and really three significant areas, the first one is simply with higher capacity services, I mean one of the larger internet and IT backbones in the world, and we have particular expertise in selling high capacity, 100 Megabits, 500 Megabits, Gigabits, 10 Gigabits speed connections and historically was not the strength of either UNSi or MegaPath.
+
+So we have a significant portfolio of higher capacity services that we can actually now sell to these clients. Likewise, they had historically been very focused domestically in the United States, we've run a worldwide global platform and we see tremendous upsale opportunities to sell to the retail branch locations of many of these brands that are now trusted partners of ours, to grow them internationally. Likewise, we have seen the ability to reach - now that we have a very ubiquitous domestic broadband platform to be able to deliver our clients in retail office locations for the existing historic GTT base. So we have seen some really nice opportunities to sell to smaller office locations, and part of their broad cloud network. And I would say the last trend that we're very excited about is the increase in demand at retail levels that I talked about on my prepared remarks of clients who continue the need to upgrade security offerings to comply with the evolving PCI data security standards, now 3.1, 3.2; and so we see increasing demand on bandwidth and managed services in all of our retail clients.
+
+And clearly as we continue to expand managed Wi-Fi solution, get access more sophisticated mobile client sales solutions for retailers, the demand on the high sizes is growing as well. So we see nice upgrade opportunity, the pure bandwidth demand of our clients increase. So across all of that we feel very bullish about our ability to grow at 8% to 10%. I'll let Chris who can selective acquisitions as part of our strategy talk about that [ph].
+
+Chris McKee
+
+Yes, I think your question about sort of what we see in the fall, what we see is opportunity; we connect to take it going forward. And I think probably we're happy with sort of the size of fall, I would say as compared with probably a year or two there are more opportunities sort of in the overall follow-on more that we are in some form of looking at and putting them under consideration, so I think we see Mike will speak directly to sort of what's going in the fiber industry and sort of the consolidation trends you see there. We see that in sort of our target environments as well, which is a number of very good target, no sign of dwindling number and that I would say - again, what happened to the total number and size of the potential targets that we look at continues to increase and we feel very bullish about our ability to - as Rick said, to refine selective acquisitions to accelerate our growth.
+
+Mike Sicoli
+
+And I'll take the question on the fiber industry. I see the recent moves as a very strong signal in the expected growth of bandwidth demand and crowded options. Our model is little bit different being CapEx wise, but we're focused on and benefit from the same trends. When you look at our free cash flow as a percent or revenue, it compares nicely to those more CapEx intensive businesses and I think it's a result of those key trends that are going at the end user level. So I think it's good for everyone in this sector.
+
+Scott Goldman
+
+Great, I appreciate you guys taking the questions.
+
+Rick Calder
+
+Thank you.
+
+Operator
+
+We'll now take a question from Michael Bowen with Pacific Crest.
+
+Michael Bowen
+
+Thank you very much for taking the questions, welcome [ph] Mike. A couple if I may, I just want to clarify on the 8% to 10% organic revenue growth, I'm assuming that's on a constant currency basis and then depending upon your answer does that - do you have any thoughts on what's your overall FX impact maybe for 2015? And then with regard to CapEx, can you give us a little bit of insight into what type of CapEx will be added to support the managed services business, as to embark upon that this year? And then lastly on MegaPath having better gross margins than - in particularly than UNSi, and I think better than your legacy business, can you help us kind of decide how you are thinking about the sequential gross margin increase for the overall business in 2015? Thanks.
+
+Rick Calder
+
+I will take the first two and then Mike take further, the constant currency basis and the gross margins sort of, with mix. On the 8% to 10%, yes, that will be constant currency basis moving forward to - depending on the fluctuations in the euro and the pound, we would have - but we would expect on a constant currency basis to be able to move at 8% to 10% moving forward. So I think we are at little - 52 on the pound and 13 on the euro for average rates during 1Q depending on where they go. On a normalized basis that will have impacted a little bit, we're not sure, I'll let Mike comment on the full year regarding where we see it.
+
+On CapEx, the beauty of our model is, almost all of our CapEx is success based and so that the growth, the CapEx that we saw in the core this quarter is purely driven by traffic growth on the quarter, we have a next generational core, and we just continue to put in put forward as we grow to accommodate traffic. So that generally tends to be success based, and it's historically run as we mentioned around 3% of revenue. The managed service business which we believe is a fantastic addition to our current net '14 portfolio, again it's success based, it's the degree see that - result managed services that require managed routers, managed firewalls, concentrators to provide secure transaction layer service, access to customer applications, again success based concentrators; all of that CapEx we'd expect to be success based moving forward and will generate very high recurring long term contract and MRR contract revenue.
+
+And so, we simply see an opportunity post MegaPath to continue to accelerate - let's say on managed service portfolio, it will represent a higher portion of our business, and as a function of that we're updating and upgrading our guidance just slightly to 4% or 5% given the grade of portfolio of opportunities we see to sell managed services to existing and new clients. With that said, I'll turn it over to Mike for constant currency basis and the trend we see for gross margins.
+
+Mike Sicoli
+
+So from our currency standpoint I would say two things, one is, as we move ahead and there is more UNSi in the base and now layering our MegaPath were much higher indexed to the U.S. than we were historically. So the topline impact as a percent of the total will decline just by virtue of the mix of what we've added. Rick mentioned, that it was just over $1 million of impact from Q4 to Q1, it's a pretty big move and rates from Q4 to Q1, I don't know that I would expect that level to continue throughout the whole year but that probably still a little bit unfavorable in Q2 relative to Q1 because we exited Q1 at a pretty low level. And then it feels pretty stable at this point as we lookout through the rest of the year. The year-over-year comparisons will still be quite favorable due to the higher rates last year but I wouldn't expect it to be any more than what we saw in Q1 in any given quarter.
+
+Regarding the gross margin question, I think what we said before is that the managed service business has a higher gross margin than the GTT legacy business, and so you will see a pro forma gross margin higher than what we've reported historically. I don't think we provided specifics around that and so I'm not able to do that today, but it will be higher and further I would say that the new services that we're selling on both sides are even higher gross margin than what the pro forma based number will be. So we would expect that whatever gross margin we report out in Q2 that will continue to march higher overtime for two reasons; one, because the new revenue is at higher gross margin, but two, we continue to take cost out of the core network and some of the other parts of the business.
+
+Rick mentioned earlier, for example, virtually all of the synergies that we get out of these deals come in the first two quarters but there are longer tail items like product consolidation and rate consolidation and optimization that can hit either one to two years out into the future depending on how long it takes to identify the savings and execute them. So we definitely feel that gross margin will improve overtime, even after we're layering MegaPath.
+
+Michael Bowen
+
+Alright, thank you.
+
+Rick Calder
+
+Thank you, Michael.
+
+Operator
+
+[Operator Instructions] We'll now move to Barry with Hamilton [ph].
+
+Unidentified Analyst
+
+Good morning, gentlemen. I guess the first question for Mike, and welcome aboard Mike. You spoke a little faster than I could write, but if we could go back and give me a snapshot of what the balance sheet looks like pro forma for the transaction closed April 1 in terms of cash, debt and share account?
+
+Mike Sicoli
+
+Sure. We used $28 million approximately of cash on hand, that was reflected in the March 31 balance. The March 31 was - you would subtract out 28 to give you the pro forma for that piece. And as it relates to the debt, there will be about $2.30 million of term loan and another $3.5 million or so of Cap leases that were assumed. And [cross talks] a larger revolver at $25 million, and a larger incremental on committed credit facility, $50 million.
+
+Unidentified Analyst
+
+In share account?
+
+Mike Sicoli
+
+Yes, $34.8 million.
+
+Unidentified Analyst
+
+Of the current outstanding?
+
+Rick Calder
+
+Correct, and that includes 610,000 shares that we issued in conjunction with the transaction of that $5 million.
+
+Unidentified Analyst
+
+Okay. Rick, a question for you, just going back the organic growth that we saw in the first quarter, first, if you could tell us how many sales people you have driving that number? And then secondly, I just want to make sure I understand correctly, you talked about some installations that you would expected to do in the fourth quarter they didn't happen, so obviously the revenue didn't show up for the full quarter in 1Q. Is that really the only factor and otherwise was the sales force driving that 8% to 10% organic growth in terms of their bookings?
+
+Rick Calder
+
+Yes, a couple of things wanted the direct - we're just under 70 on our last call, so we finished around there and now we're around 80 on a net basis, post the integration of MegaPath. So with the objective of growing that sales force to close to 100 by year end. So within that sort of 70 range, that you're at through most of the quarter, and I would say and through most of the first quarter, the first quarter results are heavily driven by - installed through the fourth quarter in the first month, and then in the first month of the integration as I mentioned before, as we put the organizations together, sometimes we see, sometimes we don't, sometimes we do see just a little bit of a slowdown. And we saw a little bit of that coming out of the fourth quarter, we actually have now coming into the second quarter, an incredibly healthy backlog, a great backlog of ordered, not installed services. We have great, sort of installed results in the first quarter itself. And so we see some nice performance coming through the rest of the year, we fully integrated UNSi; we are going through the MegaPath integration right now.
+
+As I mentioned before, we great cross selling upselling opportunities in that base and we are very bullish on our ability to grow the combined business, the combined footprint of business now in both GTT and MegaPath at that 8% to 10% rate. So we feel very good about where we are - we feel very good about where we are with the completion of UNSi acquisition, we feel good with where we are in the progress on the MegaPath acquisition, we actually completed all the organization within about 30 days. And so we believe we have a very strong goal core to market, very outstanding team across sales, service, delivery, sales engineering, account management, network operations and engineering, so we think we have a seller team to take to market.
+
+Unidentified Analyst
+
+Okay. And then just to get the elaboration if I could on the comments that you're closing in on year ago on long term, only $400 million in revenue, a $100 million in EBITDA. If I do the math, pro forma in MegaPath received some organic growth, I can see getting to that revenue number - if I do the same math on EBITDA, it's not quite clear how you get to $100 million given the existing business and the acquisition you've just closed. Is MegaPath going to be a much, much higher EBITDA margin pro forma than perhaps the other?
+
+Rick Calder
+
+Well, couple of comments, I mean clearly as we announced in November of 2013 we established next financial objective to grow our business to $400 million and $100 million EBITDA, not ultimate goal, just our next financial objective having achieved in the third quarter of 2013, a $30 million EBITDA run rate. So that was our previous call to establish in January of 2011. So having achieved that goal we set a new one for ourselves, and we said it would occur with a combination of organic growth in selective strategic acquisitions. So I think [indiscernible] particular acquisition I thought it was an excellent one, we'll help that further and make materially closer to those goals that would necessarily saw that we would achieve them from this acquisition itself. So however as you know it, I think we were materially close around the topline now than it would be on the bottom-line but we still believe that next financial objective is achievable in the near term, we make you another selective acquisition that would carry us over the top on that goal but that is - but we feel very comfortable with where we are both through the top and bottom line growth of our business.
+
+And so we see tremendous synergy opportunities, we mentioned before, we believe as we noted for the first time today in our prepared remarks that we believe that this acquisition MegaPath will be right within our traditional goal of 5X to 6X or better, and we at - mentioned at UNSi we think - we would love to see or better commented play as well.
+
+Unidentified Analyst
+
+Okay, that's very helpful. Thank you very much, Rick.
+
+Rick Calder
+
+Thanks, Barry.
+
+Operator
+
+[Operator Instructions] We'll now move to George Sutton with Craig-Hallum.
+
+George Sutton
+
+Thank you. One of the things we were most excited about relative to the MegaPath acquisition was the managed security offering, and I haven't heard you address that relative to the opportunity to cross sell. Can you just give us a sense of what you've seen on that side?
+
+Rick Calder
+
+Sure, I mean there really a multi [ph] security offerings award on a number of different dimensions, I mean clearly network based firewall offerings, network based intrusion detection services, a premise based firewalls, one of the real key that the payment card industry continues to tighten the payment card industry standards, the data security standards; and we are one the larger payment card industry complaint networks in those, in the globe we process well over 100 million credit card transactions annually on our backbone and one of the things for many of our clients having - in addition to having network based security, having premise based security is going to become more and more important.
+
+So we see opportunity to continue to upgrade our clients with the premise based security offerings. One of the real interesting product we also - it's part of the managed portfolio, is a transaction layered secured product which allows a remote user base to access on a custom basis different applications within a corporate enterprise, and so we see the ability to deploy unique concentrators for clients to allow in a way theories of user group, whether they are employees or other outside parties, partners, business partners etcetera, deploy this. And we see some real interesting demand from some of our existing clients for those services. So we're very excited about it, it's actually one of the reasons as we mentioned that we think our CapEx - because this all required us to buy the equipment, deploy it, manage it, provide timely reporting to clients through our portals, all of that will increase slightly our CapEx as a percentage of revenue but all on a success based basis.
+
+George Sutton
+
+Rick I was wondering that all your quoted competitors are selling the entirety, the offering there some specialization.
+
+Rick Calder
+
+I don't give - quarter variance [ph], excuse me, generally as we've talked about in the past George, we segment our portfolio - really three major categories, we have a series of folks that focus on selling to carriers, so carriers will probably historically on a pro forma basis is down about 33% of our business, probably close to 25% moving forward, given the higher enterprise mix for MegaPath. But we have a great value proposition selling off-net extension or parts of wide area network lanes for multinational enterprises, two carriers directly, as well as we're a very large internet backbone, we sell IT trends, high capacity internet services to carriers around the globe, and that is what a focused sales force focused on directed carriers, generally those two offerings. We have our small medium base legacy, probably about 10% of our revenue stream and we have a series of small end that support and care for that, generally a non-strategic part of our base, the lion share of our business is the multinational enterprise selling course.
+
+So we believe that our value proposition, and as we sell to enterprises, we truly have a better way for them to reach the cloud, and whether it's through a private wide area network, cloud network, but it's accessed to the public internet, or whether it's helping to move IT applications to a secure cloud service providers and data centers, the cloud network becomes critically important and so that will be selling the whole portfolio, whether it's internet services, ether [ph] cloud transport services, and now a very rich portfolio of managed services led by the security offerings we talked about, they are fully trained across the world to sell that portfolio of services.
+
+George Sutton
+
+Thank you, that's helpful. And you've historically invested in more sales people as your productivity proves the movement from 80 to 100 by year end, is that - do you see that driven by productivity improvements, and therefore you can afford it from an SG&A percentage or is it going to happen regardless of productivity?
+
+Rick Calder
+
+No, I think very - as we said George even in last call, we feel very good about the performance of existing quarter bearing organizations. And as a function of that and we see that our value proposition continues to become stronger, we are very well positioned to provide a great access to the cloud for multinationals around the globe. As a function of that - that's why we grow. And so we think it is a prudent investment, I mean to be very clear when they don't become productive immediately, so there is some incremental SG&A we will invest behind it. So - but we believe with very accretive acquisitions in the organic growth that we are seeing that those are prudent investments for us to make that continue to be able to grow at 8% to 10% or higher than we thought. So yes, we will, as we mentioned in our prepared remarks, grow organization from where it is approximately 80 today to closer to 100 by year end.
+
+George Sutton
+
+Thank you.
+
+Rick Calder
+
+Thank you very much George.
+
+Operator
+
+And we'll now take a follow-up from Michael Bowen with Pacific Crest.
+
+Michael Bowen
+
+Thanks for squeezing another one here. One of the comments that I thought was very positive and very interesting, and I'd love to hear more about is when you said MegaPath now, on a post synergy basis, you could be - you could see 5X to 6X EBITDA multiple or better, can you walk us through that little bit, I know that on a preclose EBITDA, as soon as you multiple, you had talked about 7.5X, it seems like you've added a couple of hundred employees, are all the employees now basically that are going to remain - are they at the firm now, could there be more cuts? In other words, walk us through if you could, how you got from 7.5X to possibly down to 5X or even better than that? And what are the other aspects of that that you've been able to identify as you seem pretty positive about this multiple now getting better?
+
+Rick Calder
+
+Sure. I shall do the math for us, $152.3 million, at $20 million standalone business, so at 6X have been incremental $5 million in EBITDA and 5X it's going to be incremental $10 million sort of the nearest million or better. So if we do better than $10 million in incremental synergy we keep lower than 5X to 6X or better. A couple of points on why we feel good about where we are with respect to that till the point we made about the organization, yes, we have completed that and so we have announced and we generally have worked very hard to make sure we do it onetime. So that we are very clear with all of our employees that we have now one good market orientation, we believe we have an excellent team, but we have made the difficult position at times, who should be on that team, we are very, very bullish about the team that we have moving forward. But we expect to be able to recognize then as we start in the second quarter, some of the synergies from the headcount moves that we are making through this quarter, that have been announced internally as part of that go-to-market organization.
+
+We see synergy generally in a couple of other areas, there generally is a whole series of other overlapping SG&A spends that we have, whether it is in rents, professional services, T&E, all of the areas that the large organization - that MegaPath as a standalone business spend and we don't need to be spend with a combined - these are we're seeing. Some of that play out this quarter, we'll see some of the play out into third quarter, but before we realize in the fourth quarter numbers, and the last areas in network synergy. So again, they had a very - a much smaller network than we have and - carrying an operations organization, doing a great job integrating into our much larger GTT network, and as a function of that we generally see cost rather savings.
+
+Generally in the first two quarters as Mike mentioned earlier, those we actually - with the incremental benefit over multiple years as we take a little longer to move overlapping points of presence to make sure that we cue it without impacting any client experience.
+
+Mike Sicoli
+
+The only other thing I would add is that - even on the headcount piece, the announcements were made beginning in May, those - the people who will be leaving are not all leaving immediately, so that will be happening throughout the quarter but that is obviously a substantial piece of the number.
+
+Michael Bowen
+
+Alright, thank you very much.
+
+Rick Calder
+
+Thank you, Michael.
+
+Operator
+
+And it appears there are no further telephone questions.
+
+Rick Calder
+
+Great. Operator, I'd like to turn it once again to our Chairman, Brian Thompson for some closing remarks as well.
+
+Brian Thompson
+
+Thanks, Rick, and everybody, thank you for your questions. There are only two things that I'd like to comment on. The first is the one thing that we are continually capable of doing and have shown in each and every one of our acquisitions to be sure is to create a single company and integrate those people, those customers, and those activities into the whole and what happens in each case is with especially the larger strategic acquisitions as Rick said, we had significant new capabilities but we also add two of our fundamental CMD platform which is what sets us apart I think from almost anybody in the industry. We add to that platform ability to do things within that platform that give us real capability for subsequent acquisitions.
+
+A good example of that is, in the UNSi acquisition that we did, we moved into the managed services business which gave us a different requirement in the kinds of information that we put into that platform and how we dealt with the other information flows in that platform. And frankly, with the new MegaPath acquisition, not only did we increase the managed services portfolio but we're also very significantly increasing our ability to go to smaller retail locations which once again gives us an enhanced capability as we integrated into our CMD platform to make new acquisitions that take advantage of that in a very synergistic way. So this is the real secret sauce to use the expression that makes GTT different I think from anybody else that does these kinds of acquisitions, we're able to integrate and this just enhances our ability to integrate more acquisitions going forward.
+
+The second comments I'd like to make is, and I'd like to underscore it, Rick keeps talking about $400 million and $100 million as objectives, very carefully, these are the next plateau and it's a short plateau we go to, and indeed, just for to see a benefit of those on the call. We are in discussions about the next plateau because this one, I'm sure these guys are going to achieve in very short period of time. So standby and be prepared to see our next level of strategic revenue and EBITDA objectives.

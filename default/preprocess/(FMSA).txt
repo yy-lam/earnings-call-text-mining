@@ -1,0 +1,403 @@
+Thank you. Good morning and welcome to Fairmount Santrol’s first quarter 2015 conference call. With us today are Jenniffer Deckard, our President and CEO; Chris Nagel, our Chief Financial Officer; and Van Smith, our Executive Vice President responsible for proppant sales, marketing, and new product development. By now, you should have received a copy of our first quarter earnings release, which we issued this morning.
+
+Before turning the call over to the team, we would like to remind all participants that certain statements during this call may constitute forward-looking statements which are subject to certain risks and uncertainties. For a complete discussion of these risks and uncertainties, we encourage you to read the press release and our documents on file with the SEC. We would also like to remind you that during this call, we will comment on non-GAAP measures, including adjusted EBITDA, adjusted earnings and adjusted earnings per share. These financial measures are used by management to monitor and evaluate the ongoing performance of the company and to allocate resources. You can find a reconciliation of these non-GAAP measures to the nearest comparable GAAP results as an attachment to our first quarter earnings release.
+
+Now, to begin here is our President and CEO, Jenniffer Deckard.
+
+Jenniffer Deckard
+
+Thanks, Sharon and good morning everyone. As always, thank you for your continued interest in Fairmount Santrol and for spending time with us today. In addition to sharing results from our 2015 first quarter, we will be discussing our views on the current markets as well as our plans in this challenging environment, which continues to have a significant impact on our customers and on our business. Van Smith will then provide some updates on our latest product technology initiatives and the many ways that we are focusing on reducing the customers’ cost per barrel of oil equivalent, or BOE. Chris Nagel will cover the financials in more detail and we will then open the line to take your questions.
+
+So, as we look back at the first quarter and acknowledge the challenging market conditions under which we have been operating, our performance is a result of our differentiated business model, our customer relationship, our wide distribution network, and the focus of our teams. During the quarter, we generated total revenues of $301.5 million on sales volumes of 2.3 million tons. Net income was $30.8 million and adjusted EBITDA was $75.1 million.
+
+While our first quarter results compare favorably on a year-over-year basis, from a sequential standpoint, they reflect the speed of the downturn in the oil and gas market, which saw the average North American onshore rig count decline by approximately 50% from its peak in quarter four. During the first quarter of 2015, our total proppant solutions volumes were down 6% sequentially. Raw sand volumes were down only 2% as we gained share due to our operational scale, our responsiveness to customer’s pricing needs and our logistics capabilities, which allow us the flexibility to provide products at both FOB mine and in basin. This is especially important as customers look to consolidate their vendors.
+
+We maintain share in the coated proppant market, although volumes for these products were down 23% due to the contraction in the market for resin coated products as E&P companies became increasingly focused on lowering their input cost. While we anticipate continued pressure on our resin coated proppant volumes in the near-term, our technology remains a differentiator for Fairmount Santrol and provides proprietary solutions to downhole challenges, which will persist in all environments. We are committed to our product development and technology initiatives in this area and to further demonstrating to our customers the cost and productivity benefits of our highly differentiated coated products. As validation of this strategy, we were pleased to see for example that volumes for two of our most proprietary resin coated products OptiProp and CoolSet, both increased compared to Q4 and field trials of our Propel SSP accelerated during the first quarter. Dan will share more about Propel SSP later on this call.
+
+In January and February, we acted quickly to help our customers and on a weighted average we saw sequential price declines across our product portfolio. Taking a closer look at our product category Northern White frac sand pricing declined approximately 10% depending on channel, basin and grade. Our Texas gold pricing remains flat and resin coated proppant pricing declined by approximately 10%. We did experience a sequential decline in our profitability in the first quarter due to several factors including the decline in resin coated sand volumes and the overall pricing relief we provided to our customers. Chris will provide further detail on our Q1 financial performance during his prepared remarks.
+
+But first, allow me to please share with you some of our thoughts on the current market and our near-term outlook for proppant demand. Rig counts continued to decline during the quarter and are now down approximately 50% from their peak in late 2014. And while the rate of decline has decelerated there is still uncertainty as to the depth and timing of a floor and as to the timing and rate of recovery. We are however continuing to see proppant intensity per well increase, a trend that is partially offsetting the impact of falling rig counts on proppant demand. Factors here include the increased use of proppant per stage and the increase in the number of stages drilled per well. We also continue to see evidence of leading edge operators using even greater amounts of sand during the completion process, some using upward of 10,000 tons per well. Given all of these factors, we believe that there is still room for some continued growth in proppant intensity.
+
+Another factor we believe could impact proppant demand during the balance of 2015 is the number of wells drilled, but uncompleted. Industry information providers IHS and Wood Mackenzie estimate that there are between 3,000 and 5,000 wells that fall into this category. We believe that approximately 35% of the wells in inventory will be completed by the end of 2015. These completions could help lift demand for proppant in the second half of the year at a rate faster than the potential recovery in rig count. In thinking about full year 2015, should rig counts remain at current level, we would expect overall propane demand to be down approximately 20% to 25% compared with last year’s peak. This decline in overall demand combined with the industry’s focus on reducing the cost per Boe will likely result in additional pressures on both pricing and volumes in the near-term, further impacting our financial performance in Q2. We expect our raw sand volumes will continue to perform better than the overall market.
+
+As we discussed on our last earnings call, our team had proactively planned for multiple scenarios and we acted quickly on these plans in the first quarter as market conditions rapidly decline. As for further 2015 plans in the continued face of headwinds, we continue to take the steps necessary to control what we can in order to best manage our profitability and to ensure we emerge a stronger company when the market rebounds. Our broad logistics network and fully integrated supply chain remain differentiators for Fairmount Santrol and we continued to leverage these assets to gain operational efficiencies and economies of scale. We are able to pass along many of the resulting benefits to our customers, strengthening our long-term partnership while also preserving margins for us. We remain focused on optimization across our value chain moving volumes through our more profitable origin destination pairs including a focus on the use of alternatives, lower cost modes of transportation such as unit trains and barges.
+
+During the quarter we successfully delivered 39 unit trains and 60 barges helping us to lower our landed cost, drive volumes and increase efficiencies in our supply chain. At the same time we are focused on managing the size of rail fleet to match demand levels. Based on our long established partnerships, Fairmount Santrol has reached agreements to either delay receipt sublease or return to customers excess railcars over the course of the year. We have also continued our efforts to better align our operations with near-term market conditions. For example, we have taken actions to consolidate volume into our more cost effective footprint. During the first quarter, we closed our higher cost sand facility in Readfield, Wisconsin and we scaled back operations at our coding facilities in Fresno, Texas and Monterrey, Mexico. We have taken further actions in the second quarter, including the idling of our sand facility in Brewer, Missouri and our coating facilities in Bridgman, Michigan and Voca, Texas. Additionally, to better align our logistics network with customer demand and to reduce cost, Fairmount Santrol has discontinued activity at five transloading terminals.
+
+Also, just as we have worked with our customers to provide relief on pricing, we have also worked with our long-term vendors to secure relief on costs. Together, we have been able to negotiate agreements that will provide significant vendor savings for 2015. In regard to SG&A specifically, we have identified further saving opportunities and have reduced our anticipated total annual spend by approximately 10%. This complete approach to efficiencies, consolidation and cost reductions will help us to offset some of the price concessions that we have implemented and will help us to maximize our profitability in the current environment. Unfortunately, these actions have resulted in an approximate 14% reduction in total Fairmount Santrol employment to-date.
+
+We currently anticipate ongoing annual savings of approximately $15 million from these cost reduction actions, in particular. The decision to reduce capacity and to impact job is a difficult one for any company. We have very carefully assessed our actions to ensure the most effective changes were made to preserve all of our core capabilities and our differentiators for our customers, while remaining united in our commitment to sustainable development and operational safety. Our performance during Q1 confirmed that we have among the lowest operating cost base in the industry. And many of these actions will further improve our cost structure for the remainder of the year.
+
+As we work to optimize our options, we also recognized the important of conserving these resulting cash flows. While this is always a priority, it becomes even more critical during these times of ongoing uncertainty. Consequentl, we are focusing on our days forward inventories to properly align it with sales levels. We are also closely managing our customer credit process and monitoring customer payments in an effort to reduce risk and to improve cash flow. These activities have helped us to build the strong cash position.
+
+Our cash balance at the end of the quarter was $118 million, up from $77 million at year end. And as of April 30, we have $155 million of cash on hand. As we assess possible scenarios for our business through the end of the year, we expect to generate positive cash flow for 2015 in all cases. And while we are being mindful of our expenses and our cash flows, we also know the importance of making the right investments to maintain our operations and to position us for growth when the market rebounds. We now expect to spend between $90 million and $115 million on capital expenditures in 2015.
+
+At this time, we are not making any additional spending commitments on our Wedron expansion project and we continue to complete only committed expenditures. We will continue to evaluate this expansion as we review opportunities to secure additional unit train volume commitment. The company also remains committed to fulfilling our environmental and social responsibilities, particularly to our local communities through our continued sustainable development initiatives. For example, in observance of Earth Day on April 22, many of our facilities hosted community volunteer days cleaning up parks and highways in efforts to make the places in which we live and work even better. We also reached another milestone in the first quarter achieving zero waste to landfill at yet another facility. This brings our total zero waste to landfill facility count to 19.
+
+As members of the Fairmount family, I am pleased to draw inspiration from one another and from our community partners, engaging our workforce and enabling us to live up to our action orientation of do good, do well. Our long tenured team of industry leaders is prepared and committed to managing the business through this cycle and to position Fairmount Santrol to emerge even stronger as the market rebounds. And as we have done in the past, we will continue to maintain and enhance our relationships with our customers throughout market cycles. We share their risks and the rewards both today and going forward.
+
+Our customers are seeking active support and consolidation in their supply base. We have the approach and we have the scale in terms of resources, capabilities, capacity and logistics to meet and exceed their evolving needs.
+
+I am pleased now to turn the call over to Van Smith to talk more about our success with Propel SSP and our other areas of product development and customer-centric solutions.
+
+Van Smith
+
+Thanks, Jenniffer. You have heard Jenniffer discuss our cost reduction. This does not apply to research and development as we continue to invest in technology, which is the spearhead for our long-term financial success. The good news for Fairmount Santrol is that we have developed and continued to develop innovative products that help our customers lower costs and increase yields. A prime example is Fairmount Santrol’s revolutionary Propel SSP, which transports profits further into the fracture without settling out of the frac fluid. Our self suspending proppant also greatly increases the surface area, the fracture exposed to the reservoir of providing uniform distribution of proppant from tip to well bore. This treatment increases initial production as well as long-term EURs by flattening the declining curve.
+
+Propel SSP also allows our customers to eliminate certain additives, including VAR and friction reducing agents. Operationally, service companies are finding that the product pumps easily in less time using less water for proppant placement. To-date, trials at Propel SSP have included successful placement in more than 600 stages. The product is being used by 10 unique E&Ps by 14 unique oilfield service companies and pumped in 16 different North American plays, such as the Eagle Ford, Marcellus, Permian, Three Forks, Utica and the Canadian Bakken.
+
+In several formations, operators have been able to achieve production gains that exceed 50% within two months as compared to direct offset wells with conventional fluid systems carrying northern white frac sand. In addition to production enhancement, several fracturing designs have been optimized to require less water and chemical additives during the frac job. In March, an operator completed a Bakken/Three Forks well with Propel SSP. The operator successfully converted to 25-pound cross-link fluid systems with 2040 frac sound to a 2040 Propel SSP design. Further design in Propel SSP was pumped up to 6 pounds per gallon without the need for any gel or friction reducer.
+
+The operator attributes initial positive results to increase well volume and less near well bore gel damage and is moving forward with five additional trial wells. This July we will publicly document how Propel SSP reduces proppant pack and formation damage when we present a paper at the Unconventional Resources Technology Conference in San Antonio, Texas in collaboration with Stem Lab, which is a core laboratories company. Based on the success to-date, Propel SSP will continue to be commercialized throughout 2015.
+
+Another innovative product that is helping customers lower their cost per BOE is CoolSet. This proppant is our curable resin-coated sand engineered to prevent proppant flowback in wells as low as 100 degrees Fahrenheit. Momentum of our CoolSet product continues to build with increased sales, particularly in the Permian Basin for the past seven consecutive months. In April alone, for example, we have sold 12,000 tons.
+
+Refracturing seems to be the term of the quarter. We believe that refracturing represents a tailwind for both sand and value-added proppants and we expect these completions to provide incremental volumes for Fairmount Santrol. An example of this occurred in April when we provided 1,200 tons of 3050 Northern White sand, 1,300 tons of 100 mesh, and 400,000 pounds of 2040 Super LC resin-coated sand, that’s used as a tailwind to prevent proppant flowback into the well bore to a customer for refrac in the Eagle Ford. The development of differentiated technologies and proprietary products continues with an eye towards solutions that lower operators’ costs per BOE to complement our existing product suite.
+
+With that, I am going to turn the call over to our CFO, Chris Nagel to review our first quarter financials.
+
+Chris Nagel
+
+Thank you, Van. As Jenniffer described, we believe that the business has held up well in very challenging market conditions. Adjusted EBITDA for the first quarter was $75.1 million, down 9% from adjusted EBITDA of $82.1 million a year ago. We did see strong growth in our raw sand business year-over-year, but this was offset by a decline in the coated proppant business and weakening performance of our international businesses.
+
+Sequentially, first quarter adjusted EBITDA was down 25% from the fourth quarter of 2014 driven by declining selling prices across the proppant business and declining coated proppant volumes. Back to the year-over-year comparison, total company revenues for the quarter were $301.5 million, an increase of 2% over revenues of $294.9 million for the first quarter of 2014. Revenue for our proppant solutions segment also was up 2% compared to last year, while revenue for our industrial and recreational segment was flat to the prior year.
+
+Our total proppant volumes increased 12% year-over-year. Within proppants, our raw sand volume was up 18%, while our coated proppant volume was down 10% compared to the same period a year ago. Decreasing selling prices for Northern White sand in the first quarter roughly offset price increases taken throughout 2014. We do not see a decline in the average selling price of our Texas Gold sand in the first quarter of this year. Average selling prices across our resin-coated products were down about 10% in the first quarter of 2015 compared to the prior year. Contribution margin for our proppant solutions business declined 6% year-over-year due to the decline in the profitability of the resin-coated business partially offset by an increase in contribution margin for our raw sand products. Contribution margin for I&R business for the quarter increased 14% year-over-year to $7.1 million primarily due to price increases taken during 2014.
+
+Sequentially, revenues for our proppant business were down 16% from the fourth quarter of 2014. Our raw sand business held up well declining only 2% from the previous quarter. We did see a decline in average selling prices for raw sand of up to 10% this quarter depending on channel, basin and grade. Coated proppant volumes decreased 23% from the fourth quarter of last year with resin-coated volumes in North America down 20%. As I mentioned earlier, we saw average selling prices decline across the resin-coated business by about 10% in the quarter. As a result of these volume and price declines, contribution margin for the proppant solutions segment declined 26% sequentially.
+
+Contribution margin for I&R segment was down 7% sequentially as we saw slow start to 2015 in the recreation and glass businesses. Total company SG&A in the first quarter was $24 million compared to $21.8 million last year. The spending from most of our SG&A departments is flat or down compared to last year, but we have incurred significant cost this quarter for public company audit and filing costs and Sarbanes-Oxley compliance costs. We also are investing in sophisticated logistic systems to help us optimize the profitability of our thousands of OD pairs. A portion of these costs are being capitalized, while a portion are reflected in SG&A expenses.
+
+As Jenniffer described, we are carefully managing our spending in these market conditions, including SG&A cost. We expect that our quarterly run-rate for SG&A will be in the $22 million to $23 million range this year, but more comments on what we are doing to control costs and maximize cash flows in a moment. Depreciation, depletion and amortization expense in the first quarter were $16.2 million compared to $12.9 million a year ago largely due to increased depreciation for plant and terminal investments we made last year. Interest expense in the quarter was $15.3 million after capitalizing $1.2 million of interest costs to capital projects.
+
+Our effective tax rate for the first quarter was 25.6% compared to 29.2% a year ago. The decrease in our tax rate is due to the increased impact of the depletion allowance as raw sand profits make up a larger portion of our earnings this year. Net income for the quarter was $30.8 million, or $0.18 per diluted share, down 11% from the first quarter of 2014. Non-recurring items were not significant for either the first quarter of this year or last year.
+
+Our cash balance of the end of the quarter was $118.4 million, up from $77 million at year end. Our cash balance has increased further to $155 million as of April 30. We had nothing drawn on our revolver at the end of the quarter leaving $113.5 million available on our revolving credit facility after outstanding letters of credit. Our total debt at March 31 was $1.25 billion and our leverage ratio was 3.2. Capital expenditures for the first quarter were $31.9 million primarily related to investments in expanding our sand processing and SSP production capacities at our Wedron facility.
+
+For 2015, full year capital expenditures are still uncertain as we continue to evaluate the expansion of our Wedron facility. If we resume the expansion this year, we expect that full year capital expenditures will be approximately $115 million. Otherwise, we expect CapEx will be about $90 million.
+
+Jenniffer described the actions we are taking in this uncertain market to reduce costs and improve our cash position. We are consolidating our manufacturing and distribution terminal capacities into our lowest cost footprint. We also are prudently reducing SG&A headcount and spending. In total, these actions have resulted in us reducing our headcount by approximately 14% and we are evaluating continued reductions. Our actions to-date will provide annualized cost savings of approximately $15 million, $3 million to $4 million of which is SG&A. We are closely managing working capital, including reducing inventory levels to align with demand. So, while market conditions continue to be challenging and uncertain, we are very pleased with our cash position and total liquidity.
+
+You may have seen that last week, an important and significant lender in our B1 term loan agreed to effectively exchange their position into a B2 loan. Our B1 term loan is currently scheduled to mature in March 2017 and given the uncertainties of the oil and gas and credit markets, we believe it is prudent to look for opportunities to defer this maturity. We are in discussions with other B1 lenders to do the same and we appreciate their consideration.
+
+With respect to full year earnings expectations, market conditions make it much too difficult to provide any meaningful guidance. In the near-term, we do expect that there will be further downward pressure on selling prices and it appears that the resin-coated market will continue to further contract resulting in lower sequential earnings in the second quarter.
+
+And with that, we will now open the call for your questions.
+
+Question-and-Answer Session
+
+Operator
+
+We will now begin the Q&A session. [Operator Instructions] Your first question comes from the line of Marc Bianchi from Cowen & Company. Your line is open. Mr. Bianchi, your line is open.
+
+Marc Bianchi
+
+Hey, good morning guys. Nice performance on maintaining market share there in the raw sand business. I was hoping you could talk a little bit more about the discussions with customers at this point, how much more price has been given up since the last call and maybe just if you could provide some more commentary on what those discussions are like right now?
+
+Van Smith
+
+Well, this is Van. Thanks for your question, Marc. We continue to be in front of the customer quite often as you can imagine. The pricing that we talked about in Q1, it was an amalgamation of FOB mine pricing as well as ex-terminal pricing. So, one of the things that we are seeing is that our advantage at the terminal represented by our 50 terminals and basins is really resonating with the customer in terms of – as they look at the last mile being able to deliver that product closer to their well site. So, as we continue to talk about discussions, that’s one thing we are talking about internal shipments as well as at the mine.
+
+Marc Bianchi
+
+Okay. Thanks, Van. And I guess just to try to understand the mechanics of the average in the first quarter and where you sit today, if things stayed flat at this point, what sort of a price decline will we be looking at for second quarter just trying to understand the dynamics of what you have seen so far in April and where you exited the quarter?
+
+Jenniffer Deckard
+
+From where we exited the quarter, we would not expect significant price declines. And as Van mentioned what we are trying to do with our customers also is provide them ways to reduce their costs that are additive to price reductions. So we do believe that we are going to continue to see some pressure. We are not at this point willing to provide or able to provide guidance as to what level that might be. As you might imagine it continues to be very dynamic and we think that we will see some downward pressure, but relative to what we exited probably not significantly material.
+
+Marc Bianchi
+
+Okay, great. Thanks Jenniffer. I will turn it back.
+
+Operator
+
+Your next question comes from the line of Jud Bailey from Wells Fargo Securities. Your line is open.
+
+Jud Bailey
+
+Thank you. Good morning, just a little bit of follow-up from Marc’s question, could you maybe talk a little bit more about the differences you are seeing from a pricing perspective on RCS versus sand and do you – it sounds like you think RCS pricing may stay weaker for longer maybe during the second half of the year, is that right?
+
+Jenniffer Deckard
+
+I think from a percentage basis, so yes to think about there is a difference in the starting point, but from a percentage basis we are not seeing a significant difference on a percent basis on our resin coated pricing movements and our sand pricing movement. We do believe that there will be downward pressure on both. There will be downward pressure on we think in the industry for volumes. We believe that our sand volumes will hold strong relative to the market and that we are probably seeing – that we will see further declines downward pressure on volumes.
+
+Chris Nagel
+
+For resins?
+
+Jenniffer Deckard
+
+On the resin side, yes.
+
+Jud Bailey
+
+And that actually leads me to my follow-up which was – would you and I apologize if I missed it but you talked about annual, your expectation for industry annual declines for proppant demand, could you give any color for maybe the second quarter on what your expectations would be for volumes for sand and RCS?
+
+Jenniffer Deckard
+
+We are not providing guidance on Fairmount volumes, but we think that the first quarter volumes in the market for sand were probably down 15%. We think that the resin coated market was probably down similar to Fairmount which is 20% and we will probably see some pressure on that resin coated. We think that the market will probably see slightly higher declines from Q4, so a little bit of additional decline from that 15% estimate in Q1.
+
+Jud Bailey
+
+Great. Thank you. I will turn it back.
+
+Jenniffer Deckard
+
+Thank you, Jud.
+
+Operator
+
+Your next question comes from the line of Blake Hutchinson from Howard Weil. Your line is open.
+
+Blake Hutchinson
+
+Good morning.
+
+Jenniffer Deckard
+
+Good morning Blake.
+
+Blake Hutchinson
+
+I apologize if I cut out a bit here, I am having some technical difficulties if I drop or something, no big deal. I just wanted to – as we have worked through your pricing commentary and think about margin impact I guess it would look from the pricing numbers you gave that you might have actually had some positive margin impact elsewhere, did you move coarser grain perhaps in your white sand market, are the impacts of centralizing point A to point B deliveries actually having some tailwinds already, what else might be going into mix to help you on the contribution margin side?
+
+Chris Nagel
+
+Are you – this is Chris are you looking year-over-year or sequentially?
+
+Blake Hutchinson
+
+Sequentially, speaking sequentially.
+
+Chris Nagel
+
+Yes. Well, I think that we are seeing some benefit of our costs out of the mine quite frankly right now. We are continuing to try to consolidate into our lowest cost footprint. So the operations folks are doing a great job of lowering our costs into the railcar. And I think we are seeing some benefit there. Other than that I don’t think that there is a lot more that worked in terms of mix shift or anything like that, at least so far.
+
+Blake Hutchinson
+
+And then maybe just an update on a couple of numbers that can kind of help us work through some of that, what were your in basin deliveries and perhaps your curable versus pre-cured numbers for the quarter?
+
+Chris Nagel
+
+Well, about 82% of our Northern White was sold through ex-terminal or in the basin, that’s fairly constant with the prior quarter. I think the prior quarter might have been 84% or something. So it hasn’t moved a lot sequentially and we sell almost all of our resin coated products through the terminals almost 100%. So I am sorry that was your question on the percentage. And then – on the split on the resin coated products?
+
+Blake Hutchinson
+
+Yes.
+
+Chris Nagel
+
+Between curable and pre-cured, we did see a higher proportion of our products that we sell are curable. But on a percentage basis, we saw a greater decline on the pre-cured side of the portfolio comparable to the curable.
+
+Jenniffer Deckard
+
+I think the follow-on to that, I think we have been discussing that over the past six months and in this downturn, what does not go away is the need to provide flowback protection and that is where curable products come in. So, those have held up a little more strongly. And also as we mentioned on some of our more proprietary high-end products even within the curables have performed very well.
+
+Blake Hutchinson
+
+Thanks. And then just finally, in terms of volume capabilities on SSP, can you just give us a refresher on kind of update in terms of timeline and potential capacity there?
+
+Jenniffer Deckard
+
+Sure. As of today, we have a little over 600,000 tons of capabilities. We have some optionality within some of our coating facilities. Although there is very different technology, we share some space and some permitting. And so right now, we have 600,000 tons capability of SSPs. And as we look at the market, we have three or four active engineering projects and permitting projects for future expansions that we have not yet spent any capital dollars on.
+
+Blake Hutchinson
+
+Thanks. That’s helpful. I will turn it back.
+
+Operator
+
+Your next question comes from the line of George O’Leary from Tudor, Pickering, Holt & Company. Your line is open.
+
+George O’Leary
+
+Good morning, guys. I am experiencing some of the same technical difficulties as Blake, so apologies if I cut out. Just on the cost-cutting front, you guys have done a good job, very good job so far certainly better than we were expecting there. What are the kind of incremental levers here and what sort of cost breaks are you seeing from your vendors that you discussed earlier? Is there potential for you guys to close or idle incremental mines from here? Do you think you’ve kind of done the heavy lifting on that front at this point?
+
+Jenniffer Deckard
+
+Well, we hope that we have done the heavy lifting, because it will certainly be correlated with volumes. So, we of course have an entire contingency plan that goes to all different volume levels. Should volumes stay where they are or improve? We wouldn’t expect to idle any more facilities, but we continue to – we will continue to look at those volumes, but as of today, we feel that we are right-sized on the operations for business.
+
+Chris Nagel
+
+Maybe I will add one more color. We are getting some relief on resin pricing. So, our suppliers are working with us on that. Also, it’s largely tied to being all. So, there has been some relief on P&L pricing although when they see that start to turn later in the year. So, we are working with our suppliers where we can and getting some help as an example.
+
+George O’Leary
+
+Okay, great. And then….
+
+Chris Nagel
+
+We will continue to evaluate SG&A. The tough thing for us is we generate a lot of revenue and earnings per head. So, we don’t have quite the same levers on SG&A in terms of really being able to significantly move the needle on earnings through cost reductions. At the same time though we have recognized that it’s very, very important and so we are continually looking to right size the overhead structure for the business. So, we have got actions in place through second quarter and we will continue to evaluate further actions when necessary.
+
+George O’Leary
+
+And so then in that same vein sticking with the cost reduction theme, would you see from here incremental cost cuts are biased towards the operational side or are they more going to come at that SG&A bucket, I know you gave us guidance on SG&A I am just trying to look for, is there more we can expect to come out of the operational side as well?
+
+Chris Nagel
+
+Well, I think as Jenniffer said, I think a lot of that depends on what happens to the market both on raw sand and on resin-coated sand. So, if the market continues to contract, we may have to contract our footprint even further, but we think that footprint makes sense for where market conditions are in that right now and our opportunities, but I think that the run-rate I gave you on SG&A on a quarterly basis is probably reasonable to expect as we can continue to fine tune that, but I wouldn’t expect a meaningful difference from that.
+
+George O’Leary
+
+Thanks very much guys.
+
+Operator
+
+Your next question comes from the line of Ben Owens from RBC Capital Markets. Your line is open.
+
+Ben Owens
+
+Good morning. Thanks for taking my question.
+
+Chris Nagel
+
+Good morning.
+
+Jenniffer Deckard
+
+Good morning, Ben.
+
+Ben Owens
+
+So, I was hoping you guys could talk a little bit more about resin-coated sand, I heard you say that you expected demand for raw sand to be done 0.25% this year, if the rig count stays at the current level, do you have a estimate for resin coated sand under the same scenario. And then could you just talk a little bit about the economic rational for the customers using RCS in the current environment and is there an oil price where you think that demand for that product picks up?
+
+Jenniffer Deckard
+
+Sure. Ben I am not sure that we caught all of the second question, but to the first question on the 20% to 25% which is the overall market including resin coated sand, we believe that the resin coated sand will be at the high end of that range and potentially even greater than that. We are continuing to evaluate that for both the whole market and for Fairmount Santrol, but we would expect that it would be at the high end or above that 25% range.
+
+Chris Nagel
+
+And I will answer about your second question, just as an example as we talked little bit about in the scripted portion is if you take our most differentiated products such as OptiProp and CoolSet. OptiProp is a popular choice for example in this slick [ph] particular operator. They need OptiProp for three reasons. They need it for enhanced conductivity at a depth that they are producing at. They need it for proppant flowback prevention also it doesn’t setup in the well bore should you happen to screen out. So there is a number of economic rationales for the continued to use of resin coated sand. And then also CoolSet which is our newest resin coated sand, there are wells in the Permian particularly the Western portion of the Permian that are – have a low bottom hold temperatures that do produce proppant back into the wellbore should you not be able to lock that in, And there is a real economic cost to that. We had a case study that showed that proppant flowback can cause about $100,000 per stage work of additional costs. So I think that ourselves group in doing a great job of making the economic case of why we continue to see resin coated sand particularly curable resin coated sands used.
+
+Ben Owens
+
+Okay. Thanks. That’s helpful. And then on the I&R segment, volumes were down in the first quarter, can you give a little color on what that was and then what your expectations are for the rest of the year in terms of volume growth?
+
+Chris Nagel
+
+There are so many different markets within I&R, it’s hard to generalize. We have highlighted a couple in the prepared remarks, so we are off just a little bit slow start. We expect it to be about on plan this year. We did see some recovery in March and April. So don’t expect – we expect it to be pretty much on plan with low single-digit growth year-over-year.
+
+Ben Owens
+
+Okay, great. That’s it for me.
+
+Operator
+
+[Operator Instructions] Your next question comes from the line of Marc Bianchi from Cowen & Company. Your line is open.
+
+Marc Bianchi
+
+Hey guys. Thanks for getting me back in. The performance of Texas gold was pretty strong in the quarter and it seems like the outlook there is favorable, maybe can you talk about how – what the opportunity is there from an underutilized capacity perspective for you and are those volumes displacing volumes of Northern White or would you say they are incremental?
+
+Chris Nagel
+
+Yes. I will answer that. If you think about that particular market in that supplier base is much less fragmented than the Northern White suppliers. So we are very excited about the strength of that category. We are actually increasing our customer base. It was predominantly serving two customers in 2014. And we have more customers that are becoming interested in that category due to its proximity to the Eagle Ford as well as the Permian.
+
+Jenniffer Deckard
+
+And to further that I think we have a good deal of new capacity as we have spent some capital dollars there at the end of 2014 and into 2015. So we think that we will have some uplift in our ability to get more Texas Gold into the market over Q2 and Q3 and the team is doing a good job of gating the demand for that. So we think there is some uplift there for us in volume.
+
+Marc Bianchi
+
+Okay. And how do you see of the competitive market for Texas Gold, I mean certainly it seems like it’s not as competitive as Northern White, you mentioned fragmented competition, but how hard is it to bring on more capacity if this ends up being somewhat of a bright spot in the market, just from an industry perspective?
+
+Jenniffer Deckard
+
+To bring it on in the short run is a challenge. I think we will be increasing our capacity here just based on something that we have been working on for a year since we acquired that property from FTSI in 2013. We do have an additional Texas gold opportunity in Texas for a new plant. But that would probably be 12 months to 18 months once it was started. And while we are where we need to be on the engineering and the permitting, we have of course not started spending in that – on that plant to-date.
+
+Marc Bianchi
+
+Sure. Okay. Thanks so much. I will turn it back.
+
+Operator
+
+Your next question comes from the line of [indiscernible] from Simmons & Company. Your line is open.
+
+Unidentified Analyst
+
+Good morning.
+
+Jenniffer Deckard
+
+Good morning.
+
+Chris Nagel
+
+Good morning.
+
+Unidentified Analyst
+
+Just following up on Marc’s question there, in terms of the M&A landscape for the Texas sand, you guys have any desire any appetite for that, maybe to bring some volumes on a little bit sooner?
+
+Chris Nagel
+
+In terms of the potential M&A landscape there is just very limited, you are talking about three or four suppliers in that Hickory Formation. So, we are always taking a look at any opportunity, but in that particular part of the country it’s fairly limited.
+
+Unidentified Analyst
+
+Limited, and any color you can provide on sort of I mean is that bid ask spread a little too big right now or any other thoughts?
+
+Jenniffer Deckard
+
+I think we have not been actively exploring M&A on the Texas gold front. We think that our approach to that to the best of our knowledge and that’s something very advantageous that’s presented to us would be to continue with our capacity expansion, should the market conditions support that, that would be our approach.
+
+Unidentified Analyst
+
+Alright, great. We are hearing VNP is using a bit more finer grades here recently, it would be curious to if you could give some color on your production capacity of 100 mesh, 40-70 and any thoughts on pricing here in April on the finer grades versus some of the coarser grades?
+
+Chris Nagel
+
+Yes. I will address that, certainly we are seeing an evolution of frac treatments to include more 40-70 and 100 mesh. There are a number of reasons why that is and it’s mainly around costs. There are a couple of reasons generally in the past 40-70 and 100 mesh have been a lower price sand and they are coarser alternatives. We would expect convergence of that pricing as demand for those products went up. Also 40-70 and 100 mesh is the prop and the choice when you do slick water fracs which also provides the cost savings as it relates to water and other additives. At the end of the day what operators want to do is they want the most conductivity possible. So they would prefer should the cost be there to use a coarser sand and that really – the segue is to SSP because with SSP you are allowed to pump coarser grains and place those grains at – to the tips of the fracture without using costly fluid additives. So I think that that evolution to finer grains can actually be reversed with technologies like Propel SSP which will allow you to pump the coarser grains that you really want at the ends of those fractures.
+
+Jenniffer Deckard
+
+And generally speaking relative to our capabilities, we do have the flexibility to adjust the yields between grade sizes. Generally, we use a rule of thumb of kind of a third, a third, a third of coarse, medium and fine grade. The finer grade is being 40-70 and 100 mesh, 30-50 being in the mid-range and 20-40 and more coarse being in the upper grade. So we have some flexibility both within pants and then between plants. So some of our plants have a more coarse yield, some have a finer yield. So we do have the ability depending on to adjust our grade distribution as the market changes.
+
+Unidentified Analyst
+
+To some extent…
+
+Jenniffer Deckard
+
+Now, obviously the grades are how they were built in the earth over the millions of years. So, we do have a pretty nice degree of flexibility relatively speaking.
+
+Unidentified Analyst
+
+Okay, great. Thank you. I guess, one final little just kind of cleanup question, I think you previously have said that you had about 4,000 railcars on order by the end of 2016, wanted to find out how much was on order for 2015 if that 4,000 number is correct and how much is now being deferred sort of from the ‘15 and into the ‘16 and beyond?
+
+Jenniffer Deckard
+
+It’s a great question and we are certainly placing a lot of focus on that, but it’s not a simple answer. There is a couple of things. So, we have those number of cars are on order. We have deferred some of those cars, but also we have leases that expire on a staggered basis. So, we are managing on several fronts. So, one, as leases come due, we are allowing some of them to expire which will offset some of the cars coming in. We have deferred some of the cars that are coming in until later periods and we are also managing our customer cars. So, we kind of have three levers and so it’s fluid.
+
+Chris Nagel
+
+Yes, it’s actually changing daily. So, we are in constant communications on all those fronts. So, it’s a little hard to pin down even into the call, but we are working with suppliers to help us push the deliveries out into 2016 and 2017 to help better align with what appears to be demand trends.
+
+Unidentified Analyst
+
+Okay, thanks. I will turn it back.
+
+Operator
+
+Your next question comes from the line of Irv Roa from NewMark Capital. Your line is open.
+
+Irv Roa
+
+Good, thanks. I just want to hear your thoughts on customers trying to lower their cost and using alternatives to sand and the Wall Street Journal today had Statoil using, I don’t know – I never heard this liquefied carbon-dioxide as an alternative for you just to opine on that?
+
+Chris Nagel
+
+I didn’t read the article. I can just say that CO2 foam jobs have been around for 40, 50 years. It’s a way to energize the frac fluids, so that you kind of get production uplift when you turn that well on. Generally, it has been used in conjunction with frac sand if they are doing it without a proppant I would have to understand that better.
+
+Irv Roa
+
+Yes, they didn’t fully explain that in the article, just wondering. Thanks.
+
+Operator
+
+There are no further questions at this time. Presenters, I turn the call back to you.
+
+Jenniffer Deckard
+
+Okay, great. So, thank you all for all of your questions and importantly thank you for your time today. And while we continued to progress through the cyclical downturn in the oil and gas markets and while the near-term will continue to be challenging, let me leave you with one final thought. We remain very confident in the long-term fundamentals of our markets and our business model and we believe we are in a strong position to prosper as the market strengths. The success of our customers is a top priority for our team and we are committed to helping them to maximize efficiencies and to reduce cost per BOE. Fairmount Santrol is well-positioned to remain our customer’s partner of choice given our unmatched operational scale, our fully integrated logistics network, our track record of innovation and proven technology, and our strong and long-term customer relationships as well as our cultural foundation rooted in our commitment to sustainable development. So, we look forward to talking with you again soon and thank you all for joining us. Have a great day.

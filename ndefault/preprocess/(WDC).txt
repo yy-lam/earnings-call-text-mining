@@ -1,0 +1,115 @@
+Expected seasonal demand and consistent execution helped us exceed financial expectations in the September quarter. Industry shipments were in line with the TAM implied in our guidance provided in July.
+
+In our business, we saw the anticipated seasonal increase in demand for client and branded products as well as strength in capacity enterprise and continued steady demand in performance enterprise. Aggregated channel inventories of Western Digital products remain at the low end of our four to six week range.
+
+Our revenue for the September quarter was $3.9 billion. This included $156 million in revenue related to our Flash Platforms group, which includes enterprise SSDs. As a reminder, we continue to expect that our flash related revenue growth will outpace the growth rate of the industry.
+
+We shipped a total of $64.7 million hard drives at an average selling price of $58. The quarter-over-quarter increase in overall ASP was driven by business mix, consistent with the seasonal improvement in client, branded and the strength in capacity enterprise. Our gross margin was 29.1%. Our non-GAAP gross margin was 30.1% which was better than our implied guidance due to business mix. This excludes $39 million of amortization of intangibles.
+
+Operating expenses totaled $680 million. Our non-GAAP operating expense was $638 million, excluding $42 million of amortization of intangibles, litigation charges and employee termination costs. The additional expenses to our guidance primarily relates to incentive compensation and stock appreciation rights. Our net income totaled $423 million or $1.76 per share. On a non-GAAP basis, net income was $504 million or $2.10 per share.
+
+Turning to the balance sheet, in our fourteen week quarter we generated $827 million in cash from operations and our free cash flow totaled $667 million. Our CapEx totaled $160 million or 4% of revenue. We repurchased 2.2 million shares for $223 million. We also declared a dividend in the amount of $0.40 per share.
+
+We closed Q1 with total cash and cash equivalents of $5.2 billion of which approximately $1.2 billion was held in the U.S. I’ll now provide our guidance for the December quarter. We expect revenue to be in a range of $3.75 billion to $3.85 billion. Gross margin to be flat with the December quarter level of 30%, excluding the amortization of intangibles.
+
+R&D and SG&A spending of approximately $600 million, excluding the amortization of intangibles. A tax rate of approximately 8%, and a share count of approximately $238 million. Accordingly, we estimate non-GAAP earnings per share of between $2.00 and $2.10 for the December quarter.
+
+Operator, we are now ready to open the call for questions.
+
+Question-and-Answer Session
+
+Operator
+
+Ladies and gentlemen, we will now begin the question-and-answer portion of today’s call. (Operator Instructions) And our first question comes from Sherri Scribner with Deutsche Bank. Your line is open.
+
+Sherri Scribner – Deutsche Bank North America
+
+Hi, thank you. I was hoping you could just go through the puts and takes on the gross margin guidance for the fourth quarter. I would think that the client business being may be at the softer you have better mix in the quarter. So I was just trying to understand that a bit better. Thanks.
+
+Stephen D. Milligan
+
+So if you look at Sherri. This is Steve. We’re going to take a small absorption had in terms of lower volumes that will be offset by favorable mix in terms of capacity enterprise and certainly we will see a little bit, client margins tend to be a little bit lower than the corporate as a general statement, but on balance things that net out to the extent that we think that our margins will be flat, quarter-on-quarter.
+
+Sherri Scribner – Deutsche Bank North America
+
+Okay, thanks Steve. That’s helpful. And then, it’s been a while since your last Analyst Day. I wanted to see if you could provide an update on your, on priorities for cash, in terms of how much you expect to use for buybacks and your plans to increase the dividend. Thank you.
+
+Stephen D. Milligan
+
+So, we continue to be committed to the capital allocation plan that we announced back in September 2012, in terms of 50% of our free cash-flow been returned to shareholders and the rest to be – I will call it held in reserve for potential strategic opportunities, as we look at the changes that we see in the storage ecosystem, we continue to think that there are opportunities for us to – I’ll say expand our footprint, in terms of the storage industry and ways that not only add value for our customers, but also add value for our shareholders.
+
+So at present, we are sticking with that capital allocation plan; of course we periodically review that, as a part of our overall review of our strategic priorities, but at this point there is no intend to change in our capital allocation plans.
+
+Operator
+
+Your next question comes from Ananda Baruah with Brean Capital. Your line is open.
+
+Ananda Baruah – Brean Capital
+
+Hi guys, thanks for taking the question. Congrats on the early solid quarter and Olivier welcome. I guess yes two if I could I guess both on kind of datacenter and cloud, so the SSD revenue was quite strong sequentially this quarter. Could you talk to – to what degree that was related to hyper scale build out, which you guys had talked to expecting and to what degree they’re related, I guess, OEM product refraction? And then I have a follow-up in that regard as well. Thanks.
+
+Stephen D. Milligan
+
+So let me kind of opine in a broader picture. We are seeing broad based strength in terms of the broader enterprise business, both in terms of traditional customers as well as the hyperscale data center customers, both in terms of our capacity enterprise business, which we saw a nice pickup this past quarter. We expect that momentum to continue into the December quarter and correspondingly we’re also seeing, as you indicated, strong strength in our enterprise SSD business.
+
+That is really, I’ll call it, across the board and really speaks to the strength of our product line both in terms of – well, really across the board, performance enterprise, capacity enterprise as well as in terms of enterprise SSD. We clearly have the broadest product line in the industry and not only that. We have the broadest products that we arguably believe that we got very strong performance from a product standpoint as well. So that’s being reflected in our performance as well as the build out that we’re continuing to see from the customer perspective.
+
+Ananda Baruah – Brean Capital
+
+Steve, that’s really helpful context. I appreciate. And I guess just in that regard how are you guys thinking about the cadence of hyperscale deployments as we get into the first half of the year given there’s a lot of, I guess, call it lack of pent-up demand coming in the second half of year? And then also, how are you guys thinking about, I don’t know, the adoption kind of curve just in the enterprise, [tried and true] (ph) enterprise given that second half of the year is a heavy product cycle, second half with the OEM? Thanks.
+
+Stephen D. Milligan
+
+Sure. I mean we have, I’ll call it, increasing visibility. Obviously, we had good visibility till the December quarter probably in terms of what we see from a demand perspective. We got increasing visibility on what’s going to happen in the first part of 2015 and we believe that strength will continue from an industry perspective as well as from our perspective in the broader enterprise space through the first half of calendar 2015.
+
+Ananda Baruah – Brean Capital
+
+Thanks a lot.
+
+Operator
+
+Next question is from Aaron Rakers with Stifel. Your line is open.
+
+Aaron Rakers – Stifel Nicolaus & Company, Inc.
+
+Yes. Thanks for taking the questions, a couple as well. So, first of all, I want to go a little bit deeper in terms of the portfolio difference between you and Seagate. I think one of the things that we’ve started this year is a pretty good adoption of your Helium drive. I think Seagate though had a very strong growth in their high capacity drives as well. Can you talk a little about the competitive landscape? What do you feel your share position is within these cloud and hyperscale guides? And then with that how you’re seeing the adoption rate pickup with regard to the Helium drives?
+
+Stephen D. Milligan
+
+We’re seeing strong momentum in terms of adoption of our Helium based drives not only in terms of 6 terabyte, but substantial interest in adoption of the 8 terabyte as well. And so, we feel very good about where we’re positioned particularly with the hyperscale guide, it’s a little bit more difficult to know exactly what our share position is? But we feel very comfortable with where we’re at from a customer and from a competitive product perspective recognizing the fact that Seagate is a formidable competitor, but we feel very good about where we’re positioned right now.
+
+Aaron Rakers – Stifel Nicolaus & Company, Inc.
+
+Okay. And then as a follow-up, well, there is not a lot of questions right now with regard to MOFCOM. I think it’s still obviously an important variable to consider in the model. So maybe if you can give us an update where you stand with regard to the dialogue with MOFCOM and is there any kind of updated views on expectations with regard to the timing of a decision on MOFCOM and as you’re opinions or views change on a potential synergy opportunities being able to integrate Apache. Thank you.
+
+Stephen D. Milligan
+
+And so Aaron, no specific update that’s any different than what I provided last quarter, our dialogue with MOFCOM continues. It continues to be constructive and it continues to be active. And so I was in China a couple of weeks ago and met with MOFCOM. And as I indicated, we continue to have a discussion about our situation, the process that they will use from a review perspective. I’ll call parameters that they will use to evaluate our application. And so we although maybe a bit discouraged I guess you might say in terms of the timing. We are positive about our ongoing dialogue with China with the monopoly bureau.
+
+They have not provided any indication as to specific timing. I think one of the things that we have to recognize is that the whole separate remedy that was imposed was a new remedy. It was not something that they had done before. The reapplication to have it lifted is therefore by definition also a new process and an undefined process. And the Chinese are being very deliberate with that review. We respect that. And like I said, we may be a bit frustrated in terms of we certainly would like them to move faster, but at present we continue to be encouraged by the constructive nature of our dialogue.
+
+Aaron Rakers – Stifel Nicolaus & Company, Inc.
+
+Thank you very much.
+
+Operator
+
+Next question comes from James Kisner with Jefferies. Your line is open.
+
+James Kisner – Jefferies Equity Research
+
+Hi, guys. Thanks for taking my questions. First on Helium, just wanted to understand if you had any capacity constraints and all were you able to meet all the demands for Helium drives?
+
+Stephen D. Milligan
+
+No capacity constraints related to our Helium-based drives.
+
+James Kisner – Jefferies Equity Research
+
+Great and just separately just mathematically there seems like you may be losing a little bit of share near-term on notebooks. Just could you comment on that as skepticism you’re seeing is this just a quarter-to-quarter duration or what you think?
+
+Stephen D. Milligan
+
+Yes, if you look at our share over the last several quarters, we have had the – we’ve sort of been up and down maybe a point or two. If you recall last quarter or two quarters ago, so the June quarter, we gained two points in market share, this quarter we lost, I believe, about 170 basis points. So this tends to be the normal ebb and flow that occurs in our business from a share perspective.
+
+And as was indicated yesterday on our largest competitors call, they took some incremental business or were provided some incremental business in the gaming segment that drove a reasonable amount from what we can gather of their share increase and correspondingly drove the Lion’s share of our market share decline. And also you can see that that was lower margins business and perpetuated itself and our respective financial performance.

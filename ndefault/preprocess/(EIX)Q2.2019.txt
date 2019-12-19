@@ -1,0 +1,305 @@
+My comments today will cover second quarter results from 2019 compared to the same period a year ago, plus comments on our General Rate Case, our updated capital expenditure and rate-based forecasts and other financial updates for SCE and EIX. As we have said, year-over-year comparisons are difficult given the timing of the GRC.
+
+Please turn to Page 3. For the second quarter 2019, Edison International reported core earnings of $1.58 per share, an increase of $0.73 from the same period last year. From the table on the right-hand side, you will see that SCE had a positive $0.75 core EPS variance year-over-year. There are a few items that account for a majority of this variance. Upon receipt of the 2018 GRC final decision in May, SCE recorded the retroactive 2018 impact, which increased core earnings, primarily due to the application of the 2018 GRC final decision to revenue, depreciation and income tax expenses. This GRC true-up contributed $0.20 of positive earnings. Additionally, higher 2019 revenues had a positive impact of $0.34, including $0.28 at the CPUC and $0.06 at FERC. FERC revenues were higher primarily due to a change in estimate on the FERC formula rate mechanism.
+
+Lower O&M costs had a positive impact of $0.14, primarily due to the timing of regulatory deferrals related to wildfire insurance and wildfire mitigation costs. During the quarter, certain wildfire mitigation costs reached the total authorized in GRC and we began to defer incremental costs through approved memo accounts.
+
+Finally, lower depreciation and amortization had a positive $0.07 variance, primarily due to the impact of disallowed historical capital expenditures and the change in depreciation rates from the adoption of the 2018 GRC final decision. For the quarter, EIX Parent and Other had a negative $0.02 core earnings variance, mainly due to higher interest expense.
+
+Please turn to Page 4. For the first half of the year, Edison International core earnings per share increased $0.56 to $2.21 per share. This includes core earnings increases of $0.55 at SCE and $0.01 at EIX Parent and Other. I'm not going to review the year-to-date financial results in detail, but SCE's earnings analysis is largely consistent with second quarter results, except for higher O&M costs and higher net financing costs. O&M had a negative variance of $0.04 year-over-year, primarily due to higher wildfire mitigation costs, partially offset by timing of regulatory deferrals and cost recovery of wildfire insurance costs. Net financing costs had a negative $0.09 variance, primarily due to increased borrowings and higher interest on balancing accounts.
+
+Please turn to Page 5. As Pedro mentioned earlier, the CPUC approved a final decision in SCE's 2018 GRC in May. The decision authorized a CPUC GRC revenue requirement of $5.12 billion for 2018 and identified changes to certain balancing accounts, including the expansion of the Tax Accounting Memo Account, or TAMA, to include the impacts of all differences between forecast and recorded tax expense. Based on the 2018 GRC, SCE's authorized revenue requirement is $5.45 billion in 2019 and $5.86 billion in 2020, representing an increase of $335 million in 2019 and $412 million in 2020.
+
+Please turn to Page 6 for SCE's capital expenditures forecast. This forecast reflects planned CPUC jurisdictional spending as approved by the 2018 GRC. It also reflects significant other capital spending needs outside of the GRC, particularly wildfire mitigation-related capital expenditures under the Grid Safety and Resiliency Program, or GS&RP, and the wildfire mitigation plan, or WMP. As an update to our prior forecast, we now estimate approximately $390 million of wildfire-related spending in 2019. Additionally, we continue to expect wildfire mitigation capital expenditures in the range of $500 million to $700 million for 2020.
+
+The CPUC has approved the 2019 WMP and authorized tracking of costs related to the GS&RP and the WMP through memorandum accounts. We have also proposed a balancing account for our GS&RP spending and are anticipating a decision from the CPUC this year. Under AB 1054, SCE will not earn an equity return on the first approximately $1.6 billion of wildfire mitigation plan expenditures. We will work with the CPUC to implement this provision in light of the ongoing GS&RP and WMP proceedings.
+
+On Page 7, we have our rate-based forecast that incorporates the GRC final decision as well as increases in FERC spend since the last update. The GRC authorizes 2018 CPUC jurisdictional rate base of $22.3 billion. This corresponds to total 2018 rate base of $28.5 billion. SCE's rate base grows at a compound annual rate of 8.4% from 2018 to 2020. I would note that this current rate base forecast does not include any of our wildfire mitigation-related capital spending or additional needs for programs such as Charge Ready 2.
+
+On Page 8, you will see our key financial assumptions and EIX core EPS guidance for 2019. Our revise EPS guidance range for 2019 is $4.61 to $4.81 per share with a midpoint of $4.71. This compares with guidance of $4.72 to $4.92 per share we provided after we obtained a final decision on the GRC in May. I would note that this revised guidance is related to changes to our financing plan as we project funding the $2.4 billion initial contribution to the wildfire fund, and there are no updates to the overall operational results of both SCE and EIX Parent.
+
+On the left-hand side, we have shown to build up for core EPS guidance, starting with EPS for 2019 from the simplified rate base model. SCE variances are expected to have a positive impact of $0.41, including $0.32 related to financing and other operational items. The test year 2018 GRC true-up has a positive contribution to EPS of $0.20. We booked this contribution in the second quarter.
+
+For EIX Parent and Other, we expect an earnings drag of $0.30 cents to $0.35 per share, which includes approximately $0.01 per share per month related to EIX operating expenses. We are forecasting a total of $0.18 of EPS dilution from the financing plan announced last quarter as well as the financing plan required to support the $2.4 billion contribution to the wildfire fund. I will discuss more about this in a minute.
+
+At Edison Energy, we are working towards our target of achieving a breakeven run rate for earnings by the end of this year. Let me provide an update on our 2019 financing plan. As Pedro noted earlier, we have notified the commission of our commitment to provide the initial contribution and subsequent annual contributions to the wildfire fund. Following passage of AB 1054, the rating agencies have reported on the credit supportive attributes of the wildfire fund and the legislation more broadly, including changes to the cost recovery and prudency standards.
+
+On our last earnings call, I discussed the components of a 2019 EIX financing plan, which included the issuance of $1 billion of holding company debt and $1.5 billion of common equity through an aftermarket, or ATM equity program, and the use of internal equity program. This plan was designed to fund SCE's requirements related to the requested increase in the authorized equity layer and additional growth investment of the utility. Based on our election to participate in the wildfire insurance fund created under AB 1054, SCE requires an additional $2.4 billion to fund the initial shareholder contribution. Funding for this contribution will be in addition to the previously announced plan and together, the combined financing need in 2019 is $4.9 billion.
+
+Through the second quarter, EIX has issued $600 million of unsecured notes as part of the original $1 billion debt financing need identified in Q1. We have not yet issued any equity under our ATM program, but we intend to do so opportunistically.
+
+As we've discussed in the past, our overall approach to financing the business is to fund capital requirements in a balanced manner. Our Q1 plan to fund the requested increase in the authorized equity layer and make capital investments at SCE is consistent with this philosophy. Likewise, this is how we will approach funding for the initial shareholder contribution to the wildfire fund. We are evaluating a range of potential EIX and SCE funding options to support the incremental $2.4 billion financing need and anticipate the permanent capital raise will likely utilize 50% holding company equity contributed to SCE and 50% operating company debt.
+
+As we have outlined, we are focused on a balanced financing approach that maintains a healthy balance sheet and promotes investment-grade ratings at both SCE and EIX. We believe this is the most effective way to support operations and future capital investments. We will continue to share our financing needs as we progress another milestone beyond 2019, including the 2021 GRC, our Charge Ready 2 application, securitization activities related to AB 1054 and potential wildfire liabilities.
+
+That concludes our remarks.
+
+Sam Ramraj
+
+Dustin, please open the call for questions. [Operator Instructions].
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]. First question is from Julien Dumoulin-Smith from Bank of America Merrill Lynch.
+
+Julien Dumoulin-Smith
+
+Can you hear me?
+
+Pedro Pizarro
+
+Yes.
+
+Maria Rigatti
+
+Yes, we can.
+
+Julien Dumoulin-Smith
+
+Good. Excellent. A little soft for the operator there, so I wasn't sure. All right. Well, thank you again for all the details here. Maybe to just take it off. I just wanted to understand a little bit more on the timing for the combined financing of the $4.9 billion. How do you think about the ATM usage, especially against the timeline for the cost of capital case? Do we need to see an outcome on that front before you decide to move forward with the 1 5 [ph]? And then separately related here, just want to understand, as you think about the $2.4 billion wildfire fund, that as best I understand, it is excluded from the authorized capital structure. Can you talk about the decision to use the 50-50 funding for that versus just using more of the leverage capacity at the whole cut?
+
+Maria Rigatti
+
+Sure. So Julien, I think we really think about it as this is a total need for 2019. So that includes, both the Q1 items that you just remarked on, equity layer, investment utility as well as the contribution to the wildfire fund. We're going to use the ATM opportunistically. I think we talked about that earlier in the year. That continues to be the case. I think the comment you make around the ability to exclude the amounts from the authorized capital structure, we are obviously, contributing some equity down into SCE and they will issue some operating companies debt. So that does take advantage of that element of the legislation. But overall, the mix of equity and debt that we talked about really reflects our philosophy around financing the business and the balanced way, in which we are approaching at.
+
+Julien Dumoulin-Smith
+
+Got it. But just to be clear about this, the $4.9 billion that is the intention to issue the equity for the cost of capital equity injection by the end of the year as well?
+
+Maria Rigatti
+
+That's correct.
+
+Operator
+
+Our next question is from Praful Mehta from Citigroup.
+
+Praful Mehta
+
+Just to follow up a little bit on that. In terms of the capital structure, if you don't get to 52%, what happens in that case? Do you want to wait till you get to 52% authorization before you issue? Or is there a prefunding plan as well?
+
+Maria Rigatti
+
+So thanks, Praful. This is Maria's. So we talked about -- I think a little bit about this in Q1 obviously, with all the events that happened in Q2 it's probably a little bit more to digest. But the -- our plan was to watch the cost of capital proceeding as it goes through the process over the course of the year. Since Q1, there's been -- there have been some developments in terms of issuing a scoping memo, setting a schedule, et cetera. Obviously, Pedro mentioned earlier that we would also be thinking about the interplay between AB 1054 and our ROE request as well. So things are moving along, and we developed the plan to use the ATM to reflect the fact that we would watch that evolve over time. We continue to believe that we're going to use the ATM opportunistically to address that need as well as we're going to be looking at all the tools and the timing frankly and options to fund the initial contribution to the wildfire fund. So that's, generally speaking, the philosophy.
+
+Praful Mehta
+
+Got you. That's super helpful. And then just secondly, in terms of -- connected to that, if your capital structure does improve, and you get to the 52%, is that reflected in any of the numbers from a GRC perspective in terms of the revenue and all of that? Or do we need to update that in our models to reflect the higher capital equity layer?
+
+Maria Rigatti
+
+So I mean, I don't know what's in your model but the earnings would then reflect 52%, not 48%, which we have currently. So each year, we go in to the CPUC and we file the revenue requirements for the year. So it's the -- if 2020 and includes a 52% equity layer, we would update the revenue requirement for at that beginning of the year, same thing for '21, et cetera.
+
+Praful Mehta
+
+Got you. So that decision and that -- you will show that revenue requirement once you file it depending on the decision from the CPUC?
+
+Maria Rigatti
+
+That's correct.
+
+Operator
+
+Our next question is from Ali Agha from SunTrust.
+
+Ali Agha
+
+My first question. Just to clarify, when you're thinking about your current equity needs. So the $1.5 billion stays as is? And if we assume 50% of the $2.4 billion will also be equity, so we're early talking about $2.7 billion in total. one, I wanted to be clear. And then related to that, have you checked in with the rating agencies, are they comfortable with that mix and the amount of incremental debt that is implied in this math?
+
+Maria Rigatti
+
+So in response to your first question, Ali. The $1.5 billion relates to the equity layer request that we have into the CPUC. We've indicated sort of a 50-50 structure against the $2.4 billion contribution to wildfire fund, so that would be $1.2 billion. So yes, that's $2.7 billion. So it's confirming your math there.
+
+In terms of the rating agencies. We have an ongoing dialogue with them throughout the course of the year obviously, lots of dialogue around AB 1054. I'm pretty sure they've talked to --I spoked on the phone as well. And they've remarked across the board, including in their published reports, about AB 1054. All the credit supported aspects that the wildfire insurance funds incorporates, the liquidity benefits, the cap, the standards for reasonable conducts. So I think that's been a very -- they've come out very strongly in favor of that. Now we've just elected to contribute to the wildfire fund. So that was one of the things that they've been looking for. They've also been looking for a safety certification. Obviously, and Pedro just mentioned, that we got our safety certification today. So we think that, that -- all of that is the very supportive. And we believe now that we have all these things in place, that the third leg of the school is the -- stool, rather, is the financing plan. And we believe that our financing plan aligns with the rating agency's published guidance around maintaining our financial risk profile.
+
+Pedro Pizarro
+
+And Ali, if I could just follow on with Maria here. As we developed that plan that Maria emphasized, the fact that it is a balanced plan, it's one that we think will preserve our financial health. And it's one that frankly we want to make sure that overtime continue to build the strength of the balance sheet and have a good shock absorber built into that. So as folks have been developing their models, we see reports, and maybe, some folks might have thought perhaps it is more or less that, et cetera. We wanted to take a balanced approach that allows us to build that strength and preserve some ability to always have some shock absorber in the system.
+
+Ali Agha
+
+Got you. And a quick follow up. Where do we stand on the '17 and '18 wildfires, which are obviously not covered in this? And eventually are you thinking for modeling purpose that there may be more equity needed as you have to pay for those liabilities sometimes in the future?
+
+Pedro Pizarro
+
+I don't think we have substantial update '17 and '18 from Q1. Recall that at the end of '18, we took the accounting reserve for what we viewed as the low end of the estimable range of potential liabilities there. And I think as we've signaled all along, this could be a long process as we work our way through the litigation efforts in the courts. There's always, of course, a possibility of parties wanting to enter settlement discussions. We've returned to talk about that. But just reflecting the fact that as you've seen cases historically, they often end up with some attempts at that. So nothing to update at this point other than to reinforce that, we think that the reserve we took at the end of last year still make sense in terms of refining low end of the estimable range. And that will take some time to work through a complex proceedings there. There's a number of legal milestones, et cetera, from week to week or month to month, but nothing that we felt was to level of materiality for these disclosures.
+
+Operator
+
+Our next question is from Steve Fleishman from Wolfe Research.
+
+Steven Fleishman
+
+So Pedro, a question for you just on your comment of careful implementation and potential future refinements being critical to the law of success. Could you maybe give a little more color on what you might be referring to with those comments?
+
+Pedro Pizarro
+
+Sure. And yes, I think a number of you have heard us talk about the parallels to the energy crisis two decades ago. That also included in it's solution new legislation that setup a new framework. And then there was a period of time where the CPUC and other agencies had to go implement the law. There's a lot of building blocks or Lego blocks, however you want to think about it, that have to come together in place here. Now we need to -- we've already been, I think, encouraged by seeing positive early steps. The fact that we filed for initial annual certification, safety certification, and already obtained that from the CPUC today. That's, I think, a good marker along the way. There will be many more markers. There will be the creation of the wildfire safety division, initially inside the CPUC, and then later on being moved out to a new agency under the Natural Resources Branch of state government. There will be the creation of Wildfire Safety Board. There will be the input from those entities into future wildfire mitigation plans.
+
+So probably keep on reciting the various terms of the legislation and things that where we will all, I think, once you see good implementation of those and good track record built. And will build, I think, the confidence that we, that investors, that customers, that communities have in how the laws being implemented. We didn't specify any specific potential future refinements, but the reality is that with any law that this is large and complex as this one -- and frankly, that was written and passed and signed by the governor with such a sense of urgency, which means that the one that moves quickly. There are often cleanups that need to be made, sometimes it can be small and sometimes it can be the less small , sometimes it's just a clarification of a construction of language, and then other times it might be -- maybe more significant things. We're not ready at this point to enumerate a list of this, but we acknowledge that it is certainly very feasible that given the complexity and time involved here, there will be some of this. I don't know if that helps you, Steve, to frame your answer to the question.
+
+Steven Fleishman
+
+Yes. No, that's helpful. I have one follow up just on timing of financing. And just the -- I know the wildfire contribution is not due till September and the equity ratio decision not till year-end. But just -- we do have record stock market, we have very low interest rates and the like and your stocks has bounce that leaves some with this legislation. So just why wouldn't you just get a lot of this financing off the table as soon as possible?
+
+Maria Rigatti
+
+Steve, it's Maria. We obviously are watching the market. We want efficient execution. We're evaluating all the timing issues that you just raised. But that's what we're doing right now. We're evaluating it.
+
+Operator
+
+Our next question is from Paul Fremont from Mizuho.
+
+Paul Fremont
+
+Congratulations on getting the AB 1054 and getting that all behind you. In terms of how to think about the company on a longer-term basis, is there a level of FFO-to-debt that we should be thinking that the company is going to be targeting as you move forward in time?
+
+Maria Rigatti
+
+No. Paul, this is Maria. I think it's about the more as -- we do think that having investment-grade -- that's a processes we've just gone through over the past year or two, obviously, we have a strong commitment to investment-grade ratings at both SCE and EIX. We're still working through a process with the rating agencies in terms of how they will think about and sort of reposition California from a strength of the regulatory construct, et cetera. So as we move through that, I think that -- keep in mind or you can understand it we'll be targeting those investment-grade ratings. I think the metrics themselves are important, but equally important is how California looks to the rating agencies on a go-forward basis. So that meets the metric itself, I think, will be less specific about that and we'll just be focused on keeping that investment-grade rating solid.
+
+Paul Fremont
+
+Okay. So you're not going to have like numerical target that you're going to provide to investors?
+
+Maria Rigatti
+
+Not at this time. No.
+
+Paul Fremont
+
+And then going back to Ali's question. In terms of when you do pay out claims to claimants from the '17 and '18 fires, should we think about a funding formula that is similar to the sort of the 50-50 that you're talking about for your initial contribution to the wildfire mitigation fund? Or how should we think about your approach towards funding those cash needs?
+
+Maria Rigatti
+
+Maybe think about it in a couple of three different ways, First, there isn't a lot of the variables that would need to be taken into consideration. So post-2019, you're referring to the wildfire liabilities. But we're going to be filing our 2021 GRC. There is the issue around the securitization for the wildfire mitigation-related spending. That's in the AB 1054. We have other applications pending in front of the commission that also require capital. So there's a lot of things to take into the mix or into consideration in addition to the liabilities. The first part of the liability is presumably get covered by insurance as a starting point in any event. So there is a lot of timing in there, there is a lot of different variables. Recall also that when we requested our capital waiver, we asked for some relief around, including the charges and the financing for those potential liabilities in our capital structure. So there's a lot of different things that we're going to have to weigh and consider before we make a final determination as to how we finance that part of the go-forward plan.
+
+Pedro Pizarro
+
+And I would just settle the score that just those -- the timing of the liabilities alone is a significant variable because it will depend on a court process for different cases that has only just begun.
+
+Paul Fremont
+
+I guess what I'm really trying to get, is there any expected potential equity need beyond the $2.7 billion? Or is -- should we just think of the $2.7 billion as the end of your equity need?
+
+Maria Rigatti
+
+The 2019 plan is only laid out. I think and as I just noted, there are a lot of variables as you move past this year. And we're going to have to consider all of those variables. We're going to have to consider the timing that Pedro just noted, not just on the potential liabilities but in all of the decisions that I just referred to. So I think that, that is sort of a go-forward planning element that we'll share with you with we have more information. We will continue to focus on our investment-grade rating. So that's the other piece of the mix in terms of the decision-making process.
+
+Operator
+
+Our next question is from Angie Storozynski from Macquarie.
+
+Agnieszka Storozynski
+
+So I know you mentioned that there's going to be plenty of refinements of this new law. But I'm -- my bigger concern is that it is $21 billion, which seems like a large amount. But we're going through the PG&E bankruptcy where they're mentioning $30 billion in liabilities related to one very large fire, but still in excess of that amount. And the bill doesn't really talk about how this sum gets replenished. So how should we think about it? Is it that going forward, the goal is still to have some sort of a inverse culmination change, which will be more supportive of investor on utilities in the state? Or is it that there is hope that this $21 billion basically is sufficient for all utilities and all future fires going forward?
+
+Pedro Pizarro
+
+Yes. So let me start trying to frame an answer here, and Maria or Adam Umanoff or others here may have thoughts to. I think for starters, the $21 billion fund is expected to cover potential liabilities that they could be much larger. At least $40 billion, $45 billion. And that's, I think, based on the history of -- and how these cases grow. You often see settlements achieve that have a discount built into them. In fact, the legislation itself, as you might recall, has essentially built in discount for segregation claims of 40%. It provides a possibility for settlements that are higher, but those who need to be essentially approved by the fund manager. So there's, I think, a clear expectation, Angie, that there's a significant discount there.
+
+And frankly, that's part of the compact here across a lot of stakeholders and a lot of competing interest. I think the governor probably said it pretty well when he gave his first -- he goes to a conference call that he gave when the strike force reports came out. And if I recall correctly, he made a comment about everybody in California having to bear some share here in terms of dealing with this issue. So clearly, there's a piece that shareholders are now having to contribute, there's a piece of customers who are contributing and there's a piece that through the 40% that's built in there, you're seeing a discount being applied to the recoveries that the insurers would get. So I think it's a piece here for everybody. So I think that's the starting point. And in fact, the government -- the governor's office team released some projections of the durability of the fund and those 10 years out exceeded the 90% level. So that's one piece of it.
+
+I think the second piece is that the focus on durability over 10 years on an actuarial basis was rooted at least in part in the discussions that we heard on the idea of giving California and California Utilities time to continue to harden our assistance. And so the expectation is that the overall risk profile for the state, although it will never be zero, will never be zero, but that the risk profile should decrease, should improve significantly as all of us, the utilities side, continue to put in investments to harden in our infrastructure. And it's not just us. It's other measures of the state is developing and implementing around better funding for fire suppression, the focus on better standards for homes and businesses and buildings in high fire risk areas, the refinement of fire maps. Angie, all of these things are forest management, really important one, right? So this all goes to the decreasing the risk of the spark coming out, but if the spark comes out, then decreasing the risk of that spark turns into a massive wildfire of $30 billion-plus versus a maybe more contained wildfire. So I think that's the philosophy. You are right that there is not a specific replenishment mechanism in general for the fund. And I think there's a sense that there was a significant accomplishment by the governor and legislature in implementing this first phase that has feasibility that's out and hopefully, decade or so. And I'm sure the state will continue to check and adjust as it sees how that experience goes.
+
+Operator
+
+Our next question is from Michael Lapides with Goldman Sachs.
+
+Michael Lapides
+
+Real quickly, is there a potential use of securitization to help cover the 2017 portion of the wildfire claims after insurance that you actually have to pay out?
+
+Maria Rigatti
+
+Yes. So the 2017 claims or wildfires are covered in SB 901. And there, in 2017, you can securitize the benefit of the customer if there are amounts that have been disallowed, but they are viewed as being -- would undermining the utilities financial stability. The commission has gone through a proceeding to define how that would work and what the -- how you would calculate the piece that would be basically too much for the utility to bear. That calculation, I would say, is one that's probably not an example of perfect clarity, but it's also something that I don't -- I think at the end of the day, we put it on to define particularly useful. You may recall that we said it before that we did not -- in really necessarily be in a position to take advantage of that 2017 provision. I don't really see securitization as a big opportunity for the '17 amount. The amount of wildfire mitigation-related spending that we have to basically implement without a return. So our portion of the $5 billion that's in AB 1054, that is something that is able to be securitized.
+
+Michael Lapides
+
+Got it. But you would effectively net neutral on that?
+
+Maria Rigatti
+
+That's right.
+
+Michael Lapides
+
+Right. Okay. Typical securitization built, just like storm recovery occurs in other jurisdictions, et cetera?
+
+Maria Rigatti
+
+Yes.
+
+Michael Lapides
+
+Okay. My second question is, what is not in rate base growth guidance that over the next 6 to 12, 6 to 18 months you think should get -- potentially get added to it? You talked a little bit it in the opening remarks. If you don't mind revisiting that, that would be great. I'm just trying to make sure kind of the puts and takes the items that are in it, the items that are not in it.
+
+Maria Rigatti
+
+Sure. So 6 of 12 months frankly, Michael, is a fairly short time frame. So we're not sure of it that just will be necessarily added even the next 6 to 12 months. So what's not in the rate base forecast right now is, we haven't included the wildfire mitigation-related to spending that we've been identified for '19 and '20. That's -- it's in our CapEx forecast, but not in our rate base forecast. That is going to be essentially subject to that AB 1054 provision we have to work with the commission to figure out how to implement that alongside our GS&RP and wildfire mitigation plan. But for clarification, it's not in our rate base numbers. We also have a Charge Ready 2 application pending in front of the commission. We're thinking we're going to get a decision on that later this year. It's about $560 million of capital or thereabout. But remember, that rolls out over a number of years, so of the impact on rate base, even if we're spending CapEx, the impact on rate base over the next couple of years probably pretty moderate. Longer term, we're looking at energy storage. At some point, CAISO will develop a plan to bring -- that meet the new -- the higher renewable portfolio standards and we have an opportunity potentially to participate in that mix. But those are not 6 to 12 months issues. Those are longer-term issues.
+
+Michael Lapides
+
+Got it. Okay. And on the cost of capital pocket, what's the time line and in process from here? I mean, the CPUC has a lot of things on its plate. I'm just trying to think about how they prosecute all of the items and kind of where this one fits in the prioritization ranking?
+
+Maria Rigatti
+
+Well, thus far, they have been very diligent about holding to their schedule. Comments are due from interveners and from the utilities on August 1. And then they have a schedule on scoping manual and schedule that has the decision coming out before year-end.
+
+Operator
+
+Our next question from Greg Gordon from Evercore.
+
+Gregory Gordon
+
+Just one follow-up question. When it comes to the wildfire mitigation spending where you're not going to receive an equity return. Before thinking about modeling, the spending and the recovery on that, should we presume that you'll recover at a cost of debt return on 100% of the investment and that you could finance it accordingly, such that there's no negative arbitrage to your -- on your financing costs relative to your ability to recover the capital? Or did I hear differently that essentially it would be sleeved and it would have no impact at all?
+
+Maria Rigatti
+
+Yes. So the way the legislation is drafted is that it would basically be a securitization, so dedicated rate components that would allow us to recover the return of our capital, but then the return on the debt, which would be presumably lower cost. So it's structured in a way to be minimize the cost to the customer. So yes, that would be neutral. We are -- we need to work with the commission to determine when those pieces would fall into place so they wouldn't -- essentially, we could be implementing program before the securitization actually took -- was issued -- that was actually issued. So we have to figure out with the commission how it will implement it. But in sort of a like big picture kind of response would be, it's basically designed to be neutral to us.
+
+Gregory Gordon
+
+Okay. So you'll get a recovery, essentially be a debt return, the debt that you issue will be recovered dollar-for-dollar and then you'll depreciate the assets and recover the capital you invested?
+
+Maria Rigatti
+
+That's right.
+
+Gregory Gordon
+
+Right. And then when it comes to the -- you're raising this equity at the parent level to put down into SCE and you're going to issue debt at the SCE level to pay for the wildfire insurance contribution, what's the accounting for this? Is going to be a charge that you have to take that will go against the GAAP equity but -- I think for my understanding of the legislation is from a -- in terms of accounting for your regulatory capital structure that this would -- these financing costs would not be counted against your regulatory capital structure pre-making purposes. I'm sitting here trying to model this stuff frankly, and I'm just -- we could use some guidance.
+
+Maria Rigatti
+
+Yes. So we're still evaluating the accounting for it, Greg, to be quite honest. It could be a charge but -- and certainly wouldn't be more than the amount of the a contribution. But we're actually frankly still working through that in determining how we would account for that. That's the first question. So that's a GAAP kind of response. Second part of your question is, yes, there could be a charge for GAAP purposes, but under the legislation, we would not have to take that hit in our regulatory accounting.
+
+Gregory Gordon
+
+Okay. So if I'm looking to do side-by-side a GAAP sort of capital structure against regulatory, and I do presume that there is a charge, I would reverse the charge for regulatory purposes in my equity calculation?
+
+Maria Rigatti
+
+That's correct. Correct.
+
+Operator
+
+Our next question is from Travis Miller from MorningStar.
+
+Travis Miller
+
+Just wondering how you think, real quick, about the dividends with respect to any kind of equity needs. Where does that fit in?
+
+Maria Rigatti
+
+I think we understand the importance of the dividends to our shareholders, no question. Obviously, from prior quarter when dividend question was captioned in slightly different way or from a different angle. We don't get ahead of our Board on those issues. But our policy has been to grow the dividend. We'll continue to manage over the longer term to that 45%, 55% payout ratio range. But we understand the importance to our investors.
+
+Travis Miller
+
+Okay. And then on the wildfire adder that you had requested in the cost of the capital, how do you think about that now? Or how do you think the commission will think about that now post the legislation that presumably would lower your cost of equity in the market?
+
+Pedro Pizarro
+
+Travis, I think we mentioned in your remarks, we're still evaluating that. We had said all along that if there was a new policy established through legislation, we will look at revisiting that for potential reduction or even the elimination depending on how the risk profile changed. To be honest with you, we're still observing that quickly and evaluating that. And I believe we have a deadline coming up of August 1 for filing our comments in the cost of capital proceeding with CPUC.

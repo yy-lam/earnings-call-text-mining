@@ -1,0 +1,475 @@
+Many of my comments will reference the supplemental schedules that are available on our website for this call.
+
+Beginning with the fourth slide. First quarter worldwide net sales increased 9% year-over-year to $6.7 billion, driven by stronger demand and solid execution by our teams in both regions. The strengthening of certain foreign currencies against U.S. dollar, positively impacted the year-over-year sales comparison by approximately three percentage points.
+
+Looking into the sales by region, turning to Slide 5. In the Americas first quarter net sales were $2.5 billion, an increase of 8% from the prior year with strong growth across the region. Growth in the U.S. was fueled by strength in SMB end markets with the education, federal and healthcare vertical sectors, all posting strong double-digit sales growth.
+
+Latin America grew by double digits and Canada posted its best ever year-over-year growth in local currency, due to strong execution and market share gains. By products, the Americas regions growth was driven by strong sales of broadline products, mainly in PCs and good performance in our advanced infrastructure solutions AIS division.
+
+Turning now to Europe on Slide six and seven, our European regions first quarter net sales were $4.3 billion, an increase of 10% U.S. dollars and 5% euros from the prior year, due to stronger demand environment. The majority of our trade regions posted year-over-year growth with Italy, Iberia, Benelux and Germany all posting strong double-digit sales improvement, partially offset by a decline in the U.K.
+
+At product level, our European broadline business also performed well in Q1, with continued strength in PCs and mobility, as well as strong growth in software.
+
+Turning now to our gross margin performance on Slide 8, worldwide gross margin during the first quarter was 4.98%, compared to 5.24% in the prior year quarter and consistent with Q4's gross margin of 4.99%. The year-over-year decline was due primarily to higher sales of PCs, software and mobility product, consistent with the past few quarters.
+
+Turning to Slide 9 for the review of our SG&A expense. Non-GAAP SG&A expenses for the first quarter, which excluded acquisition related intangibles and amortization expense of $7.4 million, or $284.2 million or 4.22% of net sales, compared to $276.1 million, or 4.49% of net sales in the prior year quarter. The increase in non-GAAP SG&A from the prior year quarter is primarily due to the strengthening of certain foreign currencies against the U.S. dollar.
+
+As a percent of sales, the year-over-year improvement of 27 basis point in Q1 is attributable to operating leverage resulting from higher sales in both regions.
+
+Slides 10 through 12 summarize our worldwide and regional operating income for the fourth quarter -- for the first quarter. Worldwide non-GAAP operating income in Q1 grew 11% to $51.2 million. Non-GAAP operating margin was 76 basis points compared to 75 basis points of net sales in the prior year quarter.
+
+On a regional basis, the Americas first quarter non-GAAP operating income was $29.3 million, or 1.18% of net sales, compared to $29 million, or 1.26% of net sales in the prior year quarter. The year-over-year decrease in operating margin is primarily attributable to a year-over-year decline in gross margin.
+
+In Europe non-GAAP operating income in Q1 increased 17% year-over-year to $23.8 million. Operating margin was 0.56% of net sales, an improvement of three basis points from the prior year quarter. The year-over-year improvement in operating income is due primarily to the leverage from increased sales and good expense management.
+
+Stock compensation expense was $2 million compared to $3.1 million in the prior year quarter. We expect stock com expense to be approximately $4.2 million per quarter for the remainder of fiscal 2015.
+
+Interest expense for the first quarter was $6.8 million, compared to $7.1 million in the prior year quarter. Excluding our non-GAAP adjustments, our non-GAAP effective tax rate in Q1 was 37.1% compared to 39% in the prior year first quarter. As we noted in previous quarters, quarterly effective tax rates may vary significantly depending on the actual operating results in our various tax jurisdictions.
+
+Turning to net income and EPS on Slide 13. Non-GAAP net income for the first quarter of fiscal 2015 was $27.7 million, or $0.72 per diluted share, based on $38.3 million weighted average diluted shares outstanding.
+
+Turning now to some balance sheet and other highlights, starting on Slide 14. Our cash conversion cycle in Q1 improved four days to 21 days from the prior year, primarily due to improved payables management during the quarter. Net cash provided by operations in the first quarter was $95 million. We exited the quarter with cash position of $676 million.
+
+Our total debt balance at the end of the quarter, was $404 million and we ended the quarter with a total debt-to-capital ratio of 16%. Funds available for use under our credit facilities were approximately $844 million at the end of the quarter.
+
+Accumulated other comprehensive income, which consists of currency translation net of applicable taxes was $371 million at the end of Q4. At April 30, 2014, the company had approximately $2.2 billion of equity and 38.2 million shares outstanding, resulting in a book value of approximately $56 per share.
+
+We had approximately $399 million of goodwill on acquired intangibles, resulting in tangible book value of approximately $46 per share. Capital expenditures were $4.2 million in Q1. For fiscal 2015, we expect capital expenditures of approximately $40 million.
+
+Depreciation and amortization expense for the first quarter was $18.2 million and we earned return on invested capital on a non-GAAP basis for the trailing 12-month period of 10%.
+
+Now, looking at our customer and product mix for the 12 months ended April 30, 2014, on Slide 17, we estimate the breakdown of our customer segments as a percentage of net sales to be VAR 49%, direct marketers and retailers 28%, and corporate resellers 23%.
+
+In terms of product mix, we estimate broadline products represented 46% of our net sales, data center products 23%, software 18%, mobility 9%, and consumer electronics 4%.
+
+In the first quarter, we had two vendors that represented more than 10% of our net sales. HP represented 22% of our net sales in the first quarter, while Apple represented 12% of our Q1 sales.
+
+Turning now to our business outlook. As we indicated on our recent calls, we began the year expecting an earnings improvement on a non-GAAP basis would occur in the second half of fiscal year due to the size of our European operations and the operating expense leverage achieved in Q4.
+
+However in Q1, with 9% non-GAAP EPS growth, we exceeded our internal plan. We continue to be cautiously optimistic that recent demand trends will continue in both regions, resulting in additional operating leverage in Q2.
+
+For the second quarter of fiscal 2015, we expect low-to-mid single digit year-over-year sales growth in the Americas and Europe in euros and we expect gross margin percentage to be in line with recent levels.
+
+Also for the quarter, we expect non-GAAP effective tax rate of 35% to 37% and we expect the average U.S. dollar to euro currency exchange rate to be $1.36 to €1. For fiscal 2015, we expect a non-GAAP effective tax rate to be 31% to 33%.
+
+I’ll now turn the call back over to Bob for few additional comments.
+
+Bob Dutkowsky
+
+Thanks, Jeff. As we entered the second quarter of our [40] (ph) year-in business, I am pleased with the progress we made in Q1, adding new products and vendors to our line card, as well as new capabilities to our increasingly diverse set of offerings.
+
+Our performance over the last two quarters proves that we have the right strategy in place and we are making the necessary investments to meet the demands of an ever changing IT landscape.
+
+Our investments in the cloud, the software eco system, mobility and integrated supply chain services, have enabled us to respond to market changes and have strengthened the value we bring to both our vendors and our customers. We are focused on leveraging these investments to further advance our business.
+
+As I stated earlier and in our last call, fiscal 2015 is an operational and market focused year for Tech Data. In support of this, we continuously bring on new products, vendors and value added services and we target vertical segments, such as healthcare and public sector and multimedia as well as our traditional focus in SMB to capture high growth opportunity, strengthen our value proposition and improve our overall profitability and returns.
+
+An example of this strategy and action is our recently announced agreement to distribute the Google Chromebook Management Console in the U.S. As part of the agreement, we will provide enabled services to both the public and private sectors, along with presales consultation, deployment services and end user technical support.
+
+Our education team with a robust offering of services, including grant and contract writing, will provide critical end user support, with the goal of enhancing Google Chromebook deployment in the public sector. This highlights our ability to successfully emerge our core strength with new and exciting value added services, while strengthening our value proposition to our vendor partners and reseller customers.
+
+By leveraging our global IT platform and our strong logistics capability, we continue to add new customers in our integrated supply chain business. In the U.S. this month we entered into a new distribution and integrated supply chain supply agreement with Imagine Communications.
+
+Our market share leader of software and video infrastructure solutions, serving a global broadcast service provider and enterprise markets. As part of this agreement Tech Data's integrated supply chain services team will provide streamline logistics, inventory planning and back office support, along with direct fulfilment to several other Imagine current reseller partners.
+
+The relationship also allows Tech Data resellers to access -- access to the entire Imagine Communications product and services portfolio of over 3,000 broadcasting IT, cloud, digital signage and TV everywhere innovations.
+
+It is the unique offering that combines our services and vertical focus strategy, in this case multimedia to optimize the supply chain and provide incremental growth opportunities for our vendor partners, reseller customers and for Tech Data.
+
+Another example of Tech Data using its strategic position in the supply chain to create a unique and compelling value proposition for our vendor partners and reseller customers is our recent agreement with SquareTrade, a leading mobile protection plan company to offer end to end mobile insurance programs throughout Europe.
+
+Combining Tech Data's mobile -- Tech Data mobile's Pan-European infrastructure, resources, and extensive mobile market knowledge with SquareTrade's expertise in quality device protection, we are able to offer mobile consumers a simple reliable way to ensure mobile devices and to create a seamless experience for resellers and end users.
+
+This fee-for-service business demonstrates our move up the value chain as we continue to expand upon our European mobility offerings. And finally, another area we are investing in and heavily focused on is our innovative TDCloud platform.
+
+During the quarter, we expanded our relationship with VMware in the United States to offer disaster recovery as a service. Offered to our StreamOne platform, this unique value added service extends disaster recovery and protection coverage to any business or mission critical application running in a VMware virtual environment.
+
+This addition along with a number of other new cloud offerings added to our line card in Q1, highlight our continued commitment to providing the best and most comprehensive cloud offerings in the IT channel.
+
+Our focus on operations and the marketplace played a key role in delivering our balanced Q1 results. We will continue the sharp focus throughout fiscal 2015. We are encouraged by the improving demand trends in both regions and pleased with the trajectory of our business over the last few quarters.
+
+We believe the momentum we are building is critical to a strong second half performance and positions us well for fiscal 2016 and for the long term.
+
+I would like to extend our thanks to our vendors and customers for their business and their partnership and to my Tech Data colleagues for their continued hard work and dedication.
+
+With that, we’ll now open the call up to your questions.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. Ladies and gentlemen, we'll now begin the question-and-answer session. (Operator Instructions) Thank you. Our first question is coming from the line of Ben Reitzes with Barclays. Please proceed with your questions.
+
+Ben Reitzes - Barclays
+
+Hey guys, good morning. Wanted to ask about -- you said improving demand trends across the two major regions? Could you just elaborate a little more on PCs? Have you seen any tail-off actually into this quarter or do you expect PCs to be a big driver for the entire year and then I have a follow-up? Thanks.
+
+Bob Dutkowsky
+
+Ben, its Bob. I think the uptick in PCs were driven around two fundamentals. The first is expiration of Microsoft XP support, which the reality struck the market over the last couple of quarters that this time in fact Microsoft would go through with that end of service and based on where the technology was in many cases it was easier for the customer to buy a whole new PC than to upgrade their existing PC.
+
+So that demand is playing itself out and we're realizing -- we're realizing benefit from that as well as I believe that there was just a pent-up demand in the PC marketplace.
+
+You saw the performance of the major PC vendors over the last handful of quarters was down. Eventually that technology needs to be replaced and so those two factors XP and the age of the install base I think are the things that are driving PC performance and I think that there is still some legs to both of those throughout the rest of this year.
+
+Ben Reitzes - Barclays
+
+Okay. Great. And then you mentioned Chromebooks, our checks are showing that in education they are even taking share from some the tablets and how material is that -- how material is that to your guidance in the current quarter or is that just a nice-to-have kind of thing.
+
+You mentioned education was particularly strong in the quarter and I was just wondering what the drivers were in that vertical maybe Chromebook and even beyond?
+
+Bob Dutkowsky
+
+Yeah, I think we called out the Chromebook example because I think it highlights our ability to quickly pivot to technologies and segments that are exhibiting momentum. The Chromebook I would say, got off to a slow start back a year or so ago, but over the last year, the last few quarters in particular with the improvement in the infrastructure, with the management console that we are now distributing, the Chromebook becomes a viable platform.
+
+And in particular, in the education segment in k through twelve, it's cheaper to manage a fleet of Chromebooks than it might be to manage a fleet of traditional PCs and so education is focused on that. We help our educational lead focused bars drive those products into the marketplace and we therefore realize the growth, both growth in Chromebooks and growth in the education segment.
+
+Again, the reason we call it out Ben is I think it highlights our ability to find these hot spots in the market and move our model there very quickly and efficiently.
+
+Ben Reitzes - Barclays
+
+Okay. Just clarifying your guidance with things getting better in the second half in terms of margin and leverage, how much of that is a function of pricing versus maybe pricing later in the year versus your own leverage on SG&A and other things you are doing?
+
+Jeff Howells
+
+Ben, this is Jeff. I think pricing environment has been pretty consistent for our product mix over the last four or five quarters. So I think we continue to blend the business at higher end products and lower margin products and for five quarters in a row, the average has been right in the same spot and so current trends, current demand, current product mix, current customer mix, it's pretty much business as usual.
+
+Ben Reitzes - Barclays
+
+Okay. Thanks a lot.
+
+Operator
+
+Thank you. The next question comes from the line of Matt Sheerin with Stifel. Please proceed with your question.
+
+Matt Sheerin - Stifel
+
+Yes, thanks and good morning, guys. Just question on the OpEx and on the leverage going forward, I was a little surprised to see SG&A up sequentially, could you just give some more color behind that?
+
+Were there some incremental investments? You’ve talked a lot about investing in things like integrated supply chain, data center services etcetera. Is that part of it and is that sort of investments going into the back half of the year when you would expect SG&A leverage?
+
+Jeff Howells
+
+Actually the increase in dollars is both currency related. The actual spend in local constant currencies is flat with the recent quarter and that in line with the year ago quarter and we increased the leverage in the current quarter to just under 4.2% as a percent of sales versus a non-GAAP basis like [4.44] (ph) whatever was last year, so 25 basis point improvement.
+
+So within it there are as we indicated previously exchanges of expenses where we are investing in less in areas that require less or have less potential for growth or we can automate and converting those dollars into investment in areas that we are growing the business whether it's services or higher end area of products wherever it requires, but the SG&A is in line with our expectations and we obtain more leverage out of it and expected in Q1 because of the sales being slightly ahead of our expectations in both regions.
+
+Matt Sheerin - Stifel
+
+Okay. And looking into next quarter, it sounds like sort of mid single digit growth in revenue is going to be flat to maybe down slightly and would you expect SG&A to remain in the range from last quarter as well?
+
+Jeff Howells
+
+Yes, the guidance we gave on revenue is low-to-mid single digits and constant currencies. So however you interpret that and yes, that could lead to a sequential decline in sales, which isn’t necessarily abnormal, especially because of the size of Europe. It's not equivalent to the prior year because as you remember, our sales were down so dramatically in the U.S. in Q1 last year, down 8% or something like that off the top of my head.
+
+And we expect to -- and we hope that, that sales will allow us to get some leverage related to the seasonality of some of the expenses and the variability of some of the expenses/
+
+Matt Sheerin - Stifel
+
+Got it. And just a question on the mix and gross margin, I know Bob you’ve talked a lot about investing in areas like services, logistics, data center, but you also have things like Chromebooks, which I imagine is kind of a lower margin hardware business, although there is value add things certainly to wrap around that for VARs, but as you think about mix and in areas of growth in the next few quarters, do you think you'll be able to move the needle in terms of gross margin on mix and other initiatives.
+
+Jeff Howells
+
+This is Jeff. I'll answer that. We were pretty clear in our release saying that the margin is expected to be relatively consistent with the prior recent results. The good news is we have growth in those two ends of the spectrum and the blending of those two is giving us this average gross margin, which by the way with this gross margin we grew sales, 9% and grew every other non-GAAP operating income metric by 9% to 11%.
+
+So it's working very well and our goal is to reestablish the market share in both regions that we had missed some share in compound on that and we missed the share because of the decline in the European business last year and then prior to that, the final modules of SAP.
+
+So there are always things, rest assure, we have a long list of things that we hope to do better in both regions, but producing 9% and 10% growth numbers from the top to the bottom line of the P&L I think is fairly strong, on top of that, generating almost a $100 million of operating cash and the return on invested capital of 10% when our cost of capital is 8% to 9%.
+
+So the plan is still the same. Allocate resources to the right areas, to the growth areas, remove them from the areas that aren’t as attractive to us, leverage SG&A by growing our sales throughout fiscal 2015 and into 2016 and hitting the right spots, but the diversification of portfolio is what's allowing us to achieve these results.
+
+Matt Sheerin - Stifel
+
+Okay. Fair enough. Thanks a lot, Jeff.
+
+Operator
+
+Thank you. The next question comes from the line of Brian Alexander with Raymond James. Please proceed with your question.
+
+Brian Alexander - Raymond James
+
+Yes just to follow-up on Matt's question related to operating leverage, I am just curious why didn’t we see any leverage in the Americas? Revenue grew 8%, which was faster than you expected, I think you expected it to be mid single digits.
+
+You talked about pricing being relatively stable in terms of gross margins and the expenses I don't think came in higher than you anticipated. So when I look at the operating margin of 1.2%, it's down year-over-year, its well below where you’ve operated historically and its well below your peer group. So I am just trying to understand why we are not seeing more leverage in the Americas specifically?
+
+Jeff Howells
+
+Yeah, it's clearly as I indicated on the gross margin explanation, the decline in the gross margin on a year-over-year basis, the impact on the Americas business by holding those costs, I believe consistent and the sales growth versus the margin decline resulted in some short term contraction and the operating income percentage and the lack of growth in operating income dollars.
+
+Yet our European team in the same quarter generated a 17% or whatever it was, improvement in operating income dollars and quite frankly they had more room for improvement and if you recall our focus in the Americas is our obsession with customer service as well as higher end services, servicing in our AIS division and really improving that piece of our business, the quantification of that improvement.
+
+I don't have the numbers in front of me Brian, but last fiscal year, we grew that business like 16%, 18% in the Americas and it continues to be a strong piece of the portfolio. So it's all about service and it's all about continuing to grow and in leverage our existing cost base and the reallocation of the dollars to the most -- in our view, most beneficial place versus some other methodology.
+
+Brian Alexander - Raymond James
+
+Sorry to interrupt.
+
+Jeff Howells
+
+No, go ahead.
+
+Brian Alexander - Raymond James
+
+If I look at some of your competitors that are operating close to 2% or even above 2% in the Americas, is there anything structural that would prevent you from getting there over the next couple of years if you are able to grow in line to slightly faster than the market? I am just trying to understand the leverage opportunity in the Americas and how specifically you can improve profitability to levels where you’ve been in the past and close the gap versus your peer group?
+
+Jeff Howells
+
+Yes. No, first of all, let's talk about the total results of the company, Brian and look at the return on capital compared to the cost of capital in that peer group. I think we're at the top on the return on capitals. So the most important metric that an analyst described to me a while ago was the return on capital and the creation of value.
+
+And whether we had a 2% operating margin or 1% of 1.5%, the important result is what's the return to the shareholders is on that operating result. So I would put our results at the top of the heap on creating the value and the return on capital and the fact that Tech Data potentially compared to our peers knows that we have a lot of room for operational improvement by growing our business and reallocating our resources.
+
+So we're not looking for ways to potentially fix something as optimized. We're looking to grow into optimization and if we look back in FY'14 and behind, we were doing significant IT integrations of acquired entities who are finalizing the SAP system in the Americas, all things that we are building and compounding on that.
+
+So the answer is no. Our aspiration isn’t to get back to a 2%. We could get there within a few quarters if we wanted to by the combination of deploying more capital and reducing our return on invested capital. Others have designed a model to have more cash invested in their business and by utilizing that -- allowing your customers to utilize your cash, you can generate a higher operating income.
+
+We've not chosen that path. We have a midpoint in that path of allowing the interaction of the vendor and the customer utilizing our capital and generating a return on capital that's one to two points above our cost of capital and we are not optimized. We're not done yet.
+
+Brian Alexander - Raymond James
+
+Just final one for me. I appreciate all that Jeff. You guys have built up a nice cash balance once again, solid net cash position and I am just wondering what's holding you back from buying back stock? You are trading barely above book value. I understand this is a year or focus on execution, but I think Tech Data is always a company that's focused on execution and I don't understand why that goal is mutually exclusive from returning cash to shareholders, thanks?
+
+Jeff Howells
+
+We and our Board will consider the timing of that. We're also in the midst of some housekeeping because of the situation that we went through with the restatement and have a strong goal to remediate the identified material weaknesses and in conjunction with that, make sure we return with positive outlook with our rating agencies and so clearly with our cash position, our availability and our performance, we have more flexibility.
+
+But as we said when we opened the call, we did better than we expected this quarter, may be not compared to some analyst expectations, but we take that into consideration and the dynamics of the market.
+
+The market has now shown a two or three quarter return to growth in both regions. So we are trying to make sure that's sustainable. We started Q1 last year in Europe with a much better feeling about the European economy and demand and then it changed dramatically in quarters two and three on us.
+
+So we are very cautiously managed company conservative. We're looking at it. We'll consider it, our Board will consider it and you know that we've used it as a very good tool of return having acquired 41% our issued shares, probably the most aggressive in our history, it is clearly an alternative for our Board to consider in the future quarters.
+
+Brian Alexander - Raymond James
+
+Okay. I appreciate it. Thanks Jeff.
+
+Operator
+
+Thank you. The next question comes from the line Bill Shope with Goldman Sachs. Please proceed with your question.
+
+Bill Shope - Goldman Sachs
+
+Okay. Thank you. Looking at the demand patterns outside of the strength you mentioned in PCs and education, can you give us some color on areas that may still represent pockets of weakness and whether you see that improving as you progress through the year as well?
+
+Jeff Howells
+
+Yeah, I think it will just be the inverse if we didn’t bring it up. It isn’t a highlight. The whole desktop, notebook, mobility and storage story continues as it exited Q4 and into Q1 and other peripheral type products are doing okay because clearly we wouldn’t have the cumulative growth of 9% or 6% in constant currency without good demand across other sectors.
+
+But rest assured, our business in general is strong. You can see that by the consistency of the product breakdowns that we provide on a worldwide basis, on a rolling 12-month basis. So there is not one area of the business that's dropping off the cliff.
+
+Clearly, consumers are the smallest piece of our business. That 4% or 5% of our business has been the weakest for a couple three years now. But the other three major categories continue to be about the same percentage of our business and within the broad line pool, our vendors and their reported results for the most recent quarter probably give you better color on each and every one of those areas of the business than us calling out one particular area.
+
+Bob Dutkowsky
+
+Bill, I thought I will give you one other data point that kind of ties back to Brian's earlier question as well. In the quarter, software, which represents 18% of our revenue, had a strong quarter. But keep in mind software, because of its less opportunity add value in the licensing of software, doesn’t drive the same gross margins or operating income, but it's very efficient from a return on invested capital perspective.
+
+So a strong software quarter like we had in the quarter we just announced may pull back our operating income some, but enhances our return on invested capital and so that mix of products and the available operating income and the available return on invested capital metrics are all the things that we mix throughout the quarter.
+
+And we choose to focus on some areas. We chose to deselect other areas where ether the return on invested capital isn’t right or the operating income isn’t right and we mix all of that generated by $6.7 billion in sales to deliver the bottom line improvements that we described that was double digit virtually across the Board.
+
+Bill Shope - Goldman Sachs
+
+Okay. That's helpful. Thank you. On OpEx if I could, I understand that despite the good news in terms of demand patterns across the regions, we still have to consider some of the uncertainty. So if we look at that and consider the possibility that growth doesn’t continue to improve, would you say on OpEx, you have a clear path for incremental net reductions given the cost optimization activities you’ve done, particularly in the near term?
+
+Bob Dutkowsky
+
+That is not our goal. Our goal is to specifically analyze our cost and to make sure we reallocate our cost to the growth areas of the business, the growth regions, the growth countries, the growth product areas, the growth customer focus and to continue to leverage our cost structure through fiscal 2015 and into 2016.
+
+It doesn’t mean that if demand changes dramatically, we wouldn’t have to implement some type of incremental program, but we are always working on optimization. We are not in the position, nor do we believe we are in the need of doing some type of a wide spread reorganization that will reduce our customer and vendor focus.
+
+Bill Shope - Goldman Sachs
+
+Okay. Thank you.
+
+Operator
+
+Thank you. The next question is coming from the line of Jim Suva with Citigroup. Please proceed with your question.
+
+Jim Suva - Citigroup
+
+Thank you very much. On your commentary I believe you said gross margins you expect to remain relatively consistent, yet in the prepared remarks you also mentioned, gross margins were also pressured by stronger than normal PCs driven by Windows XP expiration and pent-up demand.
+
+So I guess can you help me better understand or connect why gross margins would not improve going forward or are you saying that you expect this full pent-up demand and Windows XP to continue at the rate that it is because I would expect that some of it could cater off and therefore see a gross margin boost or benefit going forward.
+
+Jeff Howells
+
+Well certainly that could be the answer, but there are also as Bob just indicated, we are growing software very rapidly in some countries. Mobility, very strong and hence that's in devices, smartphones and otherwise.
+
+So it's the blended mix and if we look at what we believe we'll be selling in the foreseeable future, we don't see any dramatic change in the mix that would create a significant change in the gross margin opportunity.
+
+Clearly, on $6, $7, $8 billion a quarter, we cannot accurately take it within five basis points. We work hard to analyze it, plan it, model it, but if one area takes off, if there is stronger demand in line, if there is product available, if there are issues in another, there is a lot of drivers in the quarter like ours.
+
+But we got to history as a predictor and the average over the last five, four-five quarters has been in this 5% range plus or minus. So I mean that's what we believe will be the most appropriate to model our business internally at in the near term and then it gets back to the question of if you can continue to create leverage, make money and produce good growth in operating income and dollars with the right return on capital employed, why wouldn’t you continue to sell into that average price point versus contracting sales and generating a higher average that then may put the total dollars available no more no less and create no more incremental value.
+
+So it's quite a simultaneous equation that we go through on a continuous basis and it starts with just the basic what the market wants to consume this quarter and this year and we work our way into that. So could happen, but that's not what we are planning internally.
+
+Jim Suva - Citigroup
+
+Great. As a follow-up, can you give us any insight you may have thus far like in the month of May for demand trend. It sounds like you said they are kind of continuing and specifically within that commentary, can you let us know about the expiration of Windows XP?
+
+Is that pent-up demand still continuing through the month of May or is it starting to soften or too early to tell?
+
+Jeff Howells
+
+We would give monthly guidance. We just indicated for the quarter, we anticipate growing in the low to mid single digits in constant currencies, monthly trends, positive or negative need a lot of incremental information to properly to use that information. So we are quarterly based.
+
+Jim Suva - Citigroup
+
+Right. I know. The only reason why I am asking about the month of May is because we had this big event of Windows XP expiration and -- but just trying to get a little bit of flavor do you see any change from say post your quarter close of that?
+
+Jeff Howells
+
+I think of the XP as a rollout as opposed to an event. If you are business that has thousands of PCs you are not going to change them all in one day or one week or one month, it's a rollout. And so the XP rollout is taking place and the XP replacement is taking place. It's going to take some quarters to play out completely.
+
+Jim Suva - Citigroup
+
+Thank you very much guys.
+
+Operator
+
+Thank you. The next question is coming from the line of Ananda Baruah with Brean Capital. Please proceed with your question.
+
+Ananda Baruah - Brean Capital
+
+Hi, thanks guys for taking the question. I guess a couple for me if I could, Jeff, regarding the Group's SG&A, should we take kind of your comments that these current levels that call it kind of [275, 280] (ph) in constant currency or where you guys want to be over the next couple of years, though 2016, I think you said order of magnitude, when you say that you want to optimize the current cost structure?
+
+Jeff Howells
+
+I think that's a inappropriate way to look at it. Our goal internally is to do a continuous deep dive and try and optimize, automate make more efficient consolidate any process or procedure and then reallocate, reallocate cost that we can optimize to the growth areas and support our business.
+
+Unfortunately with a thin margin business, we have more opportunities than we have the -- what we think would be the prudent ability to spend. We could spend a lot quicker, yet in many areas, it's a multi quarter payback and so in the past, whereas last year to this year or in the future, we moderate that reallocation and quite frankly internally sometimes it can be quite contentious of why don't we just spend more money here because within two to four to six quarters, the payback would be quite significant.
+
+Well, we know we have our responsibility quarter by quarter. So it's going to be a reallocation. We are going to continue to control our expenses. Your commentary is in line with our expectations of how we are going to manage expenses.
+
+Ananda Baruah - Brean Capital
+
+Got it. That's very helpful. And I guess as we look at it, is there a longer term operating model in any context that you guys are in a position to share with us just so we can get a sense of three years down the road what you think the business will look like?
+
+Jeff Howells
+
+No, I would turn it upside down and say our goal is to improve our return on capital to where it was a couple of years ago adding a couple more points to that and so the metric to get there, whether it's higher growth on the topline or faster expansion of the operating income percentage is what will determine quarter by quarter and year by year.
+
+But we don't have a stated objective to turn the operating income percentage to this in the quarters externally because there may be a better path to improve shareholder returns than to hit that specific objective.
+
+All that being said, as I've said several times in the prepared and response remarks, we do not believe we are optimized. We do not believe that this is close to the end game. We're not optimized and then trying to figure out how to remain optimized.
+
+We are efficient and we believe that we are going to be able to grow ourselves into more leverage by the reallocation process that we are going through the change in the product mix and the market providing us with the opportunity for reasonable topline growth and we believe that operating margin expansion is available to us in both deals.
+
+The pace is the thing that we are not committing to at this point. We want to do it correctly and methodically over the next two fiscal years.
+
+Ananda Baruah - Brean Capital
+
+Got it. That's very helpful. I appreciate it. Thanks a lot.
+
+Bob Dutkowsky
+
+Ananda, if you think about -- listen to how many times in our prepared comments we talked about value and services, value ads, each one of those values implies that we are spending SG&A dollars differently than how we have historically.
+
+And so with the power of our IT systems, we are able to get efficiencies in the lower value ad areas and in the higher value ad areas, that implies we are adding different skills, different human capital and in many cases, a different cost structure around those.
+
+Those investments don't always return inside one quarter or two quarters. And so it's underneath the covers of this SG&A expense that we have today and going forward it's morphing into a very different profile of skills and values and we are managing that as well as returning solid growth, both topline and bottom line.
+
+Ananda Baruah - Brean Capital
+
+Yes, Bob, I appreciate that. It's just the commentary hasn’t changed with you guys kind of walking us through the strategy on a regular basis again.
+
+Bob Dutkowsky
+
+It's great to be back.
+
+Ananda Baruah - Brean Capital
+
+Thanks a lot.
+
+Bob Dutkowsky
+
+Thank you.
+
+Operator
+
+Thank you. The next question is coming from the line of Osten Bernardez with Cross Research. Please proceed with your question.
+
+Osten Bernardez – Cross Research
+
+Good morning. Thanks for taking my question. Just to begin, would you be able to walk me through sort of what your -- what's your view on the demand picture in Europe relative to your guidance for the next, for the July quarter in particular I want to know if you would be able to bifurcate sort of the contribution from new logos and new products that you are adding versus core demand from some of your existing customers and I understand that your business requires that you go out and refresh your line cards when needed.
+
+Jeff Howells
+
+Yes, this is Jeff. I think the guidance for Q2 is considering the size of our European operation, it's business as usual, consistent with what we are just seeing in Q4 and Q1 and it's clearly very difficult to add something to the line card that's going to change the complexion of a -- let's say average $4 billion quarter.
+
+So there's certainly new products that are added and gives us the opportunity to consider how we price or participate in other products that are either reaching the end of demand and/or less profitable for us.
+
+But European market has shown us that there is good demand in the two most recent reported quarters and we believe that it's going to continue. Now there are certain countries that have had very strong demand that we highlighted on the call.
+
+Clearly that demand profile may not continue at that rapid pace and so it will moderate and others will fill in, including we expect our -- the demand environment and/or our performance in U.K. to improve as we go through this fiscal year.
+
+But if there's no one single, two, three, five single standouts that are going to change the complexion of our European sales or results over the next couple of quarters that we're aware of.
+
+Osten Bernardez – Cross Research
+
+Got it. And with regards to your comments on the environment in Canada improving during the first quarter, would you be able to comment on whether there were any particular verticals or products that drove that growth or was that mostly macro driven and do you anticipate that continuing throughout the rest of the year?
+
+Jeff Howells
+
+Bob mentioned software. Canada was probably one of our fastest growing areas of software. I think we just did an excellent job out there. I think our vendors are recognizing that our tools and ability in software are excellent.
+
+We had the opportunity to get awarded some business from some customers out there that had a combination of procuring from others and from vendors and asked us to handle that for them. Off the top of my head, my recollection was they had pretty good strength across the Board. Software was the one that just stuck out in my mine, they executed well.
+
+Bob Dutkowsky
+
+They had a solid quarter across the Board. Their large national accounts did well. SMB was up double digits and then on top of that Government season kicked in and we had a strong public sector season.
+
+So, it was kind of a combination of all forces and it resulted in, as we said, one of the best years ever we've had in Canada.
+
+Osten Bernardez – Cross Research
+
+Thanks for that color. And one final question, just a follow-up, when do you expect to hear back from your rating agencies?
+
+Bob Dutkowsky
+
+No, I don't think we'll hear back. It's just a continuous process and they make their determination and decisions, but we're in good shape with them. We keep them fully informed about our business, but there is not a date that we hear back from them.
+
+Osten Bernardez – Cross Research
+
+Thank you very much.
+
+Operator
+
+Thank you. Our final question is coming from the line of [indiscernible] with CLSA. Please proceed with your question.
+
+Unidentified Analyst
+
+Okay. Great. You said earlier that you might not have met the street expectations, but you did meet internal targets, on the SG&A line, I know you answered this question, but just to clarify, are we going to then or do you suggest, and we could take the number that we had here for the first quarter and more or less flat on an absolute dollar basis for the rest of the year, or do you expect it actually to grow a bit?
+
+Jeff Howells
+
+Actually I wouldn’t give that kind of detail. I was responding to one of the other analyst commentaries about how they model it based upon circumstances that we've laid out and just indicated on that, that would be a reasonable assumption.
+
+It could vary by quarter, but our overall goal is to in constant currency keep our SG&A as flat as possible and reallocate resources to the correct places.
+
+Unidentified Analyst
+
+Okay. And then I know that a lot of your businesses as per the last earnings call you had said shipped basically into the back half of the year because of Europe, I guess and I know may be you don't actually give EPS guidance, but consensus numbers are much higher now than it seems like what you are guiding or most of it into the back half of the year, so do you feel comfortable with I guess the $5.50 that was the Street estimate before this call or because you were materially below EPS in the first quarter, it looks like actually moved down.
+
+Jeff Howells
+
+No, we don't really comment specifically on those. I think we've given enough color and representation on Q1 and Q2 and I think it's after that it's up to the modeling of you to determine what that means. We specifically don't provide annual guidance.
+
+Unidentified Analyst
+
+It more has to do with that, you said in the last earnings call how much was backend loaded because of your best effort of sort of trying to get a better feel for?
+
+Jeff Howells
+
+Yes, I think the answer in response to that is clearly Q2 will be -- I am sorry, Q4 should be for the foreseeable future, our best quarter on a rather dramatic basis compared to Q1 and Q2. And the difference I think is we've been able to see more earnings improvement and leverage in Q1 by the sales exceeding our expectations in both regions.
+
+We provided guidance, which was slightly under in both regions what we were able to sell into. So the beauty of this model on the positive side is when you get that opportunity to grow sales, 1%, 2%, 3%, 4% faster than you anticipated with the right mix, a significant portion of that flow is right to the bottom line.
+
+And we also understand the negative if we were short on our sales 1%, 2%, 3%, 4% the negative consequence is to the bottom line and so that's why we try and plan our SG&A on a conservative, but reasonable sales expectations for the next and following quarters to make sure we don't overspend.
+
+As an example, last year in Q2 and Q3 and little bit in Q1, the sales especially in Europe didn’t hit our expectation and so we didn’t get the right leverage out of the business that snapped back in Q4 and bodes well for us in Q1.
+
+It's a very delicate basis point business, but with our operational focus this year versus looking at acquisition candidates significant IT integrations. The other efforts we were working on with winning back customer for service in the Americas and we're completely focused on operating this company right now.
+
+And I think that was evident in Q1, yet we didn’t exceeded our expectations in all areas. We certainly would have hoped to grow earnings in the Americas. We didn’t, but we didn’t depredate the earnings performance, we just depredated the operating performance to get our colleagues in Europe made up for that difference allowing the corporation again blended portfolio to grow our earnings on a non-GAAP basis 9% to 11% depending on the metric and 9% sales growth.
+
+There will be quarters out of the next three where the Americas team will carry the leading flag compared to the European flag and then they will switch back. The portfolio is working for us. We think we are going to have a good building year to prepare us for FY'16.

@@ -1,0 +1,347 @@
+Frontier reported a loss per share of $0.05 in the first quarter of 2015 compared to earnings per share of $0.01 in the fourth quarter of 2014 and $0.04 per share in the first quarter of 2014.
+
+Adjusting for acquisition related interest expense, acquisition and integration costs and severance costs, our non-GAAP adjusted net income was $0.02 per share in the first quarter of 2015 compared to $0.04 per share in the fourth quarter of 2014, and $0.05 per share in the first quarter of 2014. The board declared a dividend payment of $0.105 per share for the second quarter of 2015 in-line with the increased dividend in the first quarter.
+
+Please turn to slide nine. First quarter revenue was $1.37 billion, which includes $264 million of revenue from the inclusion of the first full quarter of Connecticut. This represents a quarterly sequential decline of 0.7% excluding Connecticut, an improvement as compared to the 2.3% quarterly sequential decline in the fourth quarter of 2014.
+
+Total customer revenue of $1.2 billion includes $254 million of revenue from Connecticut. Excluding Connecticut, customer revenue declined by $16 million or 1.6% as compared to the fourth quarter. However, taking into account the anticipated and previously discussed decline in wireless backhaul revenue, the rate of quarterly customer revenue decline improved in our legacy footprint from negative 1.8% sequentially in the fourth quarter of 2014, down to negative 1.3% in the first quarter.
+
+Total residential customer revenue of $617 million included $138 million from Connecticut. Excluding Connecticut, the residential customer revenue trend improved sequentially with a decline in Q1 of only $6 million as compared to $13 million decline in Q4, 2014.
+
+Residential data revenue increased 10% over the prior year, partially offsetting a decline in voice revenue. Including Connecticut, residential data revenue increased by nearly 2.5% sequentially – pardon me, nearly 5% sequentially. Customer revenue – business customer revenue of $616 million included $116 million from Connecticut, excluding Connecticut the $10 million sequential decline was primarily a result of voice declines and the expected step down in wireless backhaul revenue. We continue to be encouraged by the trends we are seeing in SME, as Dan discussed.
+
+Total data and Internet services revenue increased to $20 million sequentially with the first quarter – with the full quarter impact of our Connecticut operations. The legacy operations showed a modest increase with our data services growth outstripping the non-switched revenue declines. The drivers of growth in data services include a 10% year-over-year increase in residential data service and 20% year-over-year increase in business Ethernet services for a total year-over-year quarterly increase of nearly 12%, excluding our Connecticut operations. We continue to anticipate that Frontier's data services revenue should grow and increase as a percentage of overall mix excluding the wireless backhaul headwinds.
+
+Excluding Connecticut, total voice revenue was down sequentially, although an improvement in the quarterly sequential rate of decline from Q4 2014 again reflecting the industry secular headwinds of declining voice customers. This decline was offset by the incremental revenue from Connecticut.
+
+Regulatory revenue for the quarter was $138 million and excluding Connecticut this improved $9 million sequentially. Residential average revenue per customer or ARPC was $64.13 for the first quarter of 2015, a decrease of 2.3% sequentially. As Dan discussed, this was due to the price migration of certain Connecticut bundle customers who moved to Frontier's pricing bundles. We have seen this migration level off in March and April and are already seeing monthly sequential stable trends early on this second quarter.
+
+Business ARPC was down 1.5% sequentially with the wireless backhaul being a factor in this decline. ARPC for SME was stable sequentially, illustrating stable trends in both legacy and Connecticut operations.
+
+The adjusted EBITDA margin in the first quarter was 41.1%. Our margins continue to lead the way in our telecom cable sector with our relentless focus on expense management and continuous operational improvements.
+
+Cash operating expenses in our legacy footprint declined 1% in the first quarter as compared to Q4 2014, and were nearly flat year-over-year as compared to Q1 2014, despite an increased head count to support our Frontier secure strategic partnership service offering.
+
+We have achieved annualized cost synergies in the Connecticut acquisition of $230 million as of the end of the first quarter, exceeding our $200 million target for synergies in far earlier than our original timing of year three.
+
+Capital expenditures were $170 million in the first quarter and we spent an additional $10 million in CapEx related to integration activities. Further, our CAF funded expenditures in Q1 were $9 million. Since inception we have expended $103 million of the $133 million CAF Phase I funds received, enabling or upgrading broadband service to 188,700 households to-date, including an incremental 24,700 households within this past quarter. We currently anticipate completing our CAF I obligations in the third quarter.
+
+Please turn to slide 10. Frontier's cash flow remains very healthy. Our leveraged free cash flow was $197 million in the first quarter, and we are on track for our full-year guidance range of $785 million to $825 million. First quarter cash tax payments were $17 million. Our trailing fourth quarter dividend payout ratio remains very strong and sustainable at 54%.
+
+Please turn to slide 11. Our leverage ratio at the end of Q1 pro forma for Connecticut was 3.85 times, in line with our estimates when we first announced the transaction. Frontier's liquidity remains robust. We ended the quarter with more than $1.3 billion in cash and credit availability.
+
+We've repaid debt of $129 million in the first quarter. Frontier's capital allocation framework remains unchanged: investing appropriately in our network infrastructure and operations, supporting our current dividend, and utilizing excess cash generated to reduce indebtedness and our leverage ratio over time. We are comfortable with our leverage levels and are committed to maintaining our liquidity along with a prudently managed balance sheet.
+
+Slide 12 contains our debt maturity profile as of the end of the first quarter. Since the close of the first quarter, we have repaid an additional $97 million in maturing debt obligations.
+
+Please turn to slide 13. Our guidance for 2015 remains unchanged as follows. Leveraged free cash flow is estimated to be in a range of $785 million to $825 million. Capital expenditures excluding those related to CAF spending are estimated to be $650 million to $700 million, and cash taxes are estimated to be $175 million to $200 million. This guidance excludes spending related to acquisition and integration expenses. We will update our guidance after our decisions are finalized regarding CAF II.
+
+In summary, Frontier's Q1 2015 operating results. The Connecticut transaction, our prudent capital investments and our expense management, all provide a strong cash flow base and a solid financial platform for supporting and investing in the business. We have ample capital to invest in and enhance our competitive infrastructure to service our debt and comfortably sustain our dividend.
+
+With that, let me pass the call back to the operator and open up the line for questions.
+
+Question-and-Answer Session
+
+Operator
+
+We'll take our first question from Batya Levi with UBS.
+
+Batya Levi - UBS Securities LLC
+
+Great. Thanks. A couple of questions. First on the adjusted EBITDA that you reported for the quarter, it was down sequentially despite some better progress on synergies and higher revenue contribution from Connecticut. Can you provide more color on the expenses that you had in the quarter if there were any one-timers or what drove that higher spending?
+
+And second question on the churn. It picked up a little bit in the first quarter. You did mention that in Connecticut you went to market pricing in March. Was that the main cause of the uptick in churn and how do you expect this new pricing in Connecticut to impact subscriber trends both on the video and the broadband side? Thank you.
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+Hi Batya, it's John. Let me answer the question on adjusted EBITDA and I'll let Dan talk about the market pricing. Adjusted EBITDA, actually our expenses were in our legacy footprint were stable, pretty stable quarter-over-quarter versus Q4, so the revenue – the revenue was really the adjusting factor there. And then we had, on the free cash flow, we increased substantially our CapEx in the quarter, so our CapEx was up materially versus Q4 and that's really timing. So, the $170 million in CapEx that we spent in the quarter is within the guidance range that we provided.
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+And Batya on the – on the churn you're right, there was a slight uptick. Two different components really when you look at it, one – really both around the video product set. So, in one case we saw a number of DISH customers leave. They were really upset with, I think the content disputes between DISH and some of the content players and they opted for another provider who provided a triple play for them. And then the part on own system was really caused when we went through Connecticut conversion we did have some hiccups that we talked about on previous calls. So, we had a slightly higher churn level in January and February. Feb really did mitigate quite a bit in March and has come down to normal levels in April.
+
+We absolutely believe that migrating customers to the right price point in the market, improves the retentive characteristics of that customer relationship. And we're doing that every single day and we think it's the right decision for the business for the long-term.
+
+Batya Levi - UBS Securities LLC
+
+Okay. Just a follow up so, even though you are increasing prices on the Connecticut customers, you're not really seeing much of a difference in the trends in subscribers?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+We've seen an improvement in the trends in March and April, both from a subscriber perspective as well as an ARPC and a revenue perspective. In fact, some of the tools that we've put in place for our technicians and our call center, our teams allow us to do up sells to other bundles and speeds and packages virtually real time at a customer's premise and we're seeing very good results with those tactics.
+
+Batya Levi - UBS Securities LLC
+
+Okay. Thank you.
+
+Operator
+
+We'll take our next question from David Barden with Bank of America.
+
+David W. Barden - Bank of America Merrill Lynch
+
+Hey, guys, thanks for taking the questions. Two if I could, Dan, I think you've talked a lot about the more normal and encouraging run rates as you exited the quarter into March and now April. I guess, it's been a couple rocky quarters here and it's hard to know what the right normal rate of movement in the business really is at the revenue line. Could you give us a little bit better color, like are we supposed to be looking at something that looks more like the first part of 2014 for the consolidated business, rather than the last couple of quarters when you say normal is that what you mean? It would be helpful to get some color there.
+
+And then, John, on the reiteration of the free cash flow guide, obviously the cash taxes is coming in way lower, how should we interpret reiterating the free cash flow guide given that your cash tax payments are so much lower than the run rate? Thanks.
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+Dave, it's Dan. So, first off, you should think about, when I think about Connecticut and the impact it's had on the business, first of all the commercial side of the business in Connecticut has been very stable. We're very pleased with the results that we're experiencing there. We think there is a lot of opportunity in Connecticut and it just takes a little while to start to tap into that opportunity as you build your sales channels and build the relationships between our sales force and the customers in the market. You really can't accelerate that too quickly; it's really building those relationships over time.
+
+Really a lot of the noise that occurred was around the residential customers. In the residential customers there were a couple of things that we did in the quarter that both allowed customers to move to market based pricing, but we also purposefully held rates on promotions from increasing. We did not want customers to have a rate increase right in their first bill or second bill with us as the provider and then have to call in during a period of high call volumes. We thought that would be a bad experience for customers.
+
+So we implemented a program of migrating those customers really starting towards the end of March with a very thorough communication plan and giving them insight into what their new bill would be as well as the opportunities if they wanted to change plans moving forward. We've had very good experience with that. So I don't see a lot more choppiness from migrations moving forward. We've kind of steadied out.
+
+There was a big backlog for lack of better way of describing it since AT&T had stopped doing marketing and really had a different approach to allowing customers to migrate to acquisition type offers and in our case acquisition offers are kind of our everyday pricing in a market. So there was about four months, five months of backlog that occurred just prior to conversion and then up through January and February, we've worked through that, so I don't think you'll see any more of that and you should start to see a stabilization as we exit Q1 into Q2.
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+And Phil (sic) [Dave] (29:43) on the – to your question on the cash taxes, our guidance remains intact for now. In the first quarter, it was actually just as we planned. What we saw in the first quarter is, we had a – sorry Dave, and we had a carryover benefit from the extension of bonus depreciation that existed in 2014. We had already paid our taxes in 2014. So we carried forward the benefit into the first quarter of 2015. So that's why it's seemingly lower than it should be otherwise, but we're still comfortable with our guidance range.
+
+David W. Barden - Bank of America Merrill Lynch
+
+All right. So we should see the cash tax number kind of pop back up in the coming quarters?
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+That's correct.
+
+David W. Barden - Bank of America Merrill Lynch
+
+Got it. Okay. Thanks guys.
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+All right. Thanks, Dave.
+
+Operator
+
+We'll take our next question Frank Louthan with Raymond James.
+
+Frank Garreth Louthan - Raymond James & Associates, Inc.
+
+Great. Thank you. Can you walk us through the CAF award? When do you expect to start collecting that? And can you give us an idea of sort of the net effect of that sort of the upside or the downside to the numbers, relative to the current subsidy mechanism that you're collecting under – what will – like is it a positive or a negative effect when it's all said and done?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+Sure Frank, this is Dan. I'll take a stab at that the – we were notified of what our CAF award could potentially be. We'll go through – we have now till August 27 to really work through on a state-by-state basis, whether it makes sense to accept those awards and proceed with the obligations. We do believe that the vast majority of the states we do, we will take those funds and move forward. And we think that will be very helpful for us in improving the experience for customers as well as expanding to unserved areas. The way the process works is that if we were to decline to take the support as highlighted, then we would be eligible for kind of a step down approach on the frozen support that's currently in place.
+
+In all scenarios that we envision right now, this should be a very positive benefit for us and we would see incremental benefit to the tune of $100 million to $133 million approximately depending upon whether we take all of the support to our current present support level. And we envision that beginning before the end of the year and we're just hesitant to adjust our guidance at this point till we finalize the states that we're going to accept the funding and look at the CapEx deployment plans that would be part of our plans as we go through the year and we'll have both of those finalized as we get into the probably June, July, August timeframe.
+
+Frank Garreth Louthan - Raymond James & Associates, Inc.
+
+That's very helpful. Do have a ballpark of what the CapEx would be? Given the throughput that you generally have sort of broadly across your network I would assume you're in a pretty good shape as far as those areas but you have a ballpark of what the capital requirements might be to be able to realize 100% of those offers?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+Well, for 2015 the reality is if we were to elect whatever states we do and we start to receive funding after that point in time the construction season in many of our states really will start to end in October, so there will really only be about two months, maybe three months of CapEx that are associated with it. There will be some states in the south where we can continue to work into the winter. So that's why we're trying to understand both the benefit from a revenue perspective, but also what the CapEx plan will be, because it'll be a fairly short window this year, next year I would see the CapEx being significantly higher associated with starting to meet our obligations.
+
+Frank Garreth Louthan - Raymond James & Associates, Inc.
+
+Do you have a ballpark sort of total amount of CapEx you think it might take between the next year or two?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+We don't at this point, Frank.
+
+Frank Garreth Louthan - Raymond James & Associates, Inc.
+
+Okay, great. It's very helpful. Thank you.
+
+Operator
+
+We'll take our next question from Michael Rollins with Citi.
+
+Michael I. Rollins - Citigroup Global Markets, Inc. (Broker)
+
+Hi. Thanks for taking the questions. If I can give you two-parter, the first part is what were the synergies recognized after Day 1? I know you have that Day 1 synergy that you guys talked about previously, and then you have the current amount that you've recognized, if you could just give us a sense of the flow? And then I'll be able to ask you another question following that?
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+Sure, Mike. When we announced the transaction when we closed, we said we were at an annualized synergy level of $150 million, and then we upped that to $165 million when we announced our full-year results about three months ago. And so now, as we're getting and running and actually gotten things, everything in place, that's where we're up to the $230 million level.
+
+Michael I. Rollins - Citigroup Global Markets, Inc. (Broker)
+
+So it's about $16 million since the Day 1, the updated Day 1?
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+I'm sorry; we were at $150 million Day 1, $230 million now. So...
+
+Michael I. Rollins - Citigroup Global Markets, Inc. (Broker)
+
+$230 million, I'm sorry, so $80 million is the cumulative amount?
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+That's correct, in excess of Day 1.
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+And really, Mike, as we look forward, we're in the plans, as you can imagine it's a very busy time with us with integration activity for the Verizon transaction but that doesn't mean that our teams in Connecticut and our system teams aren't working on finding additional synergies for the Connecticut operation.
+
+Michael I. Rollins - Citigroup Global Markets, Inc. (Broker)
+
+So I guess the question is, as you think then about just the flow through of what's happening with revenue versus EBITDA, are you finding that offsetting some of these synergies you're having to invest whether it's in marketing or customer acquisition or some other kind of expense that might be holding back the flow through of the revenue into EBITDA?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+Well, I would just say from a marketing and subscriber acquisition cost perspective right now, we have spent a little bit extra on our alternate channel simply because during the time that you do an integration, usually the first two months to three months, you wind up with a very high call volume and it can have a impact of really causing your call centers to be less productive. So we've gone to a little bit more costly acquisition model but that will come back in time as our contact centers become more and more part of our acquisition strategy. So other than that I don't think that we've seen significant upticks in acquisition costs at this point.
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+Mike, you'll see the flow through to EBITDA as we go through the year, as Dan described, the migration pattern that we had with our pricing which is a normal flow for us and so you'll see that impact on the EBITDA side more prevalent as we move through the year.
+
+Michael I. Rollins - Citigroup Global Markets, Inc. (Broker)
+
+Thanks very much.
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+You're welcome.
+
+Operator
+
+We'll take our next question from Scott Goldman with Jefferies LLC.
+
+David Scott Goldman - Jefferies LLC
+
+Hey, thanks for taking the questions. I guess two also on my end. One, I was just wondering whether you guys would be willing to share or quantify what the impact of migrating to current – to your current promotion was in Connecticut versus where they were before, is there any way to quantify that in dollar terms? Just a quick clarification on that topic as well. You talked about expanding the AT&T promotional pricing and began moving that to Frontier towards the end of the quarter. By the end of April, are all those customers going to be off of AT&T promotional pricing and on to your pricing?
+
+And then, maybe a last one for Dan, just maybe talk a little bit about what you're seeing in the marketplace in terms of broadband, maybe how things stacked up in legacy versus Connecticut market this quarter and then, what you're seeing from a competitive standpoint?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+Sure. I'll take the last two; John will probably take the first. So on your question on extending the AT&T offers, at the – we started the process on March 25 and as we'll finish all of those cycles at the end of April, all of those customers will have been moved to the correct pricing. So we should see the benefit of that as we come into our April results.
+
+And then on the marketplace discussions, Scott, I would say the legacy markets still seem very attractive to us. We saw some strong results; we took market share in 77% of the markets across the country. I think if there was anything that slowed down our total broadband additions; it's simply that during the first quarter, we still rely on our contact centers for about 60% in any quarter, of our broadband additions. And as you go through a large integration, as we did, those high call volumes tend to disrupt our universal queues around the country and as a result, it impacted our gross additions across the country quite frankly, by a few thousand but I would say that in general we still are very bullish on the legacy markets and we look forward to the investments that we're going to make in Connecticut to expand and extend U-verse as well as upgrade the U-verse capability as well as upgrade the more traditional DSL services and all of those costs to do that are in our commitments to the state of Connecticut and in our guidance for this year.
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+Scott on the revenue side, we don't call out specifically the migration impact. What we can say is that we had customers that were migrating downwards in monthly recurring pricing during January and February. It actually swung the other way when we went to March and now when we went from March to April, as that pricing actually started to migrate upwards. And we saw new customers coming on toward the end of the quarter in the months at higher price points than where they were in January and February. So we're seeing a good flow through, as we go into the second quarter. So I'll just say I think we feel pretty good about Q2 in Connecticut.
+
+David Scott Goldman - Jefferies LLC
+
+Great. Thanks, guys.
+
+Operator
+
+We'll take our next question from Kevin Smithen with Macquarie.
+
+Kevin Smithen - Macquarie Capital (USA), Inc.
+
+Thanks. I wondered if you could talk a little bit about how you evaluate the CAF opportunity given where EBITDA has come in in Q1 and kind of the implied EBITDA guidance for the year? Does that impact at all your propensity to make the CAF investments?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+Kevin, this is Dan. No, I don't think our EBITDA in Q1 would change our criteria. We're really looking at what we believe are the cost and the opportunity that will be unleashed or enabled by the CAF-II in our markets. There is certain markets where we have close to 100% coverage in a market and taking the CAF funds for that market might not make sense. It might make more sense to stay on frozen support levels for a period of time. But that's just an example – we do a deep dive on the engineering side. Our teams have done a lot of the homework on it. So, we hope to have clarity on it sooner than August, but we're going to take the time and make the right decisions and it really isn't a function of Q2, Q1 results.
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+Kevin I will add – there is the long-term benefit too in CAF. There is obviously the immediate in year benefit of the incremental support levels, but again remember what you're doing is you're either enabling or upgrading more households across your footprint, so that's just more opportunity – broadband opportunity long-term and bundled customer opportunity long-term. So, we see it as all being good so, it's not – what we – our results for EBITDA are not – don't impact how we look at CAF.
+
+Kevin Smithen - Macquarie Capital (USA), Inc.
+
+Got it. And on the Verizon asset, anything in the Q1 numbers that on those assets that you're going to be purchasing that stood out to you positively or negatively?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+I will say – we recently filed an 8-K with a pro forma results for those Verizon properties that was based on 2014 numbers. The revenues came in about as we anticipated and we're still very comfortable with the pro forma EBITDA that we had communicated back in February of about $2.3 billion on an annualized basis for 2014.
+
+You will not exactly see that number in the filing, the difference is the cost take outs that we do against all of the allocated expenses that Verizon embeds in that business, so we still feel very good about our view on these properties.
+
+Kevin Smithen - Macquarie Capital (USA), Inc.
+
+Thanks.
+
+Operator
+
+We'll take our next question from Phil Cusick with JPMorgan.
+
+Philip A. Cusick - JPMorgan Securities LLC
+
+Hey. Quick follow-up on the CAF stuff. Any further CAF available in the Verizon territories and I assume that what you've announced already includes the Connecticut?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+There really wasn't CAF available for us, I believe, in Connecticut, Phil. And there potentially could be opportunity, but we won't own the properties obviously at that point. So it's not in the – anything incremental for California or Texas, for instance, are incremental to the $283 million that we discussed.
+
+Philip A. Cusick - JPMorgan Securities LLC
+
+So you could bid on it next year, but it would not come as part of the Verizon deal?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+We could bid on it or if Verizon were to participate obviously that would be a benefit for us.
+
+Philip A. Cusick - JPMorgan Securities LLC
+
+I see. And then, John, we talked in the past about how the cellular backhaul headwind is going to be more front loaded this year, what happened in 1Q and what should we expect for the rest of the year?
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+We had continuing decrease as we – as we had anticipated this year. I think in total, we'll see about the same level of annual revenue change in 2015 as we head in 2014. And again as Dan and team go through this, we see quarterly sequential stabilization in the back half of this year or early 2016 and again a lot of this just depends upon the wireless carriers.
+
+Philip A. Cusick - JPMorgan Securities LLC
+
+So, 3Q into 4Q or maybe 4Q into 1Q for that stabilization?
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+That's right. Remember, this is really kind of in the legacy footprint, those headwinds do not exist in what we had in Connecticut and by the way they will not exist also in the three states from Verizon that we're picking up as well.
+
+Philip A. Cusick - JPMorgan Securities LLC
+
+Okay. Last thing on Connecticut, early on there were VoD issues and we heard about some things, customers complaining well into the first quarter, is Connecticut running on the video side exactly how it should be at this point?
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+Yes, Connecticut is running exactly how it should be running in the first quarter. There is no additional issues on the VoD library, that was us replenishing the library after conversion and literally customers pulling on it so fast that it would draw down the content as quickly as it was filling, but that is – that's in rearview mirror. In fact, as we go through, one of the large benefits for Connecticut that will accrue as we do the integration for the Verizon properties, is we'll be upgrading our VoD library substantially in Connecticut, it will be much better experience than really AT&T has anywhere in the country and anyone in Connecticut has experienced in the past.
+
+Philip A. Cusick - JPMorgan Securities LLC
+
+Great. Thank you.
+
+Luke T. Szymczak - Vice President-Investor Relations
+
+Travis, we have time for one more question.
+
+Operator
+
+We'll take our final question today from Simon Flannery with Morgan Stanley.
+
+Simon Flannery - Morgan Stanley & Co. LLC
+
+Great. Thanks very much. On the integration costs, I think it was $57 million of OpEx in the quarter, is that all Connecticut or are we starting to see some Verizon in there and perhaps a little bit more color about how that trends over the balance of the year.
+
+And then on special access subsidy, that looked a bit stronger this quarter, I was just wondering what was driving that? Thanks.
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+Sure Simon I'll take those. On the integration side, we began to see some spending in the Verizon, on the Verizon deal and we really saw the pretty much wrapping up what we're doing in Connecticut, there might be one or two hanging bits that go into Q2 but we're getting close to being done with our Connecticut integration and now just really turning to the ramp up for Verizon.
+
+So you'll see the Verizon efforts really pickup in this year. Right now, we've just said in total about $450 million between OpEx and CapEx in 2015, 2016 for the Verizon transaction, we continue to review and refine that and we will do in the coming quarters. We're deeply into this now with our counterparts at Verizon.
+
+Simon Flannery - Morgan Stanley & Co. LLC
+
+So Q2 should probably pick up a bit from the Q1 level?
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+We would have – certainly with respect to the Verizon efforts, yes and I think you're going to begin to see this and as we sort through is the OpEx versus CapEx peace and we'll try to keep on refining and give you more color as we move through the quarters.
+
+Simon Flannery - Morgan Stanley & Co. LLC
+
+Okay. Thank you.
+
+John M. Jureller - Chief Financial Officer & Executive Vice President
+
+On the special access side is we have sightline, as we said, to finish up CAF Phase I and it looks like that we're – we will have surplus in excess of the definitive amounts we received and that is we were able to really build out and meet our requirements with certain funding left over. So we're just about toward the end. We have some sightline as to what that leftover would be, so our special access on the regulatory side reflects a little bit of that. So just think about sort of the step up in the quarter was that element, it's not customer revenue, that was just regulatory revenue.
+
+Simon Flannery - Morgan Stanley & Co. LLC
+
+Okay, great. Thank you.
+
+Daniel J. McCarthy - President & Chief Operating Officer
+
+I want to thank you all for joining us this afternoon to review our first quarter results. This is a very busy and exciting time for us at Frontier, as you can tell, as we begin to operate our Connecticut property and prepare for a transformative transaction. We look forward to talking to you next quarter and updating you on our progress on results and our integration efforts. Thank you.

@@ -1,0 +1,329 @@
+First, I'll discuss our Rides business which reached two very significant milestones in Q3. We achieved $1 billion in weekly gross bookings and we generated Rides adjusted EBITDA $631 million, up 52% year-on-year. Importantly, Rides adjusted EBITDA now more than covers our corporate overhead which consists of $623 million in corporate G&A and platform R&D spend. We continue to be the Rides leader in every region in which we operate growing or maintaining category position in our most important markets, including the US, LATAM and the UK, while significantly improving our Rides adjusted EBITDA margins from 17.8% of ANR in Q3, 2018 to 22% in this quarter.
+
+Moving forward, we expect to drive continued top-line and margin growth by investing in our marketplace, doubling down on our premium product offerings, as well as continued financial discipline. For example, investment in our enterprise products has driven Uber for business growth exceeding 70%, while expansion of our premium comfort product to more than 150 cities globally has been a win for riders and drivers. Additionally, we've made meaningful progress on a number of our high priority markets such as Germany, Japan and Argentina,
+
+Our teams are confident that they can drive strong top and bottom line growth over the next several years. Second, our Eats business continues to expand globally with growth bookings growing 77% and ANR growing 109% year-on-year on a constant currency basis, as a result of continued improvement on our Take Rate which grew to 10.7% from 9% this quarter last year. Our strategy for Eats is simple, invest aggressively into markets where we're confident we can establish or defend a number one or number two position over the next 18-months. We believe that the scale and strength of our global brand, our planned expansion into new local commerce categories like grocery and the power of our platform to cross-promote and drive loyalty within our product lines, all afford us superior acquisition and per transaction economics compared to mono line local players.
+
+Many of the startups in the food category have been trying to use cheap capital to buy their way to growth. But we've seen the capitals getting more expensive and can run dry, whereas platform leadership is both far cheaper and more permanent when coupled with excellent execution. We believe that the online food delivery category could under grow the same move to more favorable market conditions that we've observed in Rides as companies’ content with public market investors. A few weeks ago, we announced the majority investment in Cornershop, a leading provider of online grocery delivery in Mexico and Chile. Given the tremendous synergies between restaurant delivery and grocery, we see significant value in adding an already established and highly successful grocery after our platform further solidifying Uber as the operating system for everyday life in Latin America and potentially beyond,
+
+Our recent announcement that we will begin showing Rides, Eats and other services side by side in one app demonstrates the clear advantages of our platform approach. We can more quickly and efficiently attract and retain customers, as well as deepen their engagement by linking and cross promoting all of our offerings. It's early days but we've already launched products like Uber pass, a subscription that provides all-in-one savings like ride protection, $0 delivery fee on Uber Eats orders and more for customers intensities.
+
+Similarly, Uber rewards which reach 18 million subscribers in the US in just six months since launch should drive increased loyalty as consumers accumulate and use Uber rewards across our platform. Finally, we're focused on turning our ride users into eat users and as part of the changes we made to our marketing organization have structured teams around seizing high potential opportunities like this. Lastly, a word on regulations. Ensure the best outcome for riders, drivers and the cities in which we operate, we continue to be focused on positive, productive engagement with regulators all around the world. It's important to remember where we came from. When we launched peer-to-peer ride sharing in 2013, California was the only place in the world with regulations on the books.
+
+Fast forward to today just six years later, nearly every major market in the world has recognized and licenses our service. Nonetheless regulations in California have generated a lot of interest over the past few months, so I want to briefly address our situation there. For context California represents 9% of our global rise in Eats gross bookings but a negligible amount of Rides and Eats adjusted EBITDA respectively. We continue to focus on a path that we believe provides a very attractive option for drivers and couriers where they retain flexibility but gain important new protections like healthcare subsidies and minimum earning standards. Together with Lyft and DoorDash, we're putting a ballot measure to California voters in November 2020 that proposes just such a model.
+
+I also want to highlight the significant progress we made on policy across the world this year, positive independent contractor rulings from both the US via Department of Labor letter in April and Brazilian Federal Government. The passage of the mobility law in France which includes a reaffirmation of independent classification and a return to Vancouver after seven years away. Generally speaking, our priorities remain the same. Secure regulations that allow the business to grow and enable individuals to find flexible earnings opportunities on our platform.
+
+Before I turn on over to Nelson for details on the numbers, I want to speak to the excellent progress we made on Rides since our IPO as this was our best quarter ever and the first in which we've disclosed our second level EBITDA. In just two quarters since our IPO, we made a lot of progress. Since Q1, we've doubled Q3 Rides ANR to 24% on a constant currency basis, that's ANR to 24% on a constant currency basis. We improved our Rides take rate by 200 basis points to 22.8% producing an incremental $300 million in Q3, 2019 ANR. Our transaction growth along with a better take rate has improved ANR by $500 million, $400 million of which flowed through to Rides adjusted EBITDA.
+
+This represents an 80% incremental EBITDA flow through increasing adjusted EBITDA margins from 8% to 22% in just two quarters. We've achieved this with an improved framework on capital allocation, efficiency, capability and cost control. As an example, we again reduced insurance and payments, the two biggest components of our cost of revenue quarter-on-quarter and year-on-year as a percentage of gross bookings. We did all this and achieve the same quarter-on-quarter top-line growth rate this Q3 as Q3 of last year despite a $2 billion increase in gross bookings for the quarter.
+
+To be clear, we're not done by a long shot in our Rides segment and we are as we speak applying the same level of rigor to all of our other segments including Eats. We've already made some tough decisions regarding our headcount and resource allocation to make sure we've got the very best teams working against the highest return projects, and will continue to be disciplined and efficient with our capital. Our current target with a ton of hard work from all of our teams is to get to total company EBITDA profitability for the full year 2021 as we see the benefits of global scale and efficiency and the best tech talent out there. The world's magical companies are the ones that can compound top-line growth of massive scale, improve margins, allocate capital efficiency and do the right thing for all of their constituencies.
+
+We're working hard to be one of those magical companies. And now to Nelson for more details on the numbers.
+
+Nelson Chai
+
+Thank Dara. We are continuing with our financial results. I wanted to describe some of the changes we've made to our report. We now provide greater visibility into our business by reporting on five segments. For each of these segments, we're providing gross bookings, revenue, adjusted net revenue, segment adjusted EBITDA. Our historical total company results remain unchanged. Our segment adjusted EBITDA measures replace, it was previous reported of contribution profit and loss and maintains the same definition and includes all the segment's direct cost with contra revenue, cost of revenue, support and operations, sales and marketing and G&A and R&D directly related to these respective segments, which represents a majority of our total G&A and R&D spend.
+
+The further information on these changes and to address any questions on bridging our old and new segments, please see the supplemental slides posted on investor.uber.com. For the remainder of this discussion, all growth rates reflect year-over-year growth unless otherwise noted. Now on to our GAAP results for Q3, 2019. Our GAAP revenue was $3.8 billion, up 30%. GAAP cost per revenue excluding G&A of $1.9 billion decreased 48.8% from 51.3% of revenue in Q3, 2019.
+
+GAAP EPS was a loss of $0.68 compared to a loss of $2.21 in Q3 of 2018. For the remainder of the call unless otherwise noted, I will discuss key operational metrics as well as non -GAAP financial measures excluding pro forma adjustments such as stock based compensation and the one-time driver appreciation award associated with the IPO in the second quarter of 2019. Our total company global trips of 1.8 billion grew 31%. Global trip growth continues to be a significant driver of our overall growth in gross bookings. MAPC or Monthly Active Platform consumers were 103 million, up 26%.
+
+We continue to see strong new MAPC additions to the platform via Eats and rides. Total company gross bookings were $16.5 billion growing 29% or 32% on a constant currency basis. Adjusted net revenue or ANR was $3.5 billion which is up 35% on a constant currency basis. Our ANR take rate was 21.5% of gross bookings, up 60 basis points year-over-year and a 140 basis points quarter-over-quarter. non-GAAP cost of revenues excluding G&A decreased to 45% and 47% of ANR, and decreased to 9.7% from 9.9% as a percentage of gross bookings.
+
+Insurance and payment as a percent of the gross bookings improved quarter-over-quarter and year-over-year. This is partially offset by an increase in cost of revenue due to freight and NeMo's gross or merchant's model, where freight partner payments and NeMo's scooter hardware and field costs are included in our cost of revenue.
+
+Turning now to non-GAAP operating expenses. First, I'll start with operations and support and sales and marketing which are 100% allocated to our five business segments. Operations and support was stable at 13% of adjusted net revenue and has been stable at 3% of gross booking since the third quarter of 2018, reflecting ongoing rides, support efficiency improvements, offset by mix shift a higher percentage of Eats transactions which carry with them a higher contact rate. Going forward, we will look to automate a higher percentage of Eats customer service tickets and are already seeing reductions in contact rates month-over- month.
+
+Sales and marketing increased to 30% from 28% of adjusted net revenue and increased to 6.5% from 5.9% of gross bookings versus a third quarter of 2018. This increase was primarily due to increase consumer promotions as well as increased advertising and marketing spend prior to our Q3 headcount reduction. R&D decreased to 13% from 14%, and adjusted net revenue decreased to 2.8% and 3% of gross booking due to slower growth in ETG expenses. We expect to get leverage on total R&D over the long term.
+
+G&A was flat at 15% of adjusted net revenue and remained flat at 3.1% of gross booking versus Q3 of 2018. It was flat as a percentage of our top line as a result of public company infrastructure investment. We expect that G&A will grow significantly more close than our top line. Our Q3, 2019 total adjusted EBITDA loss was $585 million. We handily beat our internal plan due to strong execution of our scheme; we know we have a lot more work to do here and will need focus on balancing investment with profitability improvement.
+
+Now I'll provide additional detail on our segments. First on the Rides side. Rides gross bookings of $12.8 billion grew 22% at constant currency led by the US and LATAM respectively. Rides ANR of $2.9 billion grew 24% at constant currency driven by more favorable market dynamics in the US, stability in LATAM beginning in the 2019 and improved share of rise efficiency. Rides adjusted EBITDA was $631 million or 22% of Rides ANR. This represented a quarterly record on absolute dollars and margins basis, with 270 basis point and 420 basis point margin improvements quarter-over-quarter and year-over-year respectively, as the percentage of ANR.
+
+During Q3, 2019, the adjusted EBITDA margins for the top five Rides countries by gross bookings range from 17% to 62% as a percent of ANR. There's nothing structurally different about the highest margin country that would prevent other countries from matching as market dynamics become more favorable over time. On each gross booking of $3.7 billion grew 77% at constant currency driven by growth in APAC and US and Canada which was our largest absolute dollar growth driver by category growth slowing in some core metros.
+
+Eats ANR was $392 million, up 109% on a constant currency basis through the ongoing benefit from the service fee structure launched in the US in Q1 of 2019. These adjusted EBITDA was a loss of $316 million or negative 81% of ANR and negative 8.6% of gross bookings. We have nearly a 100 Eats cities that are adjusted EBITDA margin positive, with that said given the large private capital inflows into the online food delivery category, competition has been fierce in some markets. To underscore the levels of promotion and incentives by privately funded players approximately 15% of our Eats gross booking make up over half of our adjusted EBITDA margin loss.
+
+Our decision recently to exit the South Korean market demonstrates our willingness to exit markets with low ROI. Our freight business grew ANR over 78% and adjusted EBITDA was a loss of $81 million. Freight growth was driven by load volume increases over 100% in spite of soft market conditions. Rate continues to rapidly take share in the large US market, while providing excellent service that lays the groundwork for long term shipper partnerships. Our team continues to automate what was high-touch, phone driven tasks to scale our enterprise relationships and increasingly our self-serve, small super platform and to expand our carrier footprint across individual, as well as fleet owners.
+
+Our Other Bets segment had ANR of $38 million and an adjusted EBITDA loss of $72 million. Other Bets which consist primarily of our JUMP e-bikes and scooters continue to be a strong consumer acquisition channel. We also continue to achieve improvements to unit economics. ATG adjusted EBITDA was a loss of a $124 million based on this quarter's level of investment the recent $1 billion investment in ATG covers about eight quarters of spend. The first engineers from Toyota and Denso are now co-located with our ATG teams in Pittsburgh demonstrating Toyota's commitment to this partnership.
+
+We also announced that ATG will begin manual testing and mapping in Dallas in early November. In Q3, 2019 corporate G&A and platform R&D of $623 million which represents the G&A and R&D not allocated to one of our five segments grew 24%. This is made up of G&A and engineering functions that support the entire platform, including infrastructure payments brand and customer support technologies. In terms of liquidity, we ended the quarter with approximately $12.7 billion in unrestricted cash and cash equivalent, an increase of $1 billion over last quarter. The increase was driven by the $1 billion in aggregate proceeds from the investment in ATG and proceeds from our $1.2 billion senior notes offering which closed in September.
+
+Now I'll wrap up providing guidance and comments. We are narrowing our 2019 gross bookings to a constant currency growth of 33% to 35% year-over-year, up from the 31% to 35% year-over-year guidance given on the second quarter conference call. Based on September month end rates, our current constant currency growth represents about $64 billion to $65 billion in reported gross bookings. Please note that we expect to provide 2020 annual guidance on our Q4, 2019 earnings call. For your modeling purposes, please keep in mind that our largest foreign currencies are the Brazilian reals, the UK pound, Australian dollar, Mexican pesos, Canadian dollar, euro, Indian rupee and Argentinian peso.
+
+Given the rapid improvement in Rides take rates through Q3, 2019, we do not expect typical Q4 seasonality to cause quarter-over-quarter decline in take rate. The Eats market will continue to be competitive as players of raised funds to invest in growth in this fast-growing category. We will continue to invest including in Q4, 2019 when seasonal courier cost increase and we expect category take rates to contract quarter-over-quarter.
+
+We expect adjusted net revenue growth rates to continue to accelerate into Q4 coming in close to 40%. For 2019 adjusted EBITDA, we now expect the loss of $2.9 billion to $2.8 billion, reflecting a $250 million improvement at the midpoint from prior guidance of 3.2 to 3.0. We are also providing additional guidance. For the fourth quarter of 2019, stock based compensation, we expect the expense of $250 million to $300 million and we expect our Q4, 2019 basic and diluted weighted average share count to be 1.7 billion to 1.725 billion.
+
+As we finalize our 2020 plan, we remain particularly focused on identifying additional operating efficiencies across all of our operating expenses. While we will continue to invest in our business to achieve long term top line growth as Dara mentioned, we are targeting EBITDA profitability on a fully consolidated basis for the full year 2021. We will confirm our 2020 guidance on our Q4 call.
+
+With that let's open it up for questions.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]
+
+Your first question comes from a line of Jason Helfstein with Oppenheimer. Please go ahead with your question.
+
+JasonHelfstein
+
+Hey, thanks for taking the call. Maybe the first one and I don't know if you can comment on it, but clearly a lot of questions around this lock up, if there's anything you can say about discussions you may be having with shareholders to try to manage the lock-up. Secondly, we did see a kind of disappointing Eats in the quarter from a gross bookings basis. You did allude to competitive factors, but yet we did see a better take rate. So are you kind of managing the outcome in Eats ANR relative to Eats gross bookings? Thank you.
+
+NelsonChai
+
+So, Jason, I'll take the first one, the one thing I did want to say is I made a comment on my guidance of regarding the rapid improvement of ANR take rate through Q3, 2019. So I just want to clarify. So we do not expect - we do expect -sorry the Q4 seasonality caused some quarter-over-quarter decline. So I just want to make sure I clarify that for the record. Regarding your first question on lockup, yes, it is true that there are a lot of shares that are going to become unlocked on Wednesday. And yes, you can assume that we've had a lot of dialogue and very active dialogue with a lot of the shareholders that we have.
+
+I can't really comment on what each and any individual shareholder will do. I would tell you that we have very good and constructive dialogue with long-term shareholders. As you know, there are a number of different holders who have been in the stock for a long time and so you should expect that people will react rationally. As you also know, we've had a lot of very good long-term holders come into the stock. And again, we've had very constructive dialogue as well there.
+
+And so obviously there's a lot of supply that can hit the marketplace and we don't know what's going to really happen. But you can rest assured we've taken whatever steps we can to have the dialogue that we need to with most of the parties.
+
+DaraKhosrowshahi
+
+Yes. And I think on your Eats questions in terms of the trade offs, listen, there are always trade-offs that you make in terms of investment and growth taking a perspective though this is Eats grew 77% bookings on a year-on-year basis, ANR was up a 109% year-on-year as well. We are still, knowing our own numbers, the largest player globally ex China despite some Twitter speak, from some of our competitors. So the scale of Eats is still very significant and we will actively make trade-offs in this business. We absolutely believe in the ultimate size of the East platform, but as we said we are going to make trade-offs. We're going to shoot to get to number one and number two in every market that we're in. If we can't make it to that level, we'll look to dispose or we'll get out of the market. And once we get to that number one or number two position, we think the power the platform, the Uber brand, our ability for the Rides business and the Eats business to work together to acquire customers and to retain customers will just be advantage over the other competitors out there.
+
+So are we going to be disciplined about growth? Absolutely. We did lean in Q3 in Eats, will continue to lean in for the balance of the year. But we are seeing some of the market rationalization, some early signs of market rationalization and discipline. And we think that will be a positive factor for everyone involved.
+
+Operator
+
+Your next question is from the line of Brian Nowak with Morgan Stanley.
+
+BrianNowak
+
+Thanks for taking my question. I've two. Just - the first question just on the comments around full year 2021 profitability. Was there maybe sort of, would you talk us through a little bit the biggest sources of leverage, do you still see in the P&L, as you kind of go down the consolidated P&L to get us to profitability in 2021 and how do you think about Rides profitability improving and Eats getting to breakeven over that period? And then Dara just kind of go back to your question about potential rationalization in Eats, any help at all on what signs you are seeing or what regions of the globe you are seeing, early encouraging signs of rationalization there? Thanks.
+
+NelsonChai
+
+So I'll take the first part and Dara will take the second part. So with the new disclosure you can get a sense of the big pools that we're investing in, the five different segments. Yes, we do - we have seen the markets continue to improve on the Rides side of the business. We believe that they will continue to be constructive and so I think you'll see a further improvement there. We do believe that and Dara will comment a little bit on where we think Eats will go over time. I would caution and say that at least over the next couple quarters, we still see a lot of money flowing into that segment, but as you know, when we were on the road we talked to investors about the opportunity, the potential for the Rides business to become much more constructive and we've seen over a couple of quarters how quickly it is improved. And so we think there's a road map out there regarding that.
+
+And regarding some of the investments we are making whether it is in ebikes and e-scooters or freight. As you know, we are investing in a number of different bets as we like we call them internally and we do expect some either rationalization or optimization of those bets as we continue to go down and move towards 2021, and so we're still in the middle of our planning mode but that is definitely where we're headed.
+
+DaraKhosrowshahi
+
+Yes. I think the on Eats side, certainly one sign that we're seeing that's encouraging is our take rate continuing to move up for Eats and we think ultimately the mature business model for Eats will have taken rates that are significantly higher than a takes rates that you see now. We're not counting on rationalization near-term in Q4, but we do think that all of these markets need to rationalize and as Nelson talked about the Rides rationalization has happened much faster I think than anyone expected and we have a ton under our own control as far as our own business model, how we use technology in automation to drive per unit margins. How we make sure that we scale on an operating basis in terms of our overheads and our G&A and how we get more efficient.
+
+I think we've demonstrated some of that in Rides EBITDA improvements in Q3 and frankly we think that there's a long way to go both for a Rides segment and our Eats segment going forward. We've got plans and now we've got to execute but we're confident that we can do so.
+
+Operator
+
+Your next question is from the line of Heath Terry with Goldman Sachs.
+
+HeathTerry
+
+Just one thing I wanted to clarify on the 2021 profitability. Was that 2020 profitability in 2021 meaning for the full year or for a quarter or at some point in 2021? And then, Nelson, when you look at this the expense reductions that have you been able to take during the third quarter. Is there a way that you can quantify for us sort of where the run rate of efficiencies that you've been able to achieve are so not what we saw in Q3 but if you were to look at sort of the full quarter or maybe even sort of full year impact of those efficiencies or those cost reductions sort of where you are now in the way that you're - what you've been able to achieve there? And then I guess back on the profitability in 2021 question, is there a level of revenue or a level of scale that is assumed in that math of -for the company that you'd be willing to share that's implied for that degree of profitability?
+
+NelsonChai
+
+So, first of all, Heath, just to clarify the point in terms of the profitability we for the whole year on a fully incorporated basis are the statement. In terms of actually seeing some of the benefits actually incorporated into guidance and so as you know, we've improved our guidance for the full year and as we think about walking towards the 2021 target, obviously, that's included as we think about efficiency. Where you really see some of the benefits from it as just leverage, we're going to get over our corporate infrastructure. So the company has been building and the corporate overhead has been building to catch up to the growth of the company. And so you've seen as I mentioned 24% year-over-year and third quarter versus the third quarter of last year, you're going to start seeing those numbers starting to grow in much smaller digits and you're going to see the growth continue. And so you'll start getting some of that leverage.
+
+You heard Dara say insurance costs and costs like that continue to improve and payments cost and so will continue to grind it out, you've heard me talk about it. We don't think there's a big magic bullet. We're just continued to grind it out quarter-over-quarter. You won't see us take big charges on for insurance like others do and we're going to see it's included in our EBITDA and then we're going to just continue to focus on the execution there. And so it's not really a magic X Y or Z, it's a continuation of us executing the plan. You're seeing some of the semblance of it on the Rides business and some of the comments are in particular that Dara made in his prepared remarks.
+
+And then as Dara mentioned, we do see a path on the Eats side of the business down the road.
+
+DaraKhosrowshahi
+
+And, Heath, just add a little bit more there. I think it's -this is almost across the board. We think that we can significantly improve cost of sales as a percentage of revenue. We think that we can improve our marketing spend and spend on incentives as a percentage of revenue as well, both in terms of the market rationalizing but our team's becoming much more effective in segmenting our consumer base and using targeted marketing in order to reach the right person at the right time. This company has been growing so fast over such a long period of time in so many countries that the teams really haven't been able to catch our breath and optimize.
+
+We now have team members going against every single P&L line item with specific projects et cetera to make sure that we can optimize and scale at the same time. We've done it with the Rides business already. There's more goodness to come we believe. And we believe we can kind of run the same play on Eats and the other businesses as well. So the teams are pretty focused. This stuff is not theoretical. There's execution ahead of us but we absolutely think we can pull this off.
+
+Operator
+
+Your next question is from the line of Justin Post with Bank of America Merrill Lynch.
+
+JustinPost
+
+Great, thank you. So for MAPC season trips, a little bit blow some of the street estimates out there. Was there any divestiture in there? Or were there some pullback in some of your incentives? And maybe you feel better about the quality of your customers. Can you talk about that? And then you are guiding EBITDA $1.4 billion for above street numbers in 2021 which is loss of 1.4. What is that mean for your growth rates as we look out the next couple years? Are you going to have to give up some growth to get to those kinds of numbers? Thank you.
+
+DaraKhosrowshahi
+
+Yes. I think as far as our trip growth goes, again keep things in perspective, a 31% trip grow 1.8 billion trips on a quarterly basis. These are very large numbers at significant scale. I think if I were to point some of the areas where we are making certain trade-offs as it relates to trip growth versus profitability, one would be our shared ride segment for example. We were losing significant sums in terms of our shared Rides really discounting and I think that the product and technology teams are much more focused on driving shared ride efficiency, building out new product like Express pool which we were way ahead of a competition that allows our consumers to essentially walk to a destination or wait.
+
+Products like Uber Extra Less that give you discount kind of lasting first-out et cetera. So the focus really is to drive lower rates based on the best technology out there versus just driving lower rates and grow through discounting. Building the tech is harder work but we think ultimately building the tech creates kind of deeper competitive advantages over the other players out there, and we think we simply have the best out there and we're certainly investing much more than any of the kind of local players can.
+
+In terms of 2021 targets, we will - these are our targets at this point and we haven't given formal guidance for 2021, but I will tell you that this will, we believe that we will be in a position to deliver very strong both top line and bottom line growth as a company at scale. There will always be trade-offs that we have to make but we're prepared to make those trade-offs and I think those kinds of tough trade-offs actually are positive for a culture of the company. So we want to be working on the very best ideas not just the average ideas.
+
+Operator
+
+Your next question is from the line of Mark Mahaney with RBC Capital Markets. Please go ahead.
+
+MarkMahaney
+
+Okay, two questions please. Rationalization in the Rides business in different geographies, there's a lot of evidence that it's occurring in North America. To what extent you see that rationalization in other geographic markets? And then, Dara, could you talk about the synergies between Rides and Eats, the extent that the business model needs it to what extent you've already seen it? Any data points there would be helpful. Thank you.
+
+DaraKhosrowshahi
+
+Sure, Mark. In terms of rationalization, I think it's a combination of both rationalization and just more effective execution on the teams. We are in almost every single market out there we have two, three, four, five competitors out there. They are pushing very hard but the fact is we've got the biggest network out there. We have the best brand. We have technology that we build on a global basis that we can roll out. And I think that our teams are executing better and I think that the network effects that you've talked about are showing themselves.
+
+I think that some competitors were able to kind of buy their way or spend their way which might have hidden some of the network effects of this model. When the spending goes out then you see how well teams can execute. And I think our teams are executing well. So we're seeing rationalization in the US, we see lots of competitor behavior all over the world. But we can execute in a competitive environment and I think that we are demonstrating that.
+
+As far as the synergies of the Rides in each business, you see it now and the app that we're testing with the Rides business, when you open up, we're testing - you open up the Rides app, you have the opportunity to order your food. We have run some promotional campaigns for example with certain of our partners McDonald's where McDonald's gets the cross promote their brand to our ride owners. The loyalty program that we have encompasses both Rides and Eats, 18 million members in less than a year of launch in the US as well. And we do believe that our customer acquisition costs and retention are superior to our competitors out there, which again is a benefit of the platform coming together. We think this will prove out over a period of time but we're seeing really good early signal.
+
+Operator
+
+Your next question is from the line of Ross Sandler with Barclays.
+
+RossSandler
+
+Hi, guys. Just one on Eats and then one on rides, if I can. So you had a comment about the 15% of Eats GB driving over half the EBITDA losses, it was pretty helpful. Can you guys talk about how far off the US business is from breakeven and I guess what does the barbell look like if you take like Australia on one end and India on the other end? How wider the goal posts in each business in terms of profitability? And then on rides, if you look at something like Brazil that's gone from profitable to negative and we know there was an acquisition from a competitor and a lot of investment behind that. But is something like that common that you're seeing across your other Rides markets?
+
+You mentioned the Top 5 and 17% to 62% I guess how sticky are those country level EBITDA margins over time? That'd be helpful. Thank you.
+
+NelsonChai
+
+So in terms of the question on contribution margins, yes, there's the bar bell is pretty wide, right, between a place like in India and a place like in Australia. So, yes, you got that right. I think in some of them it's more -there are places inside the US which we would say is a place we're investing where we have positive EBITDA margin. And so it's a little bit more city by city and is just pure country by country. But yes, I think you have the bar bell about right. As you know, the each take rates in the top five cities in Q2 was kind of 8% to 16% and you see us continuing to make improvement there at least in Q3. And so there's no magic to it. It is a little bit based on the competitive situation and then we are taking the right actions as Dara said.
+
+And then we're very committed to really being one or two in all the markets and you're going to see us take action accordingly to get there or not. And so I think what we did in South Korea is also indicative. You want something on rides?
+
+DaraKhosrowshahi
+
+Yes. I think on our Rides business, listen, there's - as I said lots of competition out there but we are profitable in essentially almost every single mega region out there that we operate in. And we are seeing, I would say more predictability around our Rides business although there are competitive flare ups in every single market for example, we've seen competition enter in London, but and I think the teams are just executing better. If you went kind of back two or three years back, there were certain markets where we were the only competitor out there. I don't think there are any markets like that, so just competition is a way of life and the teams adjust and I think our teams are just executing much better than they were in what is a new tough environment. But I like where our margins are headed in that environment and by Nelson's remarks, when you've got markets that are today 60 plus percent in terms of adjusted EBITDA that gives you kind of a roadmap as to where we think we can take certainly not every single country or every single mega region. It just shows you that there's plenty of margin upside left in the business even with competition out there.
+
+Operator
+
+Your next question is from the line of Youssef Squali with SunTrust.
+
+YoussefSquali
+
+Great. Thank you. Two questions here please. Not to be the dead horse here on Eats, but that profitability in 2021, the way you are defining it requires profitability or at least a breakeven in the Eats business by that date or does it just basically assume somewhat of an improving environment? And then second, can you talk maybe about your experience in New York City and may be growth there, post the hikes that we've been seeing over the last call it six months or so. Just perhaps as a proxy of what may happen, if and when AB5 went to go through? Thank you.
+
+NelsonChai
+
+So again we don't want to get too stuck on 2021 as Dara said, we're still in the process of working through it. What I would tell you it does not predicate that Eats has to be either profitable or breakeven on the EBITDA margin basis. The commentary we made was on a consolidated basis for all of Uber. And that is really what the target is. And so I don't want to get too detailed in terms of each of the lines, but it is not necessarily predicate that Eats has to be profitable or breakeven in 2021.
+
+DaraKhosrowshahi
+
+And, yes, I think as far as our New York City growth, we have seen significant price increases in New York City to the consumer out there. But the business is certainly growing from a booking standpoint. Those price increases are slowing down trip growth for, if you look at the last six months trip growth is still up on a year-over-year basis in New York for the six month period. We are definitely seeing the increased prices affect neighborhoods that might be in transit deserts that are more prices sensitive and we don't think that's a good thing for New York. And it's certainly not a good thing for those neighborhoods. But that the New York call it, example shows a business that continues to grow and it's quite resilient to the environment around it.
+
+Ultimately, there's a lot of demand for transportation and we're becoming kind of a more fundamental part of everyone's lives. And then our adding in other services such as Metro just kind of creates more occasions for people to come onto the app, whether they want to take an Uber or whether they want to take a pool or whether in many cases they want to take public transit.
+
+Operator
+
+Your next question is from the line of Masha Kahn with HSBC.
+
+MashaKahn
+
+Hi, thanks for the opportunity to ask question. I noticed you launched Uber Money. Can you talk a little bit about your vision Uber Money, let's say five years from now? What is it going to look like? Are you planning to go into merchant acquiring? And second question can you comment on how much of a drag India was on your ANR this quarter? Thank you.
+
+NelsonChai
+
+So I'll take first question - the second question first and so I have talked about on the Eats side of the business the type of drag and so the Eats ANR was 10.7% in Q3. So it was about a 0.4 drag in terms of the numbers. So India wasn't in there, it would have been posted 11.1%. Regarding where we are on Money, we had a Peter Hazlehurst, who's leading the Money team for us had a presentation in Las Vegas. And what we really are focused on right now is really enhancing the opportunity for drivers on our platform and what I would say is that as you think about with what consistency that is, making sure that they can get paid quickly matters a lot.
+
+And so for many of the drivers and so for many people who work in the workplace you know you're getting paid every other week. And that's probably okay. For many of our drivers, it's, how can we get them paid quicker. And so a lot of the initiatives we're talking about right now are really helping them through that process, many of our drivers are unbanked and so by creating the Uber wallet and allowing them to have the opportunity to have an Uber debit card. And we're working on tools that allows them to get paid every day or after every trip.
+
+We have other tools that provides them a little bit of opportunity to the extent they need $50 for gas, so they can go drive and so we're creating tools like that really around enhancing and helping our driver partners. Beyond that, we obviously are doing a lot in terms of what we can do with business - from a business development side in terms of lowering our payments cost. And we are exploring different opportunities as you know, but it's too early for me to comment beyond really trying to create and really build out a great product for our drivers. And if you think about the amount of funds that flows through our system, we think there's a big opportunity there and we think there's a good opportunity to really help them in terms of giving them the cash and they need it which is immediately and then give them purchasing power and then also help them save on things whether it be gas or service or other thing insurance and other things that we can help leverage our buying power.
+
+So that's kind of where we are today. We obviously are looking beyond it. It would be premature for me to comment beyond that.
+
+DaraKhosrowshahi
+
+Yes. I think we're the first company to stream real time earnings at the kind of scale that we are which is pretty exciting as Nelson said.
+
+Operator
+
+Next question is from the line of Itay Michaeli with Citi. Please go ahead.
+
+ItayMichaeli
+
+Great, thank you everyone. Just two financial questions for me. First, Nelson, hoping you can walk us a bit more into the sequential Q4 EBITDA loss. It seems like your ANR will accelerate from Q3 per your guidance. Maybe just walk us through that the widening loss expectation for Q4. And then secondly, any change to kind of long term I think 25% adjusted EBITDA margin target for the business as a whole?
+
+NelsonChai
+
+So we haven't changed any of the long-term targets. And as Dara mentioned earlier, we will comment more specifically in the Q4 call we think about 2020 guidance. As you think about Q4, yes, it does assume a little bit of an uptick versus where you finished in Q3. There is going to be some more investment probably on the Eats side of the business given the marketplace and then additionally we are investing in other things and you might just see kind of the full-year effect of some of the adds that we've made through the course of the year. And so those really are kind of work what it characterizes. There are parts of our business that does have some seasonal changes. And so that increases cost.
+
+So typically driver and courier cost in Q4 can go up as well. And so that's all kind of embedded inside of a kind of what you're implying for Q4.
+
+DaraKhosrowshahi
+
+So I think year-on-year is going to be pretty attractive but quarter-on-quarter you might see some seasonal effects but the year-on-year that we see in Q4 is going to be pretty strong.
+
+Operator
+
+Your next question is from the line of Lloyd Walmsley with Deutsche Bank.
+
+LloydWalmsley
+
+Thank. Two questions, if I can. First can you talk a little bit more about the progress in some of the newer markets? Dara, I think you called out Germany, Japan and Argentina in your prepared remarks, but if you can give us a better sense of what products are driving that strength. And then maybe any other markets where you see things are opening up over the next year or so? And then second one, Dara, you've been focused on reducing kind of parts of the company to make it more nimble. Wondering just how much left there is to do there and how you feel the organization's responding in terms of becoming a little bit more efficient? Thanks.
+
+DaraKhosrowshahi
+
+Sure, absolutely. So Germany is - just talking about Germany, Japan, Argentina, we're very optimistic on Germany. The growth rates there are very significant, year-on-year growth rates over a 100% in Germany on the Rides side of the business. We've also introduced JUMP bikes in Germany as well and Europe to some extent is kind of the center of the micro mobility revolution that we're seeing. And we're seeing incredible response to JUMP both in Germany and on balance in many European cities as well. And we've got a government working group on ride sharing reform which is in progress. And, listen, we think we're a more efficient environmentally friendly way to move in Germany.
+
+There are some for example laws that don't allow us to pool in Germany which really make no sense. And we're confident that with constructive dialogue and a continued investment in engaging with lawmakers in Germany, we can get to a win for Germany; we can get to a win for customers and which will also lead eventually to a win for Uber as well.
+
+For us Japan is a very promising market. It's kind of a taxi first market. I say the lead in Japan is actually Uber Eats product. Our category position in Uber Eats continue seeing improves significantly year-on-year. We are definitely leaning into the Japanese market as it relates to Eats. And we think Japan can be one of the very strong markets out there and certainly a market where we have the potential to get to that number position and a big kind of number one strategic number-one for us. We're diligently working in Japan as it relates to the Rides business growth is over 60% on year-on-year basis and we just launched Fukuoka for our tenth taxi market in Japan as well.
+
+It will take time; Japan always takes time but we're doing it the right way with the right relationships and Japan on the right side.
+
+Argentina for us is one of our fastest-growing markets, although I will tell you that with the change in government et cetera, we are being measured in our expectations. We want to make sure that we engage with the new policymakers and continue kind of the right dialogue which is how do we make sure that we are providing a service that is a benefit for the cities in which we operate, benefit for riders and drivers alike and most importantly safe for all parties involved. So Argentina has to date been quite positive and will be working kind of with new government out there to make sure that we are considered kind of a good actor or positive actor out there.
+
+As you know, in the UK, we continue to have dialogue with TFL, working closely with them and again when I look at the regulatory framework on a global basis, we always have ups or downs but the teams are making investments. And I think more and more cities and countries around the world are coming to the conclusion that Uber is a good thing for their country and Uber is a good thing for their City as well. As far as making connoisseur moves in terms of how we work. Listen, we're just - it's - this company grew very fast and in the early years the kind of the most important factor was speed to market, who got there earliest and who scaled the fastest.
+
+And so there wasn't a lot of focus on how do you make sure that you work efficiently? How do you make sure that the teams are working together?
+
+How do you make sure that you reduce duplicate work that might not be adding value? It was absolutely the right set of priorities for the time. Our priorities are changing. And now we can deliver scale growth which is technology enabled and leading to profits in 2021 on an EBITDA basis. That's a focus of the company and I think that requires more coordination and that absolutely will allow us to automate some tasks that were done manually. And also get rid of duplication that was an adding value.
+
+And we think that we've got kind of a roadmap ahead of us, and we're pretty confident that we can execute both top line and bottom line as a result.
+
+Operator
+
+Your next question is from the line of Justin Patterson with Raymond James.
+
+JustinPatterson
+
+Great. Thanks. On Uber rewards $20 million is a solid start. I know it's early but could you talk about how these users are different from non loyalty members with respect to engagement? And how important is it that you - towards the profitability targets that you create more monogamous users with loyalty being one of the factors to get there? Thanks.
+
+DaraKhosrowshahi
+
+Hi, Justin. We are seeing early signs from the loyalty members in terms of higher engagement, higher use of our products, higher cross platform utilization as well. I will caution, it is very early. We have just launched and there's a ton of optimization ahead of us in terms of the loyalty program, how do we optimize the customer experience, how do we make sure that we remind our users when they are able to -when they get a benefit. I think there's a lot more that we can do there. And then how do we encourage users to cross-pollinate between one of our services to another service out there.
+
+So we think there's a long road ahead of us and we're very, very early here. In terms of our forecast going forward, we think that building, increasing customer engagement, deepening loyalty and being more efficient in terms of customer acquisition cost and segmentations, absolutely are parts of the path to profitability. But the teams have a plan that they're executing to and we're confident that we can get goodness there. Do we have time for one more question?
+
+NelsonChai
+
+Last question, yes.
+
+Operator
+
+And your last question will come from the line of Brad Erickson with Needham & Company.
+
+BradErickson
+
+Hi, thanks. Just to follow up on the Eats business. I guess related to that comment earlier the 15% of Eats booking is doing, I guess half the losses. Does any of those markets in those 15% bookings fall into situations where you're not the number one or two positions? So just wondering if there's a chance that you exit some of these at some point as you said. And I guess just more broadly in cases where you're not a one or a two player or can't get there in 12 to 18 months, disposing is the only option you've mentioned so far in the call, but maybe talk how proactively you might use M&A to try and improve your position in those certain markets? Thanks.
+
+NelsonChai
+
+Yes. There are some markets where we're not one or two that are in there right now. Yes, we are going to look at both disposing as well as using M&A as potential levers. We are going to lean in and we're doing a lot of work right now from an allocation perspective across all our businesses. And so the teams are working pretty hard in terms of creating these maps. And we think about resource allocation and so we are going to work through it. We are - it is going to take 12 to 18 months like you said. We are going to look at all the different levers we have.
+
+Our commitment is to lean in if we think we can win or be one or two. And if we think we can't we're going to be good stewards of capital. And so we will make the appropriate choices. We've been working pretty hard in terms of that framework and the teams are working hard on it right now. And so yes, our goal is to execute against those plans.
+
+DaraKhosrowshahi
+
+Let's do one more question, operator.
+
+Operator
+
+Your next question will be from the line of John Blackledge with Cowen. Please go ahead.
+
+JohnBlackledge
+
+Great. Thanks. Just two questions. On AB5 just curious is there any - do you expect any impact in 2020? I know the ballot measure is in November. Just curious about that and just longer-term implications. And then second question just the rationale and potential for grocery delivery with the recent Cornershop deal. Thank you.
+
+DaraKhosrowshahi
+
+Sure, listen, on AB5, we've been living under this law for 1.5 years in California since the dynamic decision and we've always existed with 85 like ABC tests in Massachusetts, New Jersey, and Connecticut. These are pretty big markets for us and we know states like New York and Washington. They've already suggested that they want to pursue gig worker protections and we're happy to work with them on solutions that look similar to the ballot measure that we filed. This has protections, representation pay standards as well. We're not afraid of these conversations and at the same time, we're not afraid to defend our model, if those conversations turn out to be unsuccessful.
+
+And I'm hoping that the US politicians would be willing to work with our industry, our partners to get to progressive new models that are win-win that frankly they're already being established in Europe. But if not, we'll continue to aggressively defend our drivers' rights to flexibility. It's always the number one reason why our drivers value our platform. The vast majority of our drivers are not full-time drivers. And we think that not only do they value that flexibility, but we should actively make sure that we defend that flexibility. And we would look to provide private benefits where we can to improve their lives as well.
+
+So this is going to take dialogue. We're up for that dialogue and one way or the other we think that our model will thrive and grow.
+
+As far as Cornershop goes, we think that grocery is a very high frequency use case. It has significantly high basket sizes. We were very impressed with a Cornershop team and as you can expect we meet with everybody in our industry and in adjacent categories as well. And we were just super impressed with this team that has been able to build out a great product with actually pretty limited capital out there. So what we - the opportunity that we see is you have a product that has been highly optimized over a long period of time. And we get to put that product through our sales channel so to speak. We get to expose it to our customers and we've seen it.
+
+When we expose our Eats product to our Rides customers, good things happen. When we expose Transit to our Rides customers good things happen. We see the same thing with grocery. We think with Cornershop we will start in Latin America to make sure that it's working. That's - we obviously have a very big position in Latin America. And we will expose Cornershop grocery as well as other products to our Eats customers and our Rides customers in Latin America. If it works there and we're pretty darn confident that it will. We'll look to extend it but first it'll be within the LATAM markets where Cornershop has a ton of experience.
+
+And this is just about putting a great product against a huge audience that is already engaged with all the payments, all the identity, all of that stuff taken care of. So taking out a ton of friction that a bunch of our competitors have to deal with. So we're pretty excited. It's a great team and we're really looking forward to welcoming them to the Uber family.
+
+So with that thank you everyone for joining us for the call. I think Q3 was another strong example of the Uber team executing. We're excited about the 2021 consolidated EBITDA profitability target that we have out there. And we hope that we've shown you that we can execute against not just delivering top-line growth, but also top-line growth with discipline. We could only do so with the really, really hard work of all of our employees on a global basis. And also the partnership of the cities that we work with. And our drivers et cetera. None of this would be possible without them. But we think we're on a good path. And we thank you for your interest in this call. And we'll hopefully have more to talk to you down the road.

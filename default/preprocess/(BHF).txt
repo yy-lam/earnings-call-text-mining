@@ -1,0 +1,471 @@
+This is a meaningful milestone for us. Over the past 21 months, our team has worked tirelessly to transform Brighthouse Financial into a standalone company.
+
+These efforts culminated with our separation from MetLife on August 4 and our listing on the NASDAQ stock market on August 7. I would like to thank our employees for their incredible efforts throughout this separation process. I would also like to thank our policyholders and distribution partners for placing their trust in Brighthouse Financial.
+
+Let me set the stage for the rest of my remarks by reiterating the key points of our strategy as an independent company. First, our goal is to offer a tailored set of annuity and life insurance solutions that are simple, transparent and provide value to advisors, clients and our shareholders. Second, we will deliver our products to clients through a broad network of independent distribution partners. And third, we aim to become a cost-competitive manufacturer over time.
+
+Our management team, our Board and our employees are focused on executing this strategy and delivering value to our shareholders. A priority for us has been creating a recognizable brand that resonates with our distribution partners, their advisors and clients.
+
+In early March, we launched the Brighthouse Financial brand with a nationwide rollout of our first print and television advertising campaigns. These ads touched millions of people and were successful in introducing Brighthouse Financial to America.
+
+Last month, we began another round of advertising, which continues to build brand awareness, and showcases our flagship Shield annuities. You may have seen some of these ads during the World Series and numerous other television shows. The initial feedback to our brand rollout and advertising has been very favorable. These campaigns have helped generate awareness in the market and have allowed us to hit the ground running as a new public company.
+
+With that as a backdrop, I will now discuss three topics. First, I'll touch on progress made on the product and distribution front. Next, I'll provide some perspectives on our third quarter earnings. And lastly, I will provide an update to our financial targets.
+
+Let me turn to product and distribution. I've met with a number of advisors since we launched our brand in March. There is a lot of excitement among them about a focused scale player like Brighthouse Financial. That excitement is creating interest from advisors, who already partner with us, and advisors who want to begin a relationship with us. That excitement is also evident in our sales results.
+
+Our annuity deposits were up 8% both sequentially and quarter over quarter. Sales of our Shield annuities were $653 million in the quarter, up 67% quarter-over-quarter, and up 15% sequentially. Shield generates strong value of new business for us while meeting critical needs of our distributors and clients. It is an example of a next-generation product that is also a good complement to our in-force variable annuities with living benefit guarantees.
+
+In late July, we celebrated the launch of Index Horizons, the first product to be created as part of our 10-year distribution agreement with MassMutual. Index Horizons is a white-label fixed-index annuity, sold by MassMutual advisors. Brighthouse Financial assumes 90% of the economics through reinsurance with assumed sales of this product of approximately $70 million in the quarter. We are pleased with the launch of Index Horizons and excited to leverage our partnership with MassMutual's more than 9,000 advisors moving forward.
+
+We will continue to explore offering new products that meet the needs of our distributors and shareholders in a balanced manner in addition to expanding our independent distribution footprint. I look forward to updating you on further progress on future earnings calls.
+
+Now, I'd like to take a moment to provide a few perspectives on our third quarter results. First, we completed our annual actuarial review, and updated assumptions and models, leveraging an additional year of our own data combined with industry data to refine our assumptions to reflect emerging behavioral experience. We also aligned certain GAAP and statutory assumptions. I'm pleased that the VA hedging strategy performed in line with our expectations and helped to offset some of the impact of the actuarial assumption changes.
+
+Anant will provide more detail on our third quarter results. Before I turn the call over to him, I want to touch on our financial targets.
+
+We have set financial targets that we believe best measure the execution of our business strategy and align with the interest of shareholders. The targets for our base case scenario are: to begin returning cash to shareholders at 50% to 70% plus of operating earnings by approximately the year 2020; to achieve mid- to high-single-digit growth of operating earnings per share annually; and to maintain a stable operating return on equity of approximately 8% on average over time.
+
+This is an update to our initial target of approximately 9% for operating return on equity, which was included in our final Form 10 filing. The update reflects a change in GAAP equity, excluding accumulated other comprehensive income, to approximately $12.5 billion, which was larger than previously anticipated.
+
+There were three primary drivers impacting the beginning GAAP equity. First, the distribution paid to MetLife was $400 million less than originally projected. Second, certain separation and restructuring transactions resulted in a more favorable impact to equity than originally estimated; and third, Brighthouse had positive net income in the second quarter.
+
+To achieve these targets, we must consistently execute on the following goals. Prudently manage our existing variable annuity block over time and across market cycles, with robust asset adequacy at or above CTE95; design and sell compelling products that generate positive value of new business, and are aligned with our strategy of delivering distributable cash flow over time; and improve our operating cost competitiveness as a stand-alone company over time.
+
+Let me provide a few perspectives on expenses. We expect that our expenses will be higher in our first few years, as we transition to being a standalone public company and as we make investments in our technology, infrastructure and businesses. We made good progress in the quarter, implementing systems and processes at Brighthouse that enabled us to exit 13 of our 218 TSAs with MetLife, in line with our plans to end the year with approximately 155 TSAs.
+
+In summary, we are executing on our plans and are very pleased with our sales momentum during our first reporting period as a standalone company. With that, I'll turn the call over to Anant to discuss our third quarter financial results in more details. Anant?
+
+Anant Bhalla
+
+Thank you, Eric, and good afternoon, everyone. Today, I will discuss our results for the third quarter, along with our perspectives on the key underlying themes.
+
+Before we get into the third quarter results, I would like to address one tax accounting item. In the quarter, we recorded a noncash tax expense of approximately $1.1 billion related to a tax obligation triggered prior to our separation from MetLife. This tax expense has no impact on our stockholders' equity, which we also refer to as our book value.
+
+Brighthouse will not be required to make any payment with respect to such tax expense.
+
+The reported net loss in the quarter was $943 million, compared to a net loss of $158 million in the third quarter of 2016. The reported operating loss was $676 million in the quarter compared to operating earnings of $329 million in the third quarter of 2016.
+
+Third quarter ending book value per share, including Accumulated Other Comprehensive Income or AOCI was approximately $115. And book value per share, excluding AOCI, was approximately $104. Excluding the previously mentioned non-cash tax expense, net income would have been $130 million, and operating earnings would have been $397 million.
+
+There were two other net favorable notable items in the quarter that impacted operating earnings, totaling $103 million or $0.86 per share. Specifically, $134 million net favorable impacts primarily related to our annual actuarial review and $31 million of establishment costs related to our technology transformation and branding efforts. The overall net income impact from the annual actuarial review was an unfavorable $62 million after tax.
+
+Today, I will provide perspectives around four themes that impacted our overall financial performance this quarter. The first key theme is the annual actuarial review. The annual actuarial review this quarter represents our first as an independent company. In addition to one additional year of observable market and company experience, the primary new data source available to Brighthouse Financial this year are the results of the Quantitative Impact Study or QIS, conducted for the NAIC Variable Annuity Reserve and Capital Reform initiative.
+
+Brighthouse Financial is one of about a dozen companies participating in this industry initiative. The study provides granular client behavior specific experience on an industry-wide basis.
+
+While the NAIC VA reform initiative is still a work in progress with full implementation likely more than a couple of years out, the availability of such a rich data set has informed our update to long-term assumptions about client behavior. This year's client behavior-specific updates for Brighthouse are in addition to our 2016 actuarial review that among other things, lowered Guaranteed Minimum Income Benefit or GMIB annuitization election rates to 2% for clients under the age of 80.
+
+All of our 2017 annual actuarial review assumption and model changes can be classified into three broad categories. First, client behavior, we reduced lapse floor assumptions for all variable annuity GMIB and Guaranteed Minimum Withdrawal Benefit or GMWB contracts to 1.5% for deep in the money contracts, down from 2% to 3% respectively.
+
+We updated our assumptions about variable annuity withdrawal behavior for GMWB for life contracts to reflect contract age in addition to client age over time. This change results in earlier client withdrawals for a GMWB contract after the end of the guaranteed roll-up of the benefit base compared to a typical GMIB contract. Additionally, we reflected refinements to our life book behavior assumptions on mortality, lapses and premium payment patterns.
+
+The second category relates to the harmonization of models and assumptions between GAAP and statutory accounting. As a result of this harmonization effort, we reduced our GAAP separate account return assumptions to the mid 6% range for all of our valuation models. This puts our valuation models in line with our base-case financial projection assumption outlined in the Form 10, which is the basis for setting our financial targets.
+
+We also aligned the projection period for models between GAAP and statutory accounting. The third and last category of changes in the annual actuarial review is separation related. We replaced the MetLife credit spread with a Brighthouse credit spread. This credit spread is only used in our variable-annuity, GAAP-embedded derivative liability valuation. We are actively involved in the industry efforts around the NAIC VA capital reform project, and we will continue to monitor emerging developments over the next year as the NAIC gets closer to finalizing standards.
+
+The second theme for the quarter is variable annuity exposure management. As a reminder, we are managing our variable annuity business to a floor level of capital, known as CTE95. CTE95 is defined as the assets required over the life of a product in the average of the worst 5% of future market scenarios.
+
+We hold assets to fund the CTE95 level and enter into hedges to protect CTE95 asset adequacy in adverse markets. The CTE95 total asset requirement for the quarter was $6.3 billion, up from $6 billion in the prior quarter. The increase was driven by impacts from the annual actuarial review, which increased our CTE95 target funding level by approximately $700 million. Favorable equity markets in the quarter only partially offset this impact.
+
+Assets above CTE95 were $2.3 billion, unchanged on a sequential basis due to 3 contributing factors. First, the hedging program performed as we would expect in a strong up-market quarter by contributing modestly to the growth in assets above CTE95. Second, subsequent to the end of the quarter, Brighthouse Financial, Inc. contributed $200 million of holding company cash to Brighthouse Life Insurance Company. Lastly, surplus assets in the non-variable annuity blocks were redirected to the variable annuity block.
+
+We intend to manage our variable annuity business with assets of $2 billion to $3 billion above CTE95. This allows us to deploy an efficient hedging strategy with a greater use of out-of-the-money options to protect against market downside and retain a meaningful amount of upside from favorable movements in capital markets. Finally, the transition to our hedging strategy is complete with the weighted average life of our equity option book at approximately three years, limiting rollover risk of expiring hedges.
+
+The next theme is favorable underwriting. Across our life insurance businesses, we saw lower direct claims and a favorable impact from the reinsurance recaptures completed in the second quarter of 2017 that resulted in favorable impact to operating earnings of about $20 million sequentially.
+
+It is important to note that these two items, plus reserve changes, can be volatile from quarter to quarter. The last theme I would like to discuss is expenses.
+
+Corporate expenses were $241 million pre-tax in the quarter, up approximately $32 million compared to the 2016 quarterly average, but still $15 million to $25 million lower than our quarterly expectations in the first full year post-separation. Corporate expenses do not include the $31 million of establishment costs that I mentioned earlier. As we make investments in our infrastructure over the coming years, we anticipate establishment costs to be in line with or higher than this quarter's levels.
+
+It is important to note that these establishment costs are already factored into our plans and financial targets. Turning to the results at the segment level, operating earnings in the annuity segment were $355 million in the quarter, including favorable notable items of $142 million. Strong equity markets offset continued negative net flows with annuity account values at $132 billion compared to $130 billion in the second quarter of 2017. Sequentially, results reflected lower DAC amortization and favorable taxes.
+
+Operating earnings in the Life segment was $6 million in the quarter, including $17 million of net unfavorable notable items. Overall, underwriting results in the quarter were favorable sequentially due to lower direct claims and higher retention resulting from reinsurance recaptures from MetLife in the second quarter. Taxes were also favorable sequentially.
+
+Operating earnings in the Run-off segment were $83 million in the quarter, including favorable notable items of $9 million, primarily related to the 2017 actuarial review. The segment comprises our legacy Universal Life with Secondary Guarantees, or ULSG block, and nonretail businesses in the legal entity. Operating results are typically split equally between the ULSG and the other businesses.
+
+This quarter, ULSG reserve growth was favorable relative to prior quarters. Many of the underlying drivers across our segments were favorable compared to the prior quarter, including favorable underwriting and corporate expenses below our anticipated run rate. As a result, operating earnings in the quarter were favorably impacted by approximately $30 million to $40 million compared to the second quarter.
+
+Let me close with an update on our capital position. First, preliminary combined Total Adjusted Capital or TAC was $6.6 billion, $200 million above the prior quarter. Second, variable annuity assets above CTE95 remained at $2.3 billion. Our plan is to grow the assets above CTE95 to $3 billion, which, under our base case scenario, is gradual through 2019. This is an important milestone before beginning to return capital to shareholders.
+
+Third, cash and liquid assets at the holding companies after reflecting the previously mentioned $200 million capital contribution to the life company are approximately $575 million or about 4 times our expected annual fixed charges. And finally, our leverage ratio of approximately 22.5% is below our goal of 25%. This provides us financial flexibility in managing our overall capital position.
+
+With that, we'd like to open up the call for questions.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operator Instructions] Our first question comes from the line of Ryan Krueger of KBW. Your line is now open.
+
+Ryan Krueger
+
+Hi, thanks. Good morning or it's just afternoon at this point. In terms of the actuarial review impact, I understand the $700 million increase to the CTE requirement that you mentioned. But can you help us think about do - are these adjustments things that will also impact your prior disclosure on cash distributable, earnings generation and long-term cash flows? Or would you think about it as the update is now fully reflected in the VA capital margin without continuing the impact?
+
+Anant Bhalla
+
+Ryan, thank you for the question, and good afternoon. Our targets stay the same as we outlined earlier. There will be updates to our projections and sensitivity tables, which we will do annually, but our targets stay the same.
+
+Ryan Krueger
+
+Okay. Your capital targets, but I guess all else equal, would you expect this to have a negative go-forward impact on future cash flow generation?
+
+Anant Bhalla
+
+No. Our capital return outlined in our targets in a base-case scenario stays the same. In your models, you will probably want to reflect our updated projections and sensitivity tables, Page 254, 256, 257 of the Form 10. As you do an actuarial review in a year, that does move things around. But fundamentally taking a step back doesn't change our expectations.
+
+Ryan Krueger
+
+Okay. And then can you just - could you tell us, on an isolated basis, what was the impact of capital markets in the quarter in terms of what would your - how much would your capital margin have to increase if there were no impact of the actuarial review?
+
+Anant Bhalla
+
+Sure. Good question. In the quarter, the S&P 500 was up approximately 4%. If you look at the sensitivity table that we outlined earlier and interpolate the 5% sensitivity there, you would have expected a change of around $400 million over there for change in assets above CTE95. Our program performed as we expected. We had earned $100 million performance from the hedge program, in a quarter where volatility came down as well. That does take a little bit away from our hedge program performance.
+
+But even net of that, we had $100 million of positive performance excluding volatility. Had volatility not come down, we probably would have had a couple of hundred million of performance. Additionally, as you look at sensitivities on 256 and compare them with cash flow over multiple quarters and years on 257 and 257 - 256 and 257 of the Form 10, I'd introduce a part around the passage of time. As each year - as each quarter goes by, the passage of time increases CTE95 by a couple of hundred million as well. So that's the two moving parts, I would elaborate on.
+
+Ryan Krueger
+
+Okay. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Erik Bass of Autonomous Research. Your line is now open.
+
+Erik Bass
+
+Hi, thank you. First, just wanted to clarify one thing on the establishment expenses. I think, you mentioned that those are included in your targets. So, does that mean that the 8% ROE incorporates them? And then, I guess, secondly, I may have just missed it. But how long did you say you expect those to continue for?
+
+Anant Bhalla
+
+Sure. So first of all, I'll take the second part of your question. We expect them to continue for the coming few years. And this is really about establishing us a standalone company, making investments in technology, our platform as well as our branding. In terms of our ROE targets of 8%, we'll be excluding that out, because of the nonrecurring items on an ongoing basis once we're fully established.
+
+Erik Bass
+
+Got it. But - so then, when you said they're included in your targets, is that in more thinking of your cash flow scenarios?
+
+Anant Bhalla
+
+That is correct. We've already factored them in, in our projections on how our cash flow will emerge. So, there's nothing new for our projections. We had already factored that in.
+
+Erik Bass
+
+Got it. Thank you. And then, just one question as we think about the below-the-line impact from hedging costs going forward. I know this quarter, you had the favorable NPR adjustment. But in sort of, I guess, a normalized environment, how would you think about the level of below-the-line expenses related to hedging over the next year or two, and what we should think about that meaning for book value growth?
+
+Anant Bhalla
+
+Sure. It's Anant again. Below-the-line expenses, you'll see them coming through NDGL, so just a little context. As we go forward in a few quarters and start to put more of the assets above CTE95 at risk, reducing our hedge costs, we will see operating income and net income converge. What that will result in, if you look at Page 17 of the supplement, the negative hedging impact to the bottom line should reduce and even be positive in some cases depending how much of assets above CTE95 are at risk in a rising market. In a down market, the reverse would happen.
+
+Erik Bass
+
+Okay. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Tom Gallagher of Evercore ISI.
+
+Thomas Gallagher
+
+Hi, Anant, a couple of questions just about the - kind of the drivers and at a high level, the way to think about this. So right before Met executed the spin of Brighthouse, there was an actuarial charge, if you will, of $400 million capital contribution that Met made. And then this quarter, there's another adjustment being made. And I heard your explanation. Can you talk a little bit about sort of what the first one was, how that - I heard your explanation as to what happened this quarter? Maybe just - do you have any information you can provide on what happened there?
+
+And then any further visibility for whether we have - we'll have more stability going forward as it relates to the actuarial reviews?
+
+Anant Bhalla
+
+Hi, Tom. Good afternoon. Sure. Happy to really take a step back, provide the broader perspective and then get into individual aspects here. First of all, I would say with the Form 10, you saw us come up with a lot of transparency about our sensitivity to markets. We got feedback saying, tell us more about behavior. We did our first actuarial review as an independent company this time. And what we've done with that is actually come out, and given you some numbers, like what I mentioned about lapse and annuitization rates.
+
+So last year's review, even before we talk about the $400 million just prior to separation, was informed by both our experience and industry data. This year's review, we had the QIS data, which is very rich. And it's once in a long time you get the opportunity to look at granular data that is also credible, because you've got a broad level of industry participation in it, right?
+
+So, with that, we've now come out and actually given you some numbers around lapse, annuitization and the major behavior items. The $400 million was a different matter. It was from - really related to a legacy methodology, which we sunset as Brighthouse, so it's no longer relevant to us. But in order to sunset it, we had - we got the $400 million that we put into the life company. Let me pause there. Happy to take a follow-on if you have one.
+
+Thomas Gallagher
+
+Yes. So, the - so now, when you had the access to the broader data, and I heard your commentary around some of the changes for the deep in the money contracts assuming lower lapse rates, is that informed by the industry data that's showing you more mature blocks for similar types of risks you have? Or is that more informed by the fact that some of your block is now maturing, particularly on the GMIB side?
+
+As you're seeing more of that, you're able to see the experience in applying it. And put another way, is that based on experience in your own block to some degree, where you're now seeing more of that? And - or is that just more conservatism based on, we'll say, access to more broad industry data?
+
+Anant Bhalla
+
+I would say it's what you said when you started out. We have seen with the industry data granular information that's credible for blocks that are older than ours. So, we can sort of see what happens as the block ages. You just have - don't have to wait for your own data to emerge.
+
+Thomas Gallagher
+
+Got you. So, it really is just able to have a greater insight into what happens to these blocks as they age. That's helpful. Thanks.
+
+Operator
+
+Our next question comes from the line of Sean Dargan of Wells Fargo Securities. Your line is now open.
+
+Sean Dargan
+
+Thank you. Anant, I have a question about something you said that - I'm not sure, if I heard it right or I might be confusing statutory with CTE. But you said that the total assets required for variable annuities increased to $6.3 billion from $6.0 billion?
+
+Anant Bhalla
+
+That's correct. That's our CTE95 amount sequentially.
+
+Sean Dargan
+
+Okay. But - so that's a $300 million delta. What was the $700 million difference to get to CTE95?
+
+Anant Bhalla
+
+Just the impact of the actuarial changes. So, the impact of the actuarial changes with the assumptions review was $700 million. And then I outlined the three ways that we funded that, $100 million from the program working; $200 million from the holding company; and the remainder by moving cash around between segments.
+
+Sean Dargan
+
+Okay. I think one concern the market may have is that when the Form 10 was first published, you were at CTE95 plus $2.3 billion. And then at the time of the spin, you were at CTE95 plus $2.3 billion. And I appreciate that you have more granular data, but your - the equity markets have performed very well, and you're still at CTE95 plus $2.3 billion. I mean, are you feeling good about this estimate now? Is this - are you feeling better about this estimate than you were earlier?
+
+Anant Bhalla
+
+That's a great question. Let me take it in two parts. First of all, your 6 to 6.3 point, right, just to finish out your earlier point. $700 million impact from assumption changes, and then obviously, positive markets help out, right. It goes down. The CTE95 goes down.
+
+Sean Dargan
+
+Got it, yeah. Okay.
+
+Anant Bhalla
+
+Now on why we're still at $2.3 billion, I would really look at us in the third quarter, because that's when we were independent, on our own and working towards growing to $2.3 billion. And things worked in the quarter as we expected. S&P was up 4%. So, if you look at the sensitivity tables we gave you guys, we should have approximately a $400 million growth in the $2.3 billion. The hedge program gave us upside. It allows us to participate in the upside with the use of options. That was approximately $100 million vol. If it hadn't gone down, if it was unchanged, the sensitivity tables would be wall [ph] constant. We don't give you a sensitivity table on vol.
+
+But because we buy a lot of options, when volatility goes down to these historic low levels, one-year vol is down to like 13 now. We lose some value in those options, which will bounce back, if vol comes back up. And then the passage of time eats into some of the upside we have as time goes by. So, things worked as we expected, and that's what I'd leave it at.
+
+Sean Dargan
+
+Okay. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Suneet Kamath of Citi. Your line is now open.
+
+Suneet Kamath
+
+Yeah, thanks. I wanted to come back to the ROE target. Yeah, I think you had said that maybe equity is a little bit higher than where you thought it would be. But just looking sequentially, we're at $14.5 billion, I think, last three - the June quarter, and now we're at $12.5 billion. So where did you think that you'd end up? What was in the plan, I guess?
+
+Anant Bhalla
+
+We're around the 8% area, as we mentioned, because our $12.5 billion of equity, that's out of the gate, post separation where we ended up. We had a pro forma around $12.170 billion, and we ended up around $12.5 billion for some beneficial items related to separation. And now from here on, it's how net income performs.
+
+Suneet Kamath
+
+Okay…
+
+Eric Steigerwalt
+
+So, I would just add - it's Eric. It's basically a true-up, right. I mean, we had projections, and now we know what it is. And so, it sort of reset the starting ROE from about 9-ish that we were talking about in August to now 8-ish. And obviously, there won't be any more true-ups like that.
+
+Suneet Kamath
+
+Okay. And then, just on the, I guess - not sure if it was the actuarial or the stat impact. I mean, you talked about harmonizing, I think, the market return assumptions between stat and GAAP, and then the movement from Met's credit spread to your own. I mean, I would have thought that those would-be things that maybe you could have highlighted in the past. I mean, I wouldn't expect that they should be surprises. So, I guess, I'm trying to figure out, why did they happen in 3Q as opposed to maybe earlier at the point of spin, where they wouldn't have been as big of surprise.
+
+Anant Bhalla
+
+Well, we have to be independent to actually do them. But just to give you a sort of headline number, the $134 million of favorable impact to operating income from actuarial review splits out to 100 - it's basically a lot in annuities. And it's $140 million in operating earnings and offset by $200 million negative in below the line before giving us the $62 million impact that we talked about to negative net income. A lot of that is awash between - what you have on credit spread as well as other items. Happy to take a follow-on, if you have any other clarifications.
+
+Suneet Kamath
+
+Just one other one. Just what was the amount of assets that you said was redirected from other businesses to the VA business?
+
+Anant Bhalla
+
+Sure. $400 million.
+
+Suneet Kamath
+
+And was that - had that been previously contemplated? Or was that something that was new?
+
+Anant Bhalla
+
+Well, we have some financial flexibility. First of all, our leverage ratio is at 22.5%, and our target is to be at 25%. But secondly, we wanted to complete our first actuarial review as an independent company and then settle in to the capital by the segments, if I put it that way. All of the segments are run with capital levels consistent with a single A rating.
+
+Suneet Kamath
+
+Okay. Thanks.
+
+Operator
+
+Thank you. Our next question comes from the line of John Barnidge of Sandler O'Neill. Your line is now open.
+
+John Barnidge
+
+Thanks. I'm not going to ask questions about the ROE targets. But there's a number of closed blocks on the market right now. I know, you're not in a position to pursue buybacks or dividends. But is there any possibility that you could pursue a stock-based acquisition or not?
+
+Eric Steigerwalt
+
+John, it's Eric. Right now, we are sticking to our knitting. We laid out in the Form 10 and in other conversations, we've got 218 - well, now it's a little bit lower, but got a number of TSAs that we've got to work our way out of. We're working on our hedging program. We're working on building our businesses. You saw what we did in the annuity business this particular quarter. And so, it's just not something we're contemplating in the first 18 to 24 months as a public company. We have our goals out there, and we are working towards them.
+
+John Barnidge
+
+Thank you very much.
+
+Operator
+
+Thank you. Our next question comes from the line of Humphrey Lee of Dowling & Partners. Your line is now open.
+
+Humphrey Lee
+
+Good afternoon, and thank you for taking my question. Just a clarification regarding the establishment expenses. Like were that part - were those expenses part of the expectation in terms of being a standalone company, i.e., the kind of the $260 million quarterly run rate - corporate expenses? Or is it because - is there something separate?
+
+Anant Bhalla
+
+Hi, Humphrey, thanks for the question. Yes, it was already factored into our projections around cash flow. But there are two separate categories here, which I want to sort of elaborate. We have the $175 million to $225 million higher expected in the first year run rate in our corporate expenses, which we outlined. And in the second category, the onetime establishment, which also we outlined in the supplement, so I just want to highlight that.
+
+Eric Steigerwalt
+
+And just think about the one-time establishment, systems, infrastructure, all that kind of stuff. So, you'll hear about it in two buckets going forward, the same way we're talking about it today. But it was all contemplated in the numbers that were in the Form 10.
+
+Humphrey Lee
+
+Got it. And then regarding to your Shield product, definitely, sales have been pretty decent. But at the same time, there's more companies talking about putting out some type of buffer annuities. Can you just talk about over in general the market - the competition in the marketplace?
+
+Eric Steigerwalt
+
+Sure. Great question. We welcome competition here. This is a great product for, I think, manufacturers. It's a great product for distributors. It's a great product for our clients. So, growing that business, I think, would be great. We welcome competition. We know there's going to be some in 2018, and we're working through our business. We've got the Wells Fargo relationship that's just coming online that we talked about. We've got other opportunities and many other distributors to increase our - either start or increase our Shield sales. So, I'd leave it there.
+
+Humphrey Lee
+
+And then just a quick follow-up. So, my understanding is your product is more of a general account product as opposed to some of the buffer annuities out there kind of on a separate account chassis. Like, what do you see as the main advantage of having these general account products versus a separate account product?
+
+Anant Bhalla
+
+Hi, it's Anant. We do have a separate account product. It's a unitized separate account, it behaves a lot like a general account for us. The main difference, though, is simplicity. Our product does not have fees in it. And that makes it a lot simpler for clients.
+
+Humphrey Lee
+
+Got it. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Jimmy Bhullar of JPMorgan. Your line is now open.
+
+Jimmy Bhullar
+
+Hi. I'm going to ask a question again on the ROE point. Your ROE target went down by a full point, and I don't think the equity balance went up by 10%. So, are there changes in your assumptions for earnings as well? Or is it just the denominator that's resulting in the change?
+
+Anant Bhalla
+
+Hi, Jimmy, it's Anant. Well, the denominator went up, right, as we separate, so we have $12.5 billion of capital. When you sort of also think of the numerator, I talked about the $30 million to $40 million of favorable items this quarter. So, as you look at our numbers and remove notable items, there was $30 million to $40 million of good items this time between underwriting and expenses running below where we'd expect them to go in terms of the fixed costs plus taxes were favorable. We're around a 21% tax rate this quarter, and we'd expect to be in the mid-20s on a GAAP tax rate. So, if we - if you look at...
+
+Jimmy Bhullar
+
+Yeah. I'm not really comparing what happened this quarter. I'm just comparing what you would have assumed, because it's not like taxes being lower this quarter means that they're always going to be higher going forward or some of the negatives - some of the positives that you saw. Do you know what I mean? The math doesn't work. If your ROE target is going from 9% to 8% that means either the denominator went up by more than 10% or the numerator went down a little bit.
+
+And I realized it might not have been 8% exactly, and 9% might have been a little bit lower, a little bit higher. But I'm - and I'm talking about plan versus plan, not like plan versus first quarter results versus next year. Does that make sense?
+
+Anant Bhalla
+
+Sure. Yeah, the denominator for us went up $1 billion through the separation, and then you see the targets came up. So that's what I would point you to.
+
+Jimmy Bhullar
+
+And there's no change in your assumptions for earnings longer term versus your initial assumption?
+
+Anant Bhalla
+
+No.
+
+Jimmy Bhullar
+
+Okay. And then in a normal market, let's say 2% up a quarter or something in that range, how much should your required capital for this - for CTE95 go up by? Is it around $200 million a quarter or so? Or is it higher or lower than that?
+
+Anant Bhalla
+
+Great question. If you look at 256 of the Form 10, where I give the three-year statutory distributable earnings, and you compare it with the instantaneous sensitivities, which are on 254, you can actually see how CTE95 in our base case scenario over the first three years with a 6.5% separate account return in our base case is basically flat. So, you would need that kind of a return for it to stay flat, which is the aging factor that I talked about, it's like $200 million a quarter.
+
+Jimmy Bhullar
+
+Okay. And so better than that, and it goes down lower than that, and actually, obviously, your required amount goes up.
+
+Anant Bhalla
+
+Exactly.
+
+Jimmy Bhullar
+
+Okay. All right. That's all I had. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Randy Binner of B. Riley. Your line is now open.
+
+Randy Binner
+
+Hey, thanks. So, the - just on kind of sales metrics, the VA and indexed annuity flows were better at least than we had modeled. And it's early days, but they're better than the first half. And I think early on, we kind of talked about getting closer to breakeven flows maybe by the end of 2018. And so, my question is, do you have any more view on when you think you might get closer on the flow breakeven?
+
+Eric Steigerwalt
+
+Hey, Randy, it's Eric. I don't remember ever saying at the end of 2018. I'm pretty sure, I said, it's going to take a number of years, because you - just think about it. So year-to-date in this year, we've done about $3 billion of deposits. So, you can extrapolate and take a guess at what you think the fourth quarter will be, and then you'll know an annual number.
+
+But with that kind of quarterly negative net flows, it's going to take a while, right. I mean, there's a couple of ways it could happen. Flows could - net negative flows could slow down lapses or you need a fair amount more sales. And I would say if you take a look or whatever your guess is, whatever reasonable guess is, at our annual rate for sales, we're going to grow it from here.
+
+And I think, we're showing how we're going to do that, growth across the board, not just in Wells Fargo. We're experiencing growth in many of our distributors. We also have the brand-new FIA with - through MassMutual, which on a net basis was only about $70 million in this quarter, so you can think about that increasing.
+
+So, I'm looking for sales growth year-over-year sequentially for a while now. However, it's going to take years, a number of years, and I haven't thrown one out. Eventually, we can try to give a number out, but it's going to take a number of years, before we can actually get to sort of breakeven net flows.
+
+Randy Binner
+
+No. That's helpful. And I guess, a follow-up. And I apologize, if this has been discussed. But all these annuity calls are starting to run together here. The DOL rule being delayed effectively is at - are your distributors feeling kind of different about their ability to sell the product? Is the overhang from the DOL fiduciary rule lightening up a little bit out there?
+
+Eric Steigerwalt
+
+I'd have to say yes to that. Look, a number of them said to us pre the delay. These products are important. They're very important to clients or potential clients, and we want to sell them. Having said that, with - and by the way, I think today, we received that rule from the DOL, delaying it to June of 2019. I'm pretty sure if you were to talk to some of the distributors, they'd say, yeah, there's - it's not so much of our focus on a daily or weekly basis at this point. So, it's probably going to help going forward.
+
+Randy Binner
+
+All right. I'll leave it there. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Alex Scott of Goldman Sachs. Your line is now open.
+
+Alex Scott
+
+Thanks for taking the question. I just had a quick one on the Run-off segment. Was interested in hearing your thoughts on just some of the in-force management actions that peers have taken and whether that could potentially be an opportunity for you to potentially increase these on some of the Run-off product?
+
+Anant Bhalla
+
+Hi, thanks for the question, Alex. The Run-off segment predominantly comprises of our Universal Life with Secondary Guarantee book, ULSG, and then other nonretail businesses that were in the legal entity. It's almost like 50-50 split from a business results point of view. ULSG is interesting.
+
+We'll actually have to see what happens with tax reform. And we're always looking at ways to improve profitability. So, we will look at our options. But ULSG fees are - it's a little different than what people might do on other blocks. So, I just want to highlight that point. It's cost of insurance charges and things like that, which we'll have to look what to do at.
+
+Eric Steigerwalt
+
+So, I'll just add something to what Anant just said going back to a previous comment, I made. Whether it's acquisitions or divestitures, we've got a full plate here and we want to stay very focused on that. Now that doesn't mean we don't know what's going on in the marketplace, and we're not evaluating things. But we've got operational things we've got to get done, and we're going to stick to our knitting generally for the first two years.
+
+Alex Scott
+
+Understood. Thanks.
+
+Operator
+
+Thank you. And our next question comes from the line of Jay Gelb of Barclays. Your line is now open.
+
+Jay Gelb
+
+Thanks. It's Jay Gelb from Barclays. If I try and - at a big picture level, try and isolate the absolute and relative underperformance of the stock today, I might put it in three buckets. That would be: one, Met announcing the exchange offer to exit its remaining stake in Brighthouse; two, potential federal tax changes in the treatment of life insurers; and third, the lowering of the ROE target. I think, you've already addressed, lowering of the ROE target, but maybe you could talk about the first two? Thanks.
+
+Eric Steigerwalt
+
+So, I really don't have anything to say about the MetLife exchange. You have to talk to them. They're the owners of that stock, and they're making the decisions on that. With respect to tax reform, we just - we don't know yet. It just came out. We've got to evaluate this. There are going to be proposals in there that are going to change over time as well. So, whatever is in the initial draft is going to change. So, it's - it would be very difficult to speculate, where this is all going to end up.
+
+So - I know you want more on an answer like that. But given that this particular draft has been out for - I don't know, maybe an hour, we're going to have to do a lot of work on it. And then as I said, it's going to change over time. So, we're just going to have to see.
+
+Jay Gelb
+
+I can appreciate that. Thanks. And then again, just one more thing to kind of square it up on the ROE target. If I take that roughly 8% ROE target on current book value ex AOCI of $104, we very simply back-of-the-envelope calculate around $8.30 of annual earning power. Is there any - is that okay? Or anything else we should take into account?
+
+Anant Bhalla
+
+Jay, hi, it's Anant. I would sort of go back to my comments about the $30 million to $40 million of favorable items this quarter between lower expenses as well as favorable underwriting and the fact that, in addition to that $30 million to $40 million, you've got the tax rate, which came at 21% versus mid-20s where we'd look at. So, as you look at our operating earnings and you take out notables and you make adjustments for that, I think you'll triangulate and come out exactly, where you're thinking.
+
+Eric Steigerwalt
+
+It's Eric. Maybe I'll just add one. I'll just add one other thing there. So yes, the number did change, but again, I just want to make sure everybody is clear. It changed, because versus the pro forma calculation, the equity was up a lot. Nothing else has really changed. But because the equity is up so much from those pro formas, it took the approximately 9%, as one of your colleagues was saying, to approximately 8%.
+
+Anant Bhalla
+
+And maybe just to conclude on ROE, thematically, let's go back to what we started sharing with you guys a few months back as we were on the road show and speaking with you all. It's an 8% ROE that's stable over time. And a sustained ROE improvement, while it requires business mix change, we're looking to grow our book value per share. I'd take you to that metric.
+
+Jay Gelb
+
+Right. Starting at - starting from $104 in book value ex AOCI as of third quarter.

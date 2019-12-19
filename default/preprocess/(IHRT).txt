@@ -1,0 +1,407 @@
+Good morning and thank you for joining our 2015 first quarter earnings call. On the call today are Rich Bressler, President, Chief Operating Officer and Chief Financial Officer; and Brian Coleman, Senior Vice President and Treasurer.
+
+We'll provide an overview of the first quarter 2015 financial and operating performances of iHeartMedia, Inc. and its subsidiaries iHeart Capital I, LLC and iHeartCommunications and Clear Channel Outdoor Holdings, Inc.
+
+For purposes of this call, when we describe the financial and operating performance of iHeartMedia, Inc., that also describes the performance of its subsidiary, iHeart Capital I, LLC and iHeartCommunications. After an introduction and a review of the quarter, we'll open up the line for questions.
+
+Before we begin, I'd like to remind everyone that this conference call includes forward-looking statements. These statements include management's expectations, beliefs and projections about performance and represent management's current belief. There can be no assurance that management's expectations, beliefs or projections will be achieved or that actual results will not differ from expectations. Please review the statements of risk contained in our earnings press releases and filings with the SEC.
+
+Pacing data will also be mentioned during the call. For those of you not familiar with pacing data, it reflects revenues booked at a specific date versus the comparable date in a prior period and may or may not reflect the actual revenue growth rate at the end of the period.
+
+During today's call, we will provide certain performance measures that do not conform to Generally Accepted Accounting Principles. We've provided schedules that reconcile these non-GAAP measures with our reported results on a GAAP basis as part of our earnings press releases and the slide presentation, which can be found on the Investors Section of our websites, iheartmedia.com and clearchanneloutdoor.com.
+
+Please note that our two earnings releases and the slide presentation provide a detailed breakdown of foreign exchange and non-cash compensation expense items, as well as segment revenues and OIBDAN.
+
+Please note that the information provided on this call speaks only to management's views as of today, April 30, and may no longer be accurate at the time of replay.
+
+With that, I will now turn the call over to Rich Bressler.
+
+Richard Bressler
+
+Thanks, Effie, and good morning, everybody. Once again, as Effie mentioned, you can find our presentation slides on our website.
+
+We continue to strengthen our position as a leading media and entertainment company, we are relentlessly moving ahead on the technology front and working to use iHeartMedia's cross-platform assets in creative ways that we believe continue to redefine the future of consumer media and entertainment.
+
+As we tell you often, our business model is simple. Create deep relationships with consumers, and then rent the use of those relationships to our advertisers. We reach consumers through all of our platforms, outdoor, broadcast radio, events, digital, mobile and social, and our strong results in the first quarter showcase our progress.
+
+Let me spend a few minutes to review on our key initiatives year-to-date. On an industry level, we believe radio is a favorite of consumers, but it is still underutilized and under-monetized by advertisers, and we are taking aggressive steps to change that by focusing on making our company as advertiser-friendly and data-driven, as the major digital-only players. This not only makes doing business with us as easy as any digital company, it also plays to our strengths, delivering ROI to advertisers.
+
+We have a large and engaged audience and we believe that return on advertising investment, we provide, is even more impressive. We are sitting on a significant amount of data, and need to make sure that we make advertising space on radio easy to buy and its return easy to measure, as advertisers shift their focus to ROI.
+
+We recently announced a programmatic automated buying platform for iHeartMedia and Radio, the first of its kind in the industry. As you all know, programmatic is already an important and expected method of ad buying in the digital space. Our new buying platform will bring broadcast radio into that world of scale, and we believe no other audio provider can offer this.
+
+This programmatic solution will also allow us to apply our data and insights to the planning process to enable unique forms of targeting. These include music-based psychographic groups, weather and traffic patterns, purchase behavior and other environmental population and consumer trends.
+
+Driving the best ROI for the advertiser is critical to our new programmatic platform. And as we add pricing algorithms, we will not focus on the cheapest price, instead, as Google pioneered, we'll focus on delivering the best value. This is good for the advertisers and good for us.
+
+In addition, this new tool will free-up our sales people from administrative tasks, giving them the ability to double-down on their most important task, partnering deeper than ever before with advertisers, and providing the best resources accountability and speed to every one of our clients.
+
+The advertising industry is moving towards using data to evaluate what they buy and how it performance, and we are excited to bring this to radio, in addition to the benefits of our large scale and high ROI. Last week, we got great response from the advertising industry on our first sound front, showing our range of sound products and our equivalent of the upfront.
+
+Over at outdoor, we reach millions of people through our global footprint, including more than 640,000 displays in over 40 countries with 1,193 digital billboards in North America and over 4,900 digital displays in our international markets. Again, technology is a key theme across outdoor as well.
+
+With the growth of social media mobile, and the fact that 70% of consumer's time is spend at home, more and more advertisers demand the flexibility to coordinate their outdoor spend with real-time events and product launches throughout the year. That makes outdoor advertising even more relevant.
+
+We are engaging with consumers through key locations like our digital billboard in Times Square that spans a full city block. Following on what we've been developing at iHeartMedia, programmatic will be important to Americas outdoor as well.
+
+We have this advantage of being able to leverage what we learn from the radio side to benefit outdoor. Like radio, outdoor is unmonetized both on share of total advertising and on a CPM basis. And we remain excited about it's upside both for this sector and for our company.
+
+Overall, we have an arsenal of talent, assets, engaged audiences and wide ranging capabilities that we can deliver the brands that help them connect to the audiences they want. We believe we've created a truly powerful platform for advertisers, agencies and brands to engage with the right audiences at the right time, with a level of cost efficiency no other major media company can offer.
+
+Now, let's turn to Slide 4, and review our key financial highlights. As we did last quarter, when discussing our financial results on this call, I referred all results, excluding the unfavorable $54 million revenue impact of FX, as the strengthening of the dollar against the other major currencies we transact in, affected our numbers on a reported basis. You can find our reported numbers in our earnings releases and SEC filings.
+
+In the first quarter, revenues were up 4%, with increases of 7% in international outdoor, 4% at iHeartMedia and 3% at Americas outdoor. OIBDAN rose 7.5% driven by increases of 19% in international outdoor, 9% at iHeartMedia and 4% at Americas outdoor.
+
+This is the second quarter in a row, where OIBDAN was up across iHeartMedia, Americas outdoor and international outdoor, when excluding the FX impact. I will go into more detail by each segment's financial performance a bit later in the call.
+
+Now, let's review our key non-financial highlights, starting with Slide 5. At iHeartMedia, we continue to focus on increasing our brand awareness through our various platforms. Consumer brand awareness reached 80% in April, up from 75% at the end of last year, putting us ahead of major digital players like Spotify.
+
+We surpassed 63 million iHeartRadio registered users in the quarter, growing 34% year-over-year. As a reminder, this does not account for the millions of users, who listen to iHeartRadio's live streaming radio stations, which don't required registration. So the apps total reach is even greater. Total listening hours also continue to grow, increasing 17% year-over-year in the first quarter.
+
+We continue to break our own records in social, with last month's iHeartRadio Music Awards generating 14 billion social impressions, more than 75% higher than last year's show and nearly triple that of last year's Academy Awards.
+
+The social success of the iHeartRadio Music Award was fueled by our local radio stations and personalities, engaging in live real-time conversations with band before, during and after the awards, both on app and through social. We also engaged with fans through new social integrations, including Snapchat and Twitter Periscope broadcast.
+
+According to Nielsen TV Twitter Ratings, the iHeartRadio Music Award held strong, as the number one trending show of the week, surpassing the Nickelodeon's Kids' Choice Awards, and the much anticipated finale of the Walking Dead. We also had great broadcast ratings. The iHeartRadio Music Awards was rated number one in the 18 to 49 age group across the Big 4 broadcast networks that night.
+
+These results continue to illustrate what a significant social player our company has become. These major events are an important embedded part of our sales strategy, as they have a positive impact on our advertising relationships as well as great promotion and brand building for our stations.
+
+Let me reiterate that our strategy is not to turn events into individual profit sectors, but instead use these tent poles as an important way to differentiate us from a sales, branding and promotional perspective, and include them as an element on our most important relationships.
+
+Our events business continues to grow, and we have the iHeartRadio Country Music Festival coming up this weekend at Austin, Texas, and the Ultimate Pool Party coming up later in the second quarter. We're using our events, social and digital capabilities to further deepen relationships with advertisers by both amplifying their message and engaging with consumers before, during and long after event show or radio program.
+
+Social, our new telephone has made radio a truly interactive medium. We continue to focus on being everywhere the consumer expects to find us, and in-dash and major device integrations are a key pillar of that strategy. From a distribution perspective, we announced iHeartRadio's integration with Xbox One as well as with BMW and many vehicles.
+
+Although, we're in substantially all cars through AM/FM radio being able to integrate with a variety of platforms gives us an additional points of contact with our consumers, and we believe gives additional value to our advertisers. With that, let me remind you that AM/FM radio remains the overwhelmingly preferred audio entertainment option in the car, as highlighted in the recent research study conducted by Ipsos, a leading global independent marketing research company.
+
+While consumers use new streaming services, virtually all consumers, 99% are comfortable with the current AM/FM in car radio operation, and 91% of consumers say they actually prefer physical AM/FM radio buttons and controls built into the car dashboard rather than AM/FM being an app that appears in the car's electronic interface.
+
+In addition, AM/FM radio still dominates in-car listening, as the top platform used, with 84% of consumers using it in the car, followed by CD players at 64%, but radio still maintains a huge leadership position over the other services. For example, Sirius XM was at 22%, Pandora was 18%, our iHeartRadio digital app was 8% and Spotify was 7%. And the good news for us is that we continue to have a very strong presence in both broadcast and digital radio.
+
+The Ipsos study combined with the result of the ROI study conducted by Nielsen Audio and Nielsen Catalina Solutions that showed a six-to-one return on radio advertising dollars are important data points in demonstrating radio's power, as we continue to close the gap between radio's massive consumer scale and engagement and its relatively low share of advertising spend.
+
+On the station front, last month we announced a national hip-hop icon Big Boy, would anchor around new hip-hop and R&B station Real 92.3 in Los Angeles. As a reigning all start of hip-hop radio in Los Angeles, and one of the most famous personalities in LA radio, Big Boy kicked off on Real 92.3 by welcoming the biggest names in hip-hop duet show, and it's been a huge win for LA market.
+
+Ordinarily, we don't bog you down with ratings info in specific markets, but in its first month Real 92.3 became the number two station in LA in the 18 to 34 age group, second only to our own KISS FM.
+
+Moving to outdoor on Slide 6. Our team continues to focus on superior execution to deliver both new and organic growth across the portfolio. Last month we were thrilled to announce, as Scott Wells became Chief Executive Officer of our Americas outdoor division.
+
+Scott joined from Bain Capital, where he served as an Operating Partner. And as you know, he was a member of our Americas outdoor Office of the President since August 2014.
+
+Scott also served on the Clear Channel Outdoor Holdings, Inc. Board of Directors for six years, providing a unique vantage point to observe the company and make contribution from a Board level. Prior to Bain Capital, Scott held several executive roles at Dell, Inc.
+
+Under Scott's leadership, along with Rocky Sisson and Gene Leehan, and the rest of the Americas outdoor team, we are continuing to revitalize the organization. And although there is still much to be done, we are very pleased with our progress today.
+
+We also announce that William Eccleshare, who formerly held the title of CEO of Clear Channel Outdoor Holdings, Inc. has decided that, in order to intensify his focus on the increasing potential of the international outdoor advertising market, he would serve as Chairman and CEO of international outdoor.
+
+After a very successful 2014, in which we outperformed the market, we have ambitious plans for international outdoor in 2015 and beyond. William will continue to build on International Outdoors momentum and drive its strategy for long-term profitable growth. Bob Pittman now also serves as Chairman and CEO of Clear Channel Outdoor Holdings, Inc.
+
+As part of this announcement, we also decided we will be moving our Latin American operations under the leadership of Americas outdoor. Through various initiatives, we continue to provide advertisers and agencies with opportunity to use out-of-home advertising to test creative boundaries and create an even deeper sense of engagement with consumers.
+
+Now, let's review our segment financials. Starting with iHeartMedia on Slide 7. First quarter revenues were up 4% year-over-year. We outperformed the radio sector, as mentioned by Miller Kaplan, and grew our overall radio business year-over-year, resulting from increases in our traffic and weather business, our syndication business driven by success in our news talk format, higher barter and trade revenues as well as events.
+
+On the events front, there are two timing differences I'd like to highlight. First, the iHeartRadio Music Award show took place in the first quarter this year, but was in the second quarter last year. Also, the iHeartRadio Country Music Festival is taking place in the second quarter this year, but it was in the first quarter last year.
+
+I'm happy to report that what we call our, local direct business, sales that are done at the local market level directly with the advertisers was up year-over-year, demonstrating now local advertisers continue to recognize the impact radio has had on ROI. On the agency side, we continue to focus on building relationships beyond just radio buyers to ensure that as the agencies begin to plan the allocation to add dollars to various sectors, radio will get its fair share.
+
+Our programmatic efforts are focused on making easier for agencies to interact with and by radio advertising from both us and the industry. The advertiser categories with the strongest year-over-year growth include auto, food and beverage and entertainment. Across the board, we are pushing ahead on all cylinders and our continued outperformance of the radio market reflects our efforts.
+
+Moving to expenses, our expenses were up 2% in the quarter, primarily resulting from higher music license and performance royalties as well as higher advertising and promotion expenses, including barter and trade. Partially offsetting the increase in expenses were lower event production cost and lower general and administrative expenses, as a result of efficiency initiatives.
+
+Our focus on increasing operating leverage and return on capital deployed resulted in our driving more dollars to the bottomline in the first quarter and growing OIBDAN 9% year-over-year, following up on our strong OIBDAN growth of 7% in the fourth quarter of 2014.
+
+Financial discipline and tight expense management are key priorities for us. I am pleased with our first quarter results, and we are again demonstrating our ability to attract advertising dollars by leveraging our multi-platform assets.
+
+Now, let's review our second quarter pacings. As you've heard me say before, these pacings are just a snapshot in time and certainly don't include everything we do as a company. Our second quarter pacings at iHeartMedia through the end of last week are pacing up 3.8% with core stations up at 3.8% as well.
+
+As I said earlier, from a timing perspective, the iHeartRadio Country Music Festival is in the second quarter of this year versus taking place in the first quarter last year. Also remember that last year was a political year and we had $10 million of political advertising revenue in the second quarter of 2014.
+
+Turning to Americas outdoor on Slide 8, our quarterly revenues were up 3%, driven by our growth in digital, including increased capacity and occupancy as well as new revenue from our Times Square spectaculars. In line with what we experienced last year, our local performance continues to be very strong. There is still weakness in national, but we are making progress and have come a long way in the last year.
+
+Expenses were up 2.6% in the quarter, primarily driven by variable expenses as a result of higher revenues, while OIBDAN increased 4%. We are very pleased with our topline and bottomline growth this quarter in our Americas outdoor business. Our top categories in the quarter included retail, electronic equipment and government agencies.
+
+As I mentioned earlier, we moved our Latin American operations into CCOA. So that business is included in our financials for this quarter and in the prior year. As for our pacings, which again reflect just 1 point in time, our second quarter pacings are slightly down at negative 0.6%.
+
+As you may recall, the World Cup took place last June and that was a big revenue driver in our Latin American business. Excluding our Latin American business, Americas outdoors is pacing slightly up in the second quarter. We are seeing mid-single digit growth in both local and digital, and national is pacing down, and this remains a core focus of our management team.
+
+Turning to Slide 9. Our international team continues to achieve topline growth, while driving more revenue to the bottomline. Both new contracts and organic growth across our portfolio contributed to our success. In the first quarter, revenues were up 7%, driven by strong performance in Europe, specifically in Sweden, Italy and Norway, as well as growth in Australia and China. U.K. revenues were also up in the quarter.
+
+Expenses grew 6% in the quarter, driven by higher revenues and our OIBDAN climbed 19%. Our second quarter pacings for international outdoor are down 2.3% as of April 28. This is driven by weakness in certain European countries, such as the U.K. as well as in emerging markets.
+
+As we mentioned in our previous calls, keep in mind, that booking cycles are getting shorter and shorter in our international business, as we are able to deliver advertising solutions on our digital assets in a much shorter timeframe.
+
+Once again, pacings are 1 point in time metric, and as you'd expect, there is an inherent level of volatility week-to-week. This has been true in the pacings for our emerging markets, which typically have less visibility than our developed markets. We are seeing continued strength in France, Italy and Australia and New Zealand.
+
+On Slide 10, we show some of the items that effect year-over-year comparability. On consolidate expenses, we incurred approximately $10 million of cost related to strategic revenue and efficiency initiatives in the first quarter compared to about $13 million in the first quarter of 2014.
+
+We continue to realize the benefit of these investments, as we drive more dollars to the bottomline with OIBDAN up 7.5% this quarter on topline growth of 4%. Although we aren't providing guidance for these costs going forward, we expect to continue to recover these costs this year on some level. At outdoor, our Latin American business, as I mentioned earlier, is now included in Americas outdoor.
+
+Turning to Slide 11. Capital expenditures for the quarter were approximately $56 million compared to $67 million last year. The decrease is largely driven by a reduction of our corporate CapEx year-over-year. As a reminder, last year during Q1 we had increased spending related to the build out of our New York offices as well as higher IT capital expenditures related to the implementation of new HR software.
+
+Moving to debt on Slide 12. We are staying focused on maximizing the value of our business by continuing to improve our capital structure and liquidity through capital markets and strategic transactions. As of March 31, iHeartMedia Inc.'s debt, net of cash, totaled approximately $20 billion.
+
+During the first quarter, we issued $950 million of 10.625% priority guarantee notes due 2023 and used the proceeds to re-prepay all remaining $931 million outstanding of term loan B and C. In addition, we borrowed $120 million under the receivables based credit facility for general corporate purposes.
+
+With no significant debt maturities until 2018, we can continue focusing on growing topline and bottomline to course our business segments. Our weighted average cost of debt is 8.4% as of March 31 compared to 8.1% as of December 31, 2014.
+
+Now, we'll turn to our balance sheet information and the debt ratios on Slide 13. iHeartMedia's cash totaled $289 million at March 31, and our secured leverage was 6.4x. As a reminder, we completed the first closing of our previously announced sale of a portion of our tower portfolio in early April.
+
+In connection with the first closing, the company sold 367 tower sites and related assets in exchange for $369 million of proceeds. Simultaneously with the first closing, we entered into lease agreements for the continued use of the towers, and we expect no operational impact as a result of the transaction.
+
+The financial impact of the first closing is detailed in the 8-K we filed on April 3. Since this closed after the quarter ended, the cash proceeds are not reflected in our balance sheet as of March 31.
+
+In addition, during the quarter we closed on the previously announced sale of two San Antonio buildings for total proceeds of approximately $34 million. As we have discussed in the past, we are leasing back a portion of the space and will incur some incremental rent expense.
+
+Clear Channel Outdoor ended the quarter with $207 million in cash with a senior leverage ratio of 3.6x and its consolidated leverage ratio at 6.4x. Again, we are very pleased with our first quarter results, and we think we are showing encouraging progress with our growth initiatives going through 2015.
+
+You've heard us say many times that we believe we are one of a kind media company. We are working with brands, agencies consumers, talent and partners to realize the full value of our multiplatform assets.
+
+Consumers don't think about what device they are using, they want what they want when the wanted wherever they are. And we are committed to giving it to them everywhere they want to find it. We keep investing in our capabilities to analyze and use the unique data we have on consumers.
+
+We believe that it put us at the forefront of the data revolution, automating the sales process and providing programmatic buying. We believe that the automation and the benefit of additional data makes easy for agencies to buy from us, as it is to buy from digital-only players.
+
+Through these and many other initiatives, we will build on the power of sound and social, the power of outdoor and the emerging power of digital to create even stronger marketing solutions, while providing the most live entertainment with more content and more events in more places on more devices to the industry's most engaged audience wherever they are.
+
+Thank you very much again for joining us. And now, let's open up the lines for questions.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] We'll take our first question from Jason Kim with Goldman Sachs.
+
+Jason Kim
+
+To start off, I was curious as to why you've chose to reclassify your LATAM operations from international to Americas, any drivers behind that decision? I know, the LATAM used to be in the CCOA in the years past, but you moved it to your international, and now you're switching back.
+
+Richard Bressler
+
+It's really was a very practical decision. A couple of things, our Latin operations, they're physically located in South Florida. So just from a management standpoint, they're easier to manage. We now have one corporate team for Latin America, which actually sits in Miami. So it made sense from an overall basis.
+
+So really it was just focus, and this allowed Scott to focus on again because of the corporate team in Miami. With William moving back and devoting his full time responsibility to CCI and international operations, and the opportunities we have there, and a great job that he and his team has done to date, and looking at the opportunity ahead. So really it was just from a focus standpoint and management standpoint. And quite frankly, it will be more efficient from a cost standpoint with corporate in Miami.
+
+Jason Kim
+
+And then if I can follow-up on the CCO about the stock buyback. I think you've bought about 9 million shares of CCO for about the $90 million by iHeart. It looks like the buyback program has ended looking at the 10-K. Can you remind us of your rationale for those transactions and then why now? And is it fair to assume that, given your focus in preserving liquidity profile that you would not have spent this money unless you thought it was investment with good near-term return potential?
+
+Richard Bressler
+
+I think that the last tranche or repurchase that we did, the rationale is the same as the prior ones. And I'll run through those reasons real quickly. First and foremost, we thought the share price was attractive levels and rendered good value. We went through this process evaluation back when we hit a 52-week low, and as you've seen we've hit a 52-week high recently. So we've accumulated some shares of outdoor at attractive levels.
+
+But the primary driver was to counteract the solution that occurred since the additional 10% spin-off of equity that we did back in '05. We were at 90% back then. It have been diluted down through the use of equity as a currency for some acquisitions, equity grants, various things. So even after this last transaction, we're just back up to the 90% threshold. I think we're just slightly over at 90.3%. We were slightly under, before this last transaction.
+
+These transactions themselves are not easy to come by. There is only a few holders of blocks of this size, and we were approached on this last tranche. And so again, it was opportunity that came to us at good value. And so it was an easy way to get at 90%, slightly above 90%, gives us a little bit of space to manage potential future dilution.
+
+The big drawback, as you didn't exactly say, but maybe alluded to, is it is a use of liquidity. But I think as long as we thought we got good price on the stock, and certainly we are taking some risk, it is something that can be turned back into liquidity, should we need to do that. So it's all those factors kind of stacked up that give us the opportunity and the timing seemed right. We feel pretty good today, given where the stock is trading, that it was the right decision.
+
+You are right in that. Our existing authority has been exhausted. In fact, on this transaction, we went over that authority and had to seek separate board approval just for that piece. But the existing authority is exhausted and there is not another one in place.
+
+Don't want to back ourselves into a corner, saying, we wouldn't consider additional purchases, but there isn't a shelf authority that's out there. I think I responded to most of the questions, let me know if I left anything off.
+
+Jason Kim
+
+If I can just squeeze one more question. So the media and entertainment results for the first quarter were better than what we had anticipated. And it appears that 2Q pacing, which is still early, but the 2Q pacing numbers are looking very strong as well. How much of that is just iHeart outperforming the industry versus the macro environment maybe just getting a little better for advertisers right now?
+
+Richard Bressler
+
+So I think it's a bunch of factors, right. First, based on the Kaplan, I think which as we've said, the industry was down in the first quarter with weakness in local, remember there was some harsh weather in Q1. So the industry was down 3, as we pulled overall. We were up 4, and I think we outperformed the cost of goods both in the local and on the national side.
+
+And this really points our ability to grow our overall revenue. And remember, just a couple of things that are going on I think in the environment wherein which were important to remember. Although, we mentioned what our local broadcast revenue is and we talk about it, the lines are getting increasingly blurry between local, regional and national spending across all the disciplines, whether it's spot, whether that's digital, whether that's events, and we're well-positioned to benefit from this trend.
+
+We're focused on, just as a reminder, and saying to our advertisers, radio partners, radio marketing partners, what are your challenges, what do you want to achieve, and how do we provide you with a solution across the board. And then when we look at, we also I think highlighted from our event standpoint that we did have in the first quarter we had the iHeart Music Awards on NBC. Well, that was in the second quarter last year. This year we've got the Country Festival is the second quarter, as a matter of fact this weekend, which was in the first quarter last year.
+
+And then we're also seeing growth in traffic and weather as well as national. And from the category perspective, auto is really pacing up nicely year-over-year. You have the entertainment business, you have the movie studios, are pacing up nicely year-over-year. So we feel both about the reported results and about our better business going forward, we feel great. And at the same time, we think the opportunity has never been better.
+
+Operator
+
+The next question in queue comes from Avi Steiner with JPMorgan.
+
+Avi Steiner
+
+A couple left here. One, I'm going to take the last question maybe from the margin perspective. Another good quarter of margin expansion, and I'm just going to discuss your ability to continue that, particularly in light I guess of all the investments you seem to be making, rightly so, and your plans to monetize the data on the larger platform? And then I've got a couple follow-up.
+
+Richard Bressler
+
+I would tell you a couple of different things. And first of all thanks on the margins. I said this a-year-and-a-half ago. A little over almost two years now, when Bob and I started on this together, in terms of working together, in terms of that margin expansion, managing cost was going to be a way of life here.
+
+If you look at this quarter, overall we have iHeart with 32% margin, that's another increase of 1 point of 31%. These are on OIBDAN margins to be clear. From last year, Americas outdoor was up 1 point. International outdoor was up 1 point in margin growth.
+
+So we're going to continue to have margin expansion in this company, because we're going to continue to vigorously focus on costs, continue to look for ways to become more efficient, and quite frankly continue to look for ways to reallocate resources. It's not just about taking out cost, part of taking out cost, and part is becoming just more efficient in terms of the way we do business.
+
+And I'll tell you, a great example I think of that is when we look at what we just announced over the last couple of weeks with our Jelli transaction, and everything we're looking at from a programmatic standpoint that we're taking really goals to bring additional levels of sophistication, additional level of operational use for our buyers to purchase broadcast radio.
+
+That's going to make it better for the buyers and it's good to make it better for us and better for you guys, because we're going to be more efficient. And quite frankly, we're taking massive steps to revolutionize the programmatic buying process and extending that progress not just to digital, but to broadcast also and that will just make everything -- I think it will attract more buyers because of ease-of-use to buy.
+
+And today's been a challenge for the radio industry that we can leverage some technology to add value and efficiency to the purchase of radio, digital inventory, optimize the solution, and therefore bring more to the bottom line.
+
+Avi Steiner
+
+And I don't want to spend too much time on pacings, since I know how you feel about it, but I just want to get some clarifications. On the outdoor domestic pacing side, you had mentioned with and without Latin America, and I'm trying to get the best apples-to-apples, if you don't mind giving me that again? And then on the M&E pacings was that actual or adjusting out political? And are there any, I guess, later in the quarter events that may change that trajectory?
+
+Richard Bressler
+
+So a couple of things. On the outdoor in Latin America, that's about a $20 million impact revenue business in Q1. And revenue was up on America's outdoor slightly about 2% on a year-over-year basis, if you factor out Latin America. And I think we talked about the effects on the Olympics of that -- around the World Cup, I'm sorry for that, on the total comparison last year.
+
+Your question on iHeartMedia, that does not -- that's reported numbers in terms of pacing. So there is not effect in terms of factoring out anything geopolitical. And the only thing that affected comparisons I think are highlighted already, which was the iHeart Music Awards on NBC, which was in the first quarter this quarter, second quarter last year.
+
+Country, which is this weekend in Austin, Texas, was in the first quarter last year, the second quarter this year. We have a pool party in Las Vegas, which is in the second quarter in both years. And just as a reminder, we had about $10 million of political spending in the second quarter 2014. So I think that covered all your questions.
+
+Avi Steiner
+
+And very last one for me. You and Bob recently bought equity to top the house and I'm just curious what gave you comfort buying it at that level? And I'll leave it at that.
+
+Richard Bressler
+
+Well, we did. And just to be crystal clear, Bob and I went to the market, bought equity and it was our personal funds. We wrote our own checks. And I hope it's self-evident that it's putting money where our mouth is. In addition to all we had incentives that we have with this company.
+
+And we've said this before, when we look under the hood here you look at the assets we have, you look at the results we had leaving the fourth quarter of last year. And I think as you went back to last year, we made progress, this is 2014, the second quarter better than the first quarter, third quarter better than the fourth quarter, fourth quarter better than the third quarter. We continue to build upon that progress this year.
+
+And there's much progress as, Bob and I have made along with the rest of the management team, because it is a team effort here. Along with the rest of the management team, we think our greatest opportunity is ahead of us. We continue to believe, and I think with all the data points point to it, that we are the most under-monetized medium out there.
+
+I'll remind everybody when Dave Calhoun of Nielsen brought Arbitron year ago, which was a significant event for us. He said, one of the reasons he was buying or the main reason he was buying Arbitron, because he felt radio is the most misunderstood medium in America.
+
+And I think if you go, and then he did the ROI study with Nielsen Catalina and Nielsen and he showed the 6 to 1 on that. To that point in terms of every dollar that went in, advertiser's got $6 back. And you go from that data point to us managing our cost, looking at what our reported results.
+
+I just touched upon briefly about the benefits of programmatic and the direction that were going. They benefited, and really points to the benefit of data, the more data out there, the more our ability to target, to more to bring easy advertising solutions to the advertisers. And our advertiser partners on a cost-effective basis. So I would say, as every day goes by we are more optimistic about our future, but it really does start with under monetization and that the simple reason we say we bough the stock.
+
+Operator
+
+Our next question in queue, that will come from David Miller with Topeka.
+
+David Miller
+
+If you wouldn't mind giving us a quick update on the Los Angeles digital situation? I believe 90 days ago, at least rhetorically on the call, you had mentioned some sort of bogey of maybe the end of the second quarter as some sort of resolution either in the form of all the boards getting turned back on, some of the boards getting turned back on, replacing some of the boards with static boards. Just an update if you don't mind, would appreciate it.
+
+Richard Bressler
+
+So I would say two things I'm always consistent on over the last year-and-a-half. One is I always hate pacings. And two, I don't think I've ever given update on the resolution. I think I'm too smart to give an exact date on the resolution of LA. We continue to work with the city on legislating solutions that will have our digital boards back within the LA city limits. I promise you nobody wants that quicker than we do.
+
+If you look at it over the last six months, there's been two public hearings on a lot of digital billboards in the city of LA. There is a couple of those hearings come up before the City Council votes on the ordinance. At least, as of today, that vote is scheduled for sometime in the third quarter.
+
+As we've said before, and the reason why never predict an outcome here, this process takes time. We're not sitting on our hands. We are moving forward. We've been selecting to see permits, to divert some of the boards back to traditional vinyls static. I think we've mentioned that before.
+
+We had a total of 55 boards to date. It's not meaningful, but it's better than not having those 55 boards up. But just think about that as a parallel step we take, while we work through the legislative process. And remember as a reminder, we currently have 41 digital boards in the LA Metro area.
+
+Operator
+
+The next question in queue will come from Lance Vitanza with CRT.
+
+Lance Vitanza
+
+I wanted to ask you a little bit more about programmatic buying. I think it's easy enough to comprehend the favorable volume impact that that is likely to have. But is there going to be, or likely going to be any impact on pricing? Is the CPM lower than on a traditional sales spot sold through more traditional means? And if so does any of that pricing pressure bleed through to the spots that you would sell on a more traditional basis?
+
+Richard Bressler
+
+No. Look I think it's actually just the -- let me just take a step back on programmatic, and I'm really am happy that you asked the question. So we have programmatic is already an important method of buying in digital display and video, and is now emerging in radio, and we are clearly leading that effort and help defining it and taking it, so as I said earlier, massive steps to revolutionize the buying process.
+
+And what's really important, and I think this really gets to your question is that as we expand these capabilities, it's quickly, we avoid, which we are going to avoid, to be clear making the same mistakes have been made in digital display. We identify the shortcomings of what happened previously in programmatic.
+
+And we're creating a platform that is not, just to be clear, that is not price oriented, but instead provides the best ROI for the advertiser. And what it's really about it's important that the programmatic that they have buying out business the smarts and differentiate the inventory options regardless of CPM. And again this is about identifying the best return, the best value for our clients and providing them the best inventory at the quality price.
+
+It's also important that to remember that we're activating user base psychographically that would automatically be triggering campaigns. You can trigger those campaigns based on another traffic patterns, purchase behavior, anything else in the environment, population, consumer trends and something. We're excited about.
+
+But what that all adds up to is programmatic buying which is usually more from both agencies, both the buyers and leveraging technology to provide more value to the buyers. It helps us -- by the way byproduct when you talk about efficiencies is to really free up sales people, it's not replacement for people.
+
+It is just allows the sales team to place more emphasis on creating innovative campaigns that go above and beyond just the physical ad placement, such as the delivery on a multi platform campaign n that incorporates everything from iHeart offering to include on air social promotions, personality endorsements, live events. But at the end of the day, again, and I've probably said this three or four times now, it's about the ability on a large-scale basis and a replicated basis to bring the benefits of who we are in and where we are, higher ROI, and better value to our clients.
+
+Lance Vitanza
+
+So how did you develop the expertise for this? Did you bring people in, did you build it in-house? Are you using consultants?
+
+Richard Bressler
+
+Look, when you're look at every decision, every decision we make in this company which is to build our own, to buy something, and to partner. We've got on the in-house side, which is our model leadership, we've got a great team that's led by Brian Kaminsky, Darren Davis, Tim Castelli on the ad sales side, and Adam Denenberg who is our CTO came in from digital, and there is more people in that. We have a great team of leaders on the inside of the house.
+
+And then you look at the expertise, and then we look at the partner people. We are great partners. We look to partner people that bring value. We've raised the profile. We announced the deal, a few weeks ago with Jelli that we announced, I don't know, I guess three or four weeks ago, which was a deal that partner with Jelli on a programmatic and automated ad buying solution for broadcast radio stations. So that makes broadcast look like digital and Jelli is a cloud-based technology.
+
+I guess, last year we appeared exactly then we announced the partnership with AdsWizz to be more targeting. We continue to look for partnerships in terms of things that relate to data and data dashboards. So again, we continue to look, okay, these are our core competencies inside, these are niche from meeting our advertising needs, how do we marry those two. And we do every filter that says we're obviously going to build it ourselves, we're going to buy something, and we're going to partner. And it will be a combination of those three based on what the best solutions that's out there on a cost-effective basis.
+
+Lance Vitanza
+
+If I can just ask one last housekeeping question on the pacings again. And I heard that on the iHeartMedia side you had some event shift into the quarter, some event shifting out of the quarter. Given the strength of the report, should I consider the net impact of timing changes to be favorable for 2Q '15?
+
+Richard Bressler
+
+I wouldn't read. You heard correctly. This happens from time to time. We've got two events that are now in their second year in terms of the awards, and then again they kind of change places here. In terms of the quarter, they were both great events. They have similar profiles in terms of being two of our big tent pole event, but each event has got a unique line of the sponsors, unique set of promotional deals, and unique set of revenue and expense considerations.
+
+Well, we really want to make sure just from the credibility with all of you guys, which is the most important thing we have is to core up the key items. So they may impact year-over-year in comparability at times. But we will just need to continue make you aware of them, it's going to happen all the time with us.
+
+Operator
+
+The next question in queue comes from Marci Ryvicker with Wells Fargo.
+
+Stephan Bisson
+
+This is Stephan for Marci. The national trends at Americas outdoor have been weak for quite some time. Are there particular categories driving this or is it broad based?
+
+Richard Bressler
+
+I'd say probably the category that really is driving more than anything else is telecom. And we're better positioned than we've been before. And we look at our overall results, we had a good third quarter, we had a good fourth quarter in terms of CPM.
+
+The first half of the quarter, quite frankly, in national was strong in the second half of the quarter. We saw some good momentum in parts of January and February with March soften up with that. And again, in line what our peers have said, I think telecom really continues to be probably the weakest, if you had to pick on one category, and it's impacted our national outdoor business.
+
+We have launched, again, we're keeping our feet moving. We've also coupled initiatives at CCLA under our Scott Wells and Rocky Sisson and Gene Leehan, our management teams. We now are deploying solutions team, which is a team of account executives who work directly with CMO with the clients, alongside the agency to drive dollars into the sector. That's a real and important priority, because the dollars that ones can tap, we want to get at those dollars to come into outdoor. So we're trying to better job of capturing those dollars at the CMO level, again within client solution.
+
+We also have established a digital operation center, which gives us 24-by-7 coverage to drive digital campaigns that are driven from the center back from the earlier comment I made about lines blurring in the advertising world between local, regional and national. So this digital operation center provides a seamless experience, and let's is take advantage of less minute dollars that come in.
+
+And anything I would say, and I think this is a trend that all of our businesses is more and more dollars are being placed closer to air time or closer to time up on the billboard, and that's really a result of the digital age. That's really, as I talked about programming just to lead this all back together again on the iHeartMedia side of the business.
+
+Clearly, we're taking a hard look and I think we'll provide the same leadership role. And Bob and I have been talking to start on the outdoor side of the business from the programmatic standpoint. So again, I think we have the right assets. We will continue to capture this value and we are very, very optimistic about our asset base.
+
+Stephan Bisson
+
+And then you mentioned some of the timing with national trends in Q1 kind of softening up towards the end. Did local mirror that or is that kind of the flipside of the coin?
+
+Richard Bressler
+
+You're talking about U.S. outdoor business?
+
+Stephan Bisson
+
+Yes, so the local.
+
+Richard Bressler
+
+Local was strong. Yes, local was consistently the strong, as it was last year for us also. But local has been consistently strong and continues to be strong.
+
+Operator
+
+The next question in queue comes from Tracy Young with Evercore.
+
+Tracy Young
+
+On the international side, could you talk a little bit about what you're seeing in Northern versus Southern Europe? And then also you seem to be rolling out digital, obviously at a much higher rate in international. Is it related to a project specific or is it easier to roll out in Europe?
+
+Richard Bressler
+
+As you guys saw picking up on really the great performance international, William and Matthew Dearden and Philippe and Bill, and the entire, our CCI International team has done another strong quarter with 7% growth. That growth was from both organic as well as new contracts. If you kind of look at it from a country basis, the top country growth for this quarter was Sweden, Italy and Norway; the U.K. was up also in Q1. And from everything we're hearing, the overall U.K. market is healthy. France was down a little bit on year-on-year basis.
+
+And this is where -- remember after the attacks in February, there was threats got made to a variety of establishments, including malls, which impacted throughout the advertisers spend. But overall mall business is very healthy as we go into Q2. We also had some nice growth in Australia and China overall.
+
+And in terms of the accounts, we're just being opportunistic. Remember, its digital displays as opposed to digital boards outside and it's really based on the contracts for winning and the opportunities we have. I don't think it's easier or not easier.
+
+Operator
+
+The next question will come from Aaron Watts with Deutsche Bank.
+
+Aaron Watts
+
+Just two on the media side. Rich, you highlight the gains you're seeing in listening hours on iHeart. Do you have a sense for where that's coming from? Is the listing pie growing or is share shifting from other streaming services or terrestrial? And I guess, if it's coming from terrestrial, how you think about $1 digital advertising versus $1 terrestrial advertising?
+
+Richard Bressler
+
+Look, total listening hours continue to grow. As you pointed out, our listening hours were up 17%. And by the way, I mean if you look at if you go back and you look at both broadcast and digital, if you go back any period of time, both pies continue to grow. So I think that's great.
+
+Digital is important for us, because the way to extend the reach of our traditional brand into new devices, where consumers expect to find us. And in terms of short the different economics and we need to be where our consumers are quite frankly. And if you're consumer, you don't really care whether you get it from digital or you get it from directly terrestrial you just want to know that you can get the product when you have it.
+
+And still the overwhelming amount is, I remind us all, the overwhelming amount of listening is still broadcast. And so the 90% of listening with digital being about 10% overall, and that 10% includes iHeart, Pandora, Spotify all the digital services. But broadcast is always an all-time high and it's overwhelming at 90% of the listening in the country.
+
+Aaron Watts
+
+And then one last one for me. Are you seeing any divergence in the performance of your largest radio markets versus your smaller or midsize markets? I've heard about weakness in New York. Curious if that's isolated or if there's something about the largest markets in general, secular or otherwise, that's causing weakness relative to smaller ones?
+
+Richard Bressler
+
+Look, we don't break out any of our individual markets. But I'm going to go back on and just point out what I said again, and in terms of our ability to attract great talent, and if you look at just what we did in LA, we are so lucky that we were able to attract Big Boy to come over in LA on 92.3. That really kind of realigned that station, take it to hip-hop. We became number two.
+
+I think we launch this station at end of February, became number two in about six weeks or seven weeks whatever time it is. In 18 to 34 was second to our station KISS FM, which was number one in the market. So if you wanted to see a sign about the health of broadcast radio, in the large markets whether you tend not to break our markets, just look at that as a case study example. And what you can do when you identify an opportunity of the right leadership. We've got Greg Ashlock and his team out there, the right leader in terms of Big Boy, and we've identified that there was a whole new marketplace.

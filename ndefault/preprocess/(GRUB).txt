@@ -1,0 +1,303 @@
+As Matt noted, we typically expect the first quarter to be strong for us due to seasonality, and this quarter generally follow that pattern. Increment weather to northeast corridor in February help to offset the negative impact that winter storm Juno closing thousands of our restaurants in January for more than the day. We ended the first quarter with active diners reaching 5.6 million, a 46% year-over-year increase or 43% without the recent acquisitions. We achieved this growth even though last year was a difficult comparable period due to persisting cold and snow our active diners have now more than doubled in the last few years but we still believe there is a substantial opportunity for active diners growth in all of markets because their vast majority of diners still order take out by dialing the restaurant. Converting them for online takes time, but we have seen success in many markets by actively investing brand awareness and reinforcement through different online and offline channels.
+
+With this robust growth in diners we continue to see growth in order, we process them with 235,000 daily average Grubs and nearly $590 million in gross food sales during the first quarter, 30% and 36% year-over-year increases respectively. If we exclude the impact of the two acquisitions in the middle of the quarter those growth rates would have been approximately 29% and 34% respectively.
+
+This growth in our key drivers combined with the significant improvement in our revenue capture rate lead to a 51% at year-over-year increase in net revenue as we've discuss over the past several quarters the roll out of restaurant driven pricing on the Seamless platform in the second quarter of 2014 drove a meaningful increase in the average commission rate than restaurants paid us beginning in the second quarter of last year we saw some incremental improvement from this change in the third quarter of last year, but more typical fluctuations since. We are still seeing some impact from this change in pricing in the year-over-year comps. Much of this impact will go away next quarter as we lap the anniversary of the change with it largely going away in the third quarter.
+
+During the first quarter of 2015 we had one additional factor driving our capture rate higher. The revenue capture rates of the two companies we acquired are significantly higher than GrubHub and Seamless capture rate because they’re providing delivery services dinning and in restaurants in a one generate extra revenue from restaurants and diners to pay for the cost of the delivery. In total our revenue capture rates for meals that we deliver are roughly double the rates we obtain from meals that restaurant deliver for themselves.
+
+This additional revenue is offset by higher operations and support expenses which include driver cost. If we exclude the impact of the two acquisitions, the capture rates would have been approximately 14.6%, which is slightly higher than the fourth quarter and roughly the same as the third quarter of last year. For the second quarter of this year, we expect the capture rates to rise another 15 basis points to 25 basis points due to the full quarter impact of the two acquisitions. After the increase next quarter, we expect the capture rate to return to small natural fluctuations both up and down on a quarter-to-quarter basis. We expect the long-term multi-year trend to be higher, but in the short to medium term increases in individual markets will be offset by disproportion growth in newer markets where capture rates are lower. As our delivery efforts grow overtime, we may start to see some positive impact on rates as well, but it will be offset by incremental operations and support expenses.
+
+First quarter revenues were 88.2 million, 51% growth from the year ago quarter or 58.6 million and 20% growth from the fourth quarter. If we exclude the two acquisitions, revenue growth would have been approximately 45% and 16% respectively. Turning to expenses, total sales and marketing expenses were 24.1 million this quarter, a 50% increase compared to the 16.1 million in the same quarter last year. As we said in the last call, we increased our level of advertising the first quarter from the fourth quarter due to growth in seasonality basically spending more in favorable market conditions to attract new diners and get current diners to order more. As a result, we attracted nearly 500,000 new diners to the platform, excluding the acquisition impact and generated record [indiscernible] of close to 235,000. As our two sided network grows, we can deploy more advertising dollars effectively and accordingly we will be spending more in marketing, especially later in the year. That said for the second quarter, we do expect sales and marketing to dip about 10% from the first quarter level be of seasonally slower demand.
+
+Operations and support expenses were 22.7 million, a 50% increase compared to 15.1 million for the first quarter of last year. As a reminder, this line item has historically been comprised a credit card processing, customer care costs, menu operations and as generally scaled with volume. As a result to the acquisition, this line item now also includes a significant amount of delivery expense excluding the impact from the acquisitions growth in operations and support would have been very close to the growth in gross food sales. Next quarter the operations that support expense impact from the acquisitions will increase due to having a results incorporated for a full quarter. In addition, Matt talked earlier about the compelling opportunity we have in delivery. In order to help us take advantage of this opportunity, we are planning to increase our driver capacity across our network. As a result, we’re expecting outsize growth with operations and support expenses relative to revenue throughout the remainder of 2015.
+
+Technology expenses excluding amortization of web development were 7.7 million for the quarter, increasing 43% from first quarter of last year and 6% from last quarter. We continue to hire good engineers and product experts to help with diner facing and restaurant facing products. Depreciation and amortization was 6.2 million for the quarter, an increase of 8% from the fourth quarter of 2014 mostly due to the amortization of intangible assets from the recent acquisitions. We expect the baseline going forward to be slightly higher since acquisitions close mid-quarter. G&A costs were 1.9 million, an increase of 9% from the first quarter last year and 26% from the fourth quarter. Increasing from the fourth quarter was mostly driven by an abnormally low fourth quarter run rate which we talked about in the last call. Going forward we expect the run rate to be roughly 1.5 million higher than it was this quarter, once we pulled in a fourth quarter G&A for DiningIn and Restaurants on the Run and other expenses related to our investment in delivery.
+
+Adjusted EBITDA for the quarter was 28.3 million, an increase of 72% from 16.4 million in the same quarter the prior year. Our adjusted EBITDA margin was 32% this quarter. Net income was 10.6 million compared to the prior year of 4.4 million. Net income per fully diluted common share was $0.12 on approximately 85.1 million weighted average fully diluted shares. We believe the fully diluted share outstanding will be around 86 million for the remainder of the year. As a result of this implication of our tax structure as discussed on last quarter’s call, we had an effective tax rate of 42.6% in the first quarter 2015. This is more than 300 basis points better than our wait in 2014 and should be a good estimate of our tax rate on a go forward basis. The end of the first quarter was close to $300 million in cash in short-term investments.
+
+In terms of forward guidance we are estimating total revenue for the second quarter of 2015 to be approximately $83.5 million and to $85.5 million. For the full year, we are revising our revenue guidance range up to 346 million to 361 million. For the second quarter in particular, the forecast assumes that the more mild season of weather we’ve seen in April continues for the rest of the quarter. In terms of profits, we current expect second quarter adjusted EBITDA to be approximately 23 million to 25 million. For the full year, we are keeping our adjusted EBITDA range at 101 million to 109 million. Our adjusted EBITDA forecast include the higher level investment to scale our delivery operations that both Matt and I have talked about.
+
+With that, I’ll turn it over to the operator to take questions.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Dean Prissman with Morgan Stanley. Your line is open.
+
+Dean Prissman
+
+So Adam you beat the high end of your EBITDA guidance by 9% but reiterated your previous full year guidance, just to clarify is there an incremental investment all related to increased driver capacity? And then any color on what level of utilization of this capacity you are assuming? Thank you.
+
+Adam DeWitt
+
+In terms of the investment as I mentioned in my remarks it is the incremental investment is all related to delivery, so it's both drivers and also technology to support delivery and basically what's happening there is were just investing ahead of the demand and we need to get the scale to be at an efficient level. So, it's that's why you are seeing the margins go down for the rest of the year than in terms of the utilization what I say is obviously we are not going to be an utilizations standpoint for the next 6 to 12 months I mean if you probably want to see and optimal utilization stand point from next year which is why we see the margins decreasing during this year.
+
+Dean Prissman
+
+Got it and then just a quick follow up at a high level can you update us where you are in terms of integrating the GrubHub and seeing these businesses as from a technology standpoint and what your goals are over the next few years?
+
+Matt Maloney
+
+Sure. This is Matt, let's say in terms of the businesses that is pretty much complete in terms of technology there is some -- a very small amount of work to be done, but we are aggressively executing that and I predict we will be done this year.
+
+Operator
+
+Your next question comes from the line of Kenneth Dorel with Citigroup. Your line is open.
+
+Unidentified Analyst
+
+Hi. Thanks guys, it’s Mark [Indiscernible], another question when it comes to delivery. In terms of servicing that segment of the market that doesn't have its own delivery network do you see Grub primarily utilizing kind of your own delivery infrastructure if you will or is there an opportunity for you to partner with other companies that have been under press part of that recently to kind of partner with them to leverage their investments. And then wonder if you could comments sorry I dialed in a little late, but comments around the dynamics between kind of with the growth rates look like in the [pace] of growth and some of your top more establish markets like New York city and Chicago versus some of the newer and emerging markets? Thanks.
+
+Matt Maloney
+
+Hi, Mark. This is Matt. I'll take the first part. I’d say that other than [DRSS] no one really has scale and delivering from multiple locations to multiple recipients on demand and under an hour. So we’re definitely open to partnering but deep integration is the key here, we have to be aligned in keeping the experience world class and the cost to diners as low as possible so acquiring the two leading domestic [RDSS] to accelerate our logistical capabilities and each of these companies are operating as scale in this industry, so for the mean time we need to be doing it ourselves in order to do it right and so that's why you are seeing the investment over the remainder of this year to execute and find -- get us up to more efficiency.
+
+Adam DeWitt
+
+Mark, it’s Adam. In terms of the growth rates between the different markets I think the store is pretty much the same as it has been in prior quarters I mean there is clearly the more developed markets are growing at a slower pace than the newer markets. Overall, the larger or more developed markets are still driving a lot of the growth for the whole company because of their size, it's just that with a lot of large numbers it's hard to catch up for the smaller markets. But as Matt mentioned in his comments, I don't know if you were on for them, but markets like Denver, Baltimore and Miami, Atlanta, Phoenix kind of right where if not ahead of where Tier 1 markets for us like L.A. three years ago and based on their behavior today we don't see any reason why they can't be where L.A. is now in a few years.
+
+Unidentified Analyst
+
+What have you learned in terms of how the more established markets are trending and the newer markets in terms of the profitability of these markets because we've seen other companies and other countries putting out pretty high margins and some of these more established markets maybe change your view at all in terms of how you see the long term margins of the business.
+
+Adam DeWitt
+
+Well I think we've talked about in the past, I mean back only a year ago when we did a road show we talked about long term margins as being 35% plus, I mean adjusted EBITDA but the reality is that assumes that we still have a lot of room to invest for growth right if we're I think we've said in the past too that if -- all we are trying to do is maximize cash flow that the margins would be significantly higher and I don't think that's change I mean the two things that happen in every market and are worth mentioning including that kind of Tier 2 markets like Denver, Miami, Baltimore so we do see commission rates go up over time and there is more competition in those markets it drives the rates that the restaurants are paying higher. So that's obviously all incremental margins for us, in addition as diners become more valuable over time because the networks are more robust and so diners have less of the reason to not or to order off the network and so we see frequency go up in markets overtime as well.
+
+So both of those drive the incremental or drive the overall margin of the markets higher. I think on a fully loaded basis I think our margins are very competitive especially in New York and Chicago, but we’re also very profitable in those other Tier 2 markets as well.
+
+Operator
+
+Your next question comes from the line of Nat Schindler with Bank of America. Your line is open.
+
+Nat Schindler
+
+A couple of things just first question on the average daily Grub, the deceleration there is stronger than it is in any of the other metrics and as continued to be for the last several quarters particularly food sales. Does this indicate -- is it a good way to think of this as more of your growth coming outside of New York City where your average order sizes are smaller but you're frequently as higher? And secondly, have you seen any impact from YELP/E24 kind of merging together and pushing their product a little bit more in markets where there are more highly penetrated, particularly I am thinking San Francisco?
+
+Matt Maloney
+
+In terms of the DAGS I mean really what we’re talking about is the law of big numbers, it’s just -- in terms of the nominal DAGS we’re adding just as many DAGS as we were before, it's just on a much bigger base. We are -- to your point, we’re clearly adding more DAGS in non-New York and also non-corporate and we talked about that in the past and that kind of effects the activity rates which you may or may not have been alluding to. So good growth, when we look at the cohorts in any individual market or in any individual year or time, they are all increasing overtime it's just that there is a mix shift.
+
+Adam DeWitt
+
+Nat, I’m going to take the second part. So nothing has changed from our view before versus after that specific deal and the two had our partnership over a year before the acquisition they were fully integrated during that time. We have not seen anything specific and our growth continues to be very robust especially in the markets where they maybe more penetrated. So in fact some of our secondary markets are developing more quickly than the first markets. And I think when you look at a broader competitive set especially those they are doing exactly what we’re trying to do nobody is doing what we’re doing at our scale, connecting the 35,000 restaurants with over 5.5 million hungry diners. And we remain focus on managing hundreds of thousands of orders a day and taking a very deep approach to managing each one. So hand holding is sometimes very complicated with these highly unique transactions and our hundreds of customer care agents are interfacing daily with both restaurants and diners.
+
+So we believe that given our scale we’re providing restaurants and diners with unparalleled value. And really nothing has changed, for your question.
+
+Nat Schindler
+
+And just one more quick competitive question, have you noticed -- I know you haven’t owned them for very long, but any change in the dynamics of hiring drivers or getting drivers to do delivery. Now that Uber is coming in heavily with -- taking people with available time to drive people around and now well at least in the small amounts doing it for food. Has that affected your ability to get people?
+
+Matt Maloney
+
+Not at all and in fact that example and all other options like it are actually really similar just another restaurant offering on GrubHub and we have over 35,000 options. So we really haven’t seen any impact in our ability to drive orders to restaurants or hire drivers.
+
+Operator
+
+[Operator Instructions] Your next question comes from the line of Aaron Kessler with Raymond James. Your line is open.
+
+Aaron Kessler
+
+Couple of questions, first on the weather impact obviously one side bad weather can help you but then also if you have some disruptions, I guess net-net I think that was impacting Q1? Second any updates on kind of mobile percentage of orders in the quarter and finally just on the -- I guess there was an article within the quarter about the Seamless quality of reviews, any thoughts on that? Thank you.
+
+Adam DeWitt
+
+It's Adam, I’ll take the first two and then Matt will take the article question. In terms of weather, I’d say net-net is probably mostly flattish if not slightly -- probably slightly worse for us this year than it was last year I think the conditions overall last year, we had a very sustained cold winter and [hurricane] mostly in February, January wasn’t that bad and then the one thing in January that happen was Juno, which was a negative for us since basically New York was shut down for a day and a half and Boston was shut down for multiple days. So on balance maybe worked against just little bit this year, but not a ton.
+
+In terms of mobile this quarter we did about 53% of our orders were conducted on mobile, I would just expect that to continue to continue to increase. I mean it’s gone up pretty much every quarter a little bit and we expect more and more people to so orders using their phones.
+
+Matt Maloney
+
+The article was unfortunate the Seamless technology is multiple screens to make sure that fraudulent orders are not able to -- or fraudulent reviews aren't able to get through. And a few restaurants did figure out a way around that. We are actively managing, we have always been actively managing the review streams and we were in -- we are already fixing it to try to resolve it before that article came out, but since then we definitely removed all those articles. But in general we have the much greater focus on the discovery for diners where we want to make sure our reviews are accurate more importantly the quantitative data that underlies all of our transactional information we want to surface that in a way that directs diners to the their next favorite meal like I was saying on the call, I think that qualitative information is great and provides context but quantitative data really shows you what your neighbors love and order frequently and I think that's really where the future of discovery is going to be.
+
+Operator
+
+Your next question comes from the line of Ralph Schackart with William Blair. Your line is open.
+
+Ralph Schackart
+
+Two question if I could. First on the additional the new CMO and sort of the discussion about increasing marketing spend, any color you could add just in terms of any change in philosophy on the marketing spend going forward and maybe what we should look for? And then second just in terms of the Tam expansion remarks today how much of that Tam expansion is from adding the fast food -- I'm sorry the restaurant delivery versus some inter quarter of fast food restaurants talking about it and then some rumblings about our change looking at GrubHub as pay-per-performance and perhaps sort of local marketing spend from the franchisers? Thanks.
+
+Adam DeWitt
+
+Sure. Ralph. Adding Barbara is a huge win for us, she is incredibly intelligent and experienced and she has the long history of product marketing. So I think that when you talk about potential new directions and philosophy classically we've been very good at transactional and advertising. I think in the future you will see a much deeper integration of product marketing in driving new ways of thinking and presenting our products.
+
+So for the Tam expansion I would say that, when I was talking that was specifically to the delivery the 70 billion that we've always been pointing to and is still there and we’re aggressively pursuing is really the restaurants that deliver for themselves and all the innovation the excitement we see in our space book inside the GrubHub and outside is really about focusing on those restaurants that don't do delivery. And so we look at that set as a new opportunity for diners to either order from more better restaurants or more frequently from the same and so I think there is just a lot of opportunities there.
+
+We don't know what it is, but we know that is going to increase the 70 billion and with chain we've always said that the 70 billion is independent restaurants that deliver for themselves. So by introducing another facet of growth through chains, I think that's even more interesting and even more accelerating to the Tam and that's exactly why we are investing so aggressively for the rest of the year.
+
+Operator
+
+Your next question come from the line of Heath Terry with Goldman Sachs. Your line is now open.
+
+Heath Terry
+
+Great. I realize it's early on this but can you give us a sense in the markets where you have been testing and now through the acquisitions doing delivery, are you seeing any difference in average daily spend or order size from offering that functionality than -- is that early learning what's driving you to deeper your investments in delivery versus some of the competitive stuff that’s going on out there? And then to the extent that your making these investments in marketing or more direct investments in marketing is it fair to say that is a function of seeing a positive ROI on the marketing that you are doing already versus something where you are trying to stem the slowdown in growth.
+
+Adam DeWitt
+
+In terms of the delivery, why we’re thinking about investing and what we see. What we see unanimously wherever we go is the diners respond to low delivery cost and there is more demand for options that have a low delivery cost and there is more demand in general from more restaurants. So with those to be in the back drop investing in delivery helps us attack on both front. Because one it allows us to put restaurants on a platform that weren't on there before. And then two the more scale that we have, the more efficient that we think will be. Which has been the original hypothesis and eventually drives down delivery cost for the diners. We think we’re in the best position to do that.
+
+In terms of the marketing I don't think -- we’re not planning on spending any more than we were planning on prior. We've generally top to that increasing our marketing spend overtime, the audience is getting bigger a folks that are ordering online and so there is -- we can spend more effectively across all of our channels. I think we’re continuing to do some testing across new channels, we talked on the last earnings call we did little bit of local Super Bowl advertising which wasn’t plan. But gave us the ability to experience that kind of forum and see what kind of reaction we get and we’re going to continue to do some experiments. But we’re not necessarily -- I wouldn’t characterize it is retching up our marketing spend to stem growth. I think we’re kind of -- for 2015 we haven’t really changed our plans.
+
+Heath Terry
+
+I mean just in terms of that you mentioned that a big part of what’s important to users is bringing down the cost of delivery. Given that most of the models that are out there where delivery is paid for, where it’s not the restaurant doing delivery. How do you see the uptake or the size of the paid delivery part not just your business, but the market because at some level you look at the fact that these paid delivery services have been around for a really long time and have really never got into scale does that at all effect the way that you look at attempts by other companies to do paid delivery?
+
+Matt Maloney
+
+This is Matt, I think that in general if a diner has the option to pay 10% in $10 versus a couple of bucks, they are going to always choose the cheaper version and that’s what our data is showing us in the markets where we’ve been playing around experimenting with delivery fees. So by charging the entirety of the delivery charge to the diner, I think that enables a pretty fast expansion. But the real long-term opportunity is partnering with the restaurants in a deep way because the restaurants are willing to pay the transport if they see more sales and that’s our angle and that’s why we’re leveraging our 35,000 restaurants and our integrated tablets that are in restaurants and really trying to drive diner fees down because given the opportunity that we’re in the same menu and the same restaurants, I am pretty sure everyone is going to choose the cheaper version.
+
+Operator
+
+Your next question comes from the line of Ron Josey with JMP Securities. Your line is now open.
+
+Ron Josey
+
+Wanted to ask little bit about new products, I know last year you hired a lot of engineers, headcount went up, cost went up, I wanted to maybe drill a little bit more on that, what we could expect this year? I know Matt you’ve maybe talked about reviews maybe even splitting bills. And I notice the other day at least we noticed our mobile devices defaulted to labs GrubHub.com UI, wondering if there is anything we can read into that or if we were in the special bucket? Thank you.
+
+Matt Maloney
+
+Yes, congratulations you're in a special bucket, we do AB testing consistently and you were part of the AB test that we send over the labs just to see how you react to a bunch of our new features, it's not a massive percentage, but it was like any AB test, we get statistical significant, we’re looking at a lot of different things like you said reviews, I really believe that leveraging the quantitative data behind our transaction of flow is going to be very important to helping direct diners to where they are really excited about meeting next because if we can show you, your neighbors favorite meals then it's more likely that you're going to come back and order more frequently. So you’ll see in labs is a part about popular near you and we’re starting to surface popularity data further up in the funnel to help people more quickly find what they are looking for.
+
+I think part of that discovery process is quantitative part of its reviews, part of its ratings and figuring all that out. And so looking at labs or looking at lots of different things many test fail, but ultimately we’re evolving our product based on our diner’s appetites as it is and that’s really exciting. So I think you can continue to look over at labs if you're wondering where we’re going from a diner perspective.
+
+Ron Josey
+
+And then quick just, very quick follow-up, there has been a lot of noise out there just talking about Google’s mobile quality score initiative, anything you want to say on that or any impact? Thanks.
+
+Adam DeWitt
+
+It's Adam, we were prepared for the switch that happen on April 21st kind of well before it and all of our applications pass that mobile readiness test and we’ve been watching the traffic closely, there has been -- it's not -- the process is entirely transparent so we’ve been watching it kind of for days in case the impact is going to be over a weak instead of over a couple of days and we’ve had absolutely no impact whatsoever to traffic on any of our devices or from a mobile perspective.
+
+Operator
+
+Your next question comes from the line of Tom Forte with Brean Capital. Your line is open.
+
+Tom Forte
+
+On the investment and delivery, I wanted to know if there is way to think about it as far as, are you going to do more investment in your markets that are not currently being served by DiningIn and Restaurants on the Run and is there is a variance in your investment and delivery spend, for example in Tier 1 versus Tier 2 markets?
+
+Matt Maloney
+
+This is Matt. like I said earlier we've already integrated all the restaurants from dinning in on the GrubHub platform obviously we’re pushing hard in all of the markets that are covered by the acquired properties. The Restaurants and The Run that are coming shortly. But we're looking at delivery holistically, obviously the most demand is going to be in the Tier 1 markets, where we have the most people in the most restaurants. So we are moving very aggressively in those markets, both on our own delivery platform as well as expanding the RDS which will eventually be integrated from a back end perspective.
+
+And then on the Tier 2 we see a ton of green fields, Tier 2 markets are growing exceptionally well for us in the restaurant self-delivery model. We know that we can augment restaurants with our own delivery service we know we can increase the service for diners and we can decrease the fees. So clearly that is where were going next and it's a matter of balancing our priorities and frankly when you look at the investment that's reflected in our guidance growth EBITDA it really is taking into account the fact that we want to grow in all places at the same time because we see so much opportunity right in front of us.
+
+Operator
+
+Your next question come from the line of John Egbert with Stifel. Your lien is open.
+
+John Egbert
+
+Thanks for taking the question. I wanted to ask you about a density of GrubHub order chart that use to have in industry presentation and as it towards to Q4, 2013 which had about 7 cities with a thousand orders per day, than another dozen orders per day at over 500 and then about over a 100 cities that were less than the 500. Could you tell us at all what that map of the quite today? Are there a lot more of this smaller cities that are now generating 500 orders per day? So, I think the growth in the smaller markets I think is one of the largest end parts of the story. Thanks.
+
+Adam DeWitt
+
+Yes., Sure. I think you are talking about the graphic that we had in our S1, so you mean short answer is; there is a lot more markets right now that are in that 1,000 plus orders a day category than you would have seen in the S1 and then by extension there is lot more in the 500 hundred plus bucket as well. I think we've -- we try to talk a little bit about it in the call but we’re -- kind of the next wave of large cities that we've been developing for a shorter period of time like Denver and Miami and Atlanta and Phoenix all of those would have been Tier 1 markets for us just 2.5 years ago. So that were seeing good growth and in the lot of this smaller markets and feel really good about that $70 billion Tam.
+
+Operator
+
+Your next question come from the line of James Cakmak with Monness, Crespi, Hardt. Your line is open.
+
+James Cakmak
+
+Hi, thanks. So, just going back to the marketing spend you guys have been historically very efficient with it but -- we are going to see it escalate a little bit as we progress through the year, but just want to see the first mover advantage is so important in your emerging markets and if you potentially see a company like YELP, now tide up with E24 escalate their spend to get that mine share from those consumer and those growing territories; would that change your view point on how you are spending. Just trying to gauge could we potentially see a truly a type of advertising situation if your competition decides to step it up. And then secondly on the I know it's fairly on the acquisition -- delivery acquisitions any just industrial learning's either I guess surprises that both positive and negative in the first couple of months. Thank you.
+
+Adam DeWitt
+
+James in terms of marketing spend part there is really going to be a material change in this spend philosophy, we’re going to be as aggressive as we are planning on the incremental investment you are seeing is really about the delivery capacity and the logistics teams are on the delivery side. So as you are thinking on marketing spend I agree with you first mover advantage is very strong and that's we have been investing heavily for years and not just the Tier 1 but the Tier 2, Tier 3 and we have the most significant presence in university campus as across the country because we recognize that once you gets your brand out and you get the restaurants signed up it's very hard for someone else to come in and take over that two side of network.
+
+So we are going to continue to aggressively invest with their national television advertising something no one else is doing but I wouldn't characterize our competition as anyone group in particular it is still the paper menu. The majority of people in this country are ordering from a paper menu and calling a restaurant to put order through and that's what were really competing against some more were going to continue to compete against that as aggressively as possible.
+
+And your second part of the surprises in the RDS integrations I think that there is not we've been really in a surprises because we knew this companies they've been around for 20 years we've talked at length to the management teams and we're pretty much executing integration plan as expected and moving forward very aggressively.
+
+Operator
+
+[Operator Instructions] Your next question comes from the line of Chris Merwin with Barclays. Your line is now open.
+
+Chris Merwin
+
+So in terms of the restaurant partners that you have in 1Q I think that was up by about 2,000 from the fourth quarter, can you talk about how many of the additions were coming from restaurants where ire providing the delivery? And maybe also you can give some color on whether or not there is mostly coming from your newer markets or your core market? And then just a second question in terms of your data asset, you talked about how -- about how you're going to leverage that more maybe increase personalization with the site, does that have any impact on your ability -- with the take rate obviously like the top paying restaurants or the top of the score you introduce personalization, does that have any impact just don’t show the standard take rate with restaurants of the highest paying at the top of the score or how I guess would you integrate that? Thanks.
+
+Matt Maloney
+
+In terms of the restaurants as I think -- we don’t report the number of restaurants on a quarter-by-quarter basis and the reason that we don’t is because the quality of the restaurants that we’re bringing on is a lot more important than the number of restaurants that we’re bringing on. So it's -- we don’t -- at the end of the day the number of restaurants isn’t going to drive the model, it's the number of diners. All that said, I think we recently increased to what we’re saying externally from over 30,000 or more than 30,000 to more than 35,000 if you calculated a number of restaurants on the site and got 2,000 incremental. What I would say is that 2,000 how it’s diversify -- is definitely in both our Tier 1s and our Tier 2s and our Tier 3.
+
+So we have large sales force that’s allocated all geographies and as we’ve said before these two side networks take time to build and so we need to add restaurants and smaller markets we need to add restaurants and add the diners and add more restaurants and it kind of build on itself. So it's actually easier to address in our more develop markets. But we are adding restaurants actively across all of our markets. In terms of the delivery versus self-delivery, very few of that several thousand restaurants are restaurants that we are delivering for. But it is in -- I believe it's well over a 100 at least that we added in the last quarter to, but it's a lot smaller than the number of restaurants that we're adding that are self-delivery. I do expect the number of restaurants that we add that we provide the delivery for it to be a lot higher throughout the rest of the year.
+
+In terms of the take rate and the personalization, the way that we’re thinking about is, I mean we take a very say analytical approach, but we really focus on; at the end of the day kind of what’s the best return, right and so there is a combination of personalization and kind of we call it option rate, but restaurant driven pricing dynamic that gets you to an optimal revenue number, optimal lifetime value of a diner and that’s really what we’re trying to get to. So we’re -- just to get you we’re not going to implement a change that’s going to cut revenue by 20% because it surfaces restaurants that are paying a lot less, I mean we have to take a much more thoughtful holistic approaching kind of combined the tow and come up with a way to really maximize the value of the diner.
+
+We want to maximize the number of orders and we want to maximize the total amount of money that they spend with GrubHub and by extension the amount of money that they generate for GrubHub.
+
+Operator
+
+Your next question comes from the line of Jason Helfstein with Oppenheimer. Your line is now open.
+
+Jason Helfstein
+
+Two questions, so when you talk about how you make the network more proprietary and I think investors try to compare your market -- your business losses to kind of an open table and by definition if you use open table [VRB], it will likely be only system you use versus restaurants can accept orders from multiple sources albeit the consumer probably wanted to just go to one place. So what can you do to effectively make the network as proprietary as possible? Whether it's on the kind of the consumer side or the restaurant side? And then can you talk about the challenges with delivery kind of being in New York we met around [indiscernible] early on they had really good service, as it's gone more popular their service quality has gone down dramatically, just talk about kind of how you guys are thinking about that? Thanks.
+
+Matt Maloney
+
+So your first question about making a network more proprietary, first of all we do have a proprietary platform -- tablet proprietary in the restaurant. It's somewhere near half of our restaurants, specifically the more high volume restaurants. It's called the OrderHub and it makes very -- facilitates order fulfillment, it makes it easier and more efficient for restaurants to manage the dramatic order flow we are able to generate in many, many, many markets. But I would say, to really answer to your question is, it's the two sided market itself. The two sided market grows in value to both participants, the restaurant and the diner as it expands and with the scale we’re at right now, a restaurant is crazy not to be on the market in all of our Tier 1 and now more strongly in our Tier 2 as well. Because they just they can't afford missing out on those order and from a diner perspective you can look at any options and we are not going to build that as much exclusivity because it's not going to be a valuable as a fact that the offering that we provide on our platforms are so much superior to anyone else.
+
+So as you grow the two side of market it actually makes a network more competitively differentiated as you actually provide more service to your diners and restaurant. And then to your delivery question, I think you nailed it, executing at out scale is very-very hard and nobody is executing that our scale, that's why we have hundreds of people in our customer service department, that’s why we have invested so much over time at executing it -- high qualities of volume we are because it's difficult that itself is again another proprietary differentiation of GrubHub. So as we build delivery this is why we get people like Girish involved because they can help us think through how do we saw real problems at scale in a way that satisfies our restaurant and diners across the country at the multiple hundreds of thousands of order a day scale which is something that no one else does.
+
+Operator
+
+Your next question comes from the line of Rohit Kulkarni with RBC. Your line is open.
+
+Rohit Kulkarni
+
+Thank you so much for taking our questions, two please. Can you draw out your assumptions underlining you are in incremental spend and to expand your RDS footprint in particular what percentage of restaurants do you think on your network would -- you would be able to roll out delivery services by end of this year, for instance. And secondly on diner frequency it has been steadily declining over the last few quarters obviously because your adding diners at such a fast clips; so my question is, is there a point at not so far out in the future as you make a lot of products improvements in terms of delivery, in terms of the things that you have in labs and you reach some sort of a critical matching Tier 2 cities where you probably have added a lot of diners, this trend of diner frequency or repeat usage kind of start changing overtime? Thank you.
+
+Adam DeWitt
+
+Hi. Rohit. I don complete really understand the first part of the question about the delivery investment can you repeat that?
+
+Rohit Kulkarni
+
+What percentage of your restaurants do you think you would have your delivery services rolled out by end of this year?
+
+Adam DeWitt
+
+The way that we characterized it before is, first of all just to clarify we are mostly focused right now on adding new restaurants that don' t have their delivery services to the network because we that provides a biggest bank for the with our diners. More restaurants choices what we’ve found in every market that we've been in, the more restaurants that we add to the network the more valuable the network is for all of the restaurants so a Rising Tide kind of list, looks all -- they don't cannibalize each other -- actually add more orders to the network in total. But in terms of how much will be delivered versus self-delivered, I think Matt made comments in his script about how the vast majority of our growth is still going to come from restaurants that are delivering for themselves and I think that's true. We did 235,000 orders day in the first quarter that number will probably be higher in the fourth quarter of this year but a very-very small fraction to that will be certainly less than 10% probably less than 5% of that will be delivered by us by the end of the year it just takes time for it to ramp up.
+
+In terms of the frequency and where it’s going, I think it’s somewhat the dynamics that you mentioned in terms of adding a lot of new diners that haven’t matured to the system but it’s also really driven by the mix shift, legacy -- substantial portion of our diners or food sales were generally did by corporate customers in New York and as we diversify away from those two -- really the corporate customers have the biggest impact on the activity. It's a great business for us but it's very difficult to grow that business more than 10% a year.
+
+But those diners are extremely active and as we add more non corporate diners to a lesser extent non New York diners, we see that activity rate go down. But as I mentioned earlier when you look at cohorts of diners, so if I look at our 2012 cohort or 2013 cohort or 2014 cohorts, the activity rates in all of those cohort is going up over time. So presumably at some point you do get to a point where the mix impact is offset by the improvement in activity but I haven't done that calculation.
+
+Operator
+
+Your next question comes from the line of Kevin Kopelman with Cowen & Company. Your lien is open.
+
+Kevin Kopelman
+
+Just a quick one. In cities like let's say, San Francisco you have a lot of companies offering delivery services, are you seeing any trend away from restaurants providing their own delivery personal? Thanks.
+
+Matt Maloney
+
+We’re still seeing the restaurants provide delivery for themselves. At the end of the day that -- we’re not seeing them, we’re not seeing our restaurants, at least on our network kind of say, hey, in any greater number than they have. I mean historically restaurants have outsourced to RDS; but we haven’t seen that shift dramatically towards outsourcing versus in-sourcing.
+
+Operator
+
+Your next question comes from the line of Arvind Bhatia with Sterne Agee. Your line is open.
+
+Arvind Bhatia
+
+First one is, can you quantify how much investment you're actually going to make this year on delivery service and how does that scale next year? And then a clarification on the chain restaurants, are you saying that you're having active discussions with these chains right now and if you're wondering what kind of response you’ve seen if any in what sort of factors are important for them? Of course your scale, is it cost or is something else, what are they pushing back on? And I think those two.
+
+Adam DeWitt
+
+In terms of how much investment that we’re making to diners, I am sorry then on the delivery side, what I would say is just look to -- you look at the operations and support line item and you strip out, look the RDS’ are doing and anything incremental is going to be our investment there. In terms of quantification, I think it's going to be roughly plus or minus 10 million for the year that we wouldn’t have spent if we weren’t investing aggressively in delivery. But that’s plus or minus, that could scale up a little bit or scale down a little bit.
+
+Matt Maloney
+
+In terms of chain we’re definitely having conversations with chains, I think GrubHub at its scale right now change of variance is just isn’t increasing there, their sales and we’re very logical way to do that. The conversation really revolve as are they expected around cost quality and integration. Chain are very aware of the quality perspective, the brand, perception and they want to make sure that whoever they are partnering with is delivering on the product with the promise of high quality at low cost for their diners and integration is part of that. And so I think that as you watch us in the future make deals, you're going to see a very high quality expectation because GrubHub has the ability to fulfill that.
+
+Adam DeWitt
+
+And this is Adam before we move on to next question, I just want to come back to the investment question once again, just to clarify. So there is additional incremental revenue associated with the delivery business. So the restaurants are actually paying some of the freight and delivery fees to the diner that comes to GrubHub. So overtime that spend that we’re making will be offset by revenue, it just that this year we’re spending little bit ahead to build the infrastructure. But overtime there will be revenue from both the restaurants and the diners to offset the cost of delivery.

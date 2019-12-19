@@ -1,0 +1,355 @@
+The Quarterly Commentary provides the investment community with the information and context that you need to analyze our results in advance of our earnings calls. We use the quarterly commentary to make your time with us more efficient and to maximize the time on this call for Q&A with management.
+
+During today's call, we will discuss adjusted EBITDA and other financial metrics not prepared in accordance with U.S. Generally Accepted Accounting Principles including EBITDA, related margins, adjusted net income per diluted common share and free cash flow from operations. We provide reconciliations of these metrics to the most directly comparable GAAP measures in the earnings release and on our website. Later today, we will be filing the quarterly report on Form 6-K of Intelsat S.A. with the SEC. You can find the link to the filing on our website.
+
+Additionally, our conversation today will include forward-looking statements, reflecting our current expectations for future industry conditions, as well as our business strategy, market trends and positioning and expected future financial performance. Those future forward-looking statements are subject to risks and uncertainties, many of which are outside of our control. Please refer to the Safe Harbor Statement included in our quarterly report on Form 6-K for information regarding some of the factors that could cause our actual results to differ materially from our expectations.
+
+Finally, please beware that our conference today is open to the investment community and media, with the media invited to participate in listen-only mode. Members of the media are not authorized to quote, either directly or in substance, any participant in the call who is not a representative of Intelsat.
+
+I'm joined this morning by Intelsat CEO Steve Spengler, who stepped up to the CEO role earlier this month on April 1 and Executive Vice President and CFO, Michael McDonnell, who are here to offer you additional detail on Intelsat's business and financial performance. Following brief opening remarks by Steve, they will be happy to take your questions. Steve?
+
+Steve Spengler
+
+Thank you, Dianne. Intelsat's first quarter performance was in line with the expectations that we set forth for 2014.
+
+Since we last spoke, Intelsat has been active across key industry and investor conferences. In addition to those investor events, where I had the opportunity to meet with many of you, we leveraged the customer-facing conferences to introduce new services and innovations that allow us to differentiate and address new applications.
+
+We also completed important new deals and renewals in the first quarter. Our Quarterly Commentary highlights one of the first Intelsat Epic contracts with a national telecom operator that will transition from an existing Intelsat satellite to Intelsat 29e.
+
+We also provide details of the progress made in our network services, media and government businesses. Together, our activities in the first quarter demonstrate our focus on long-term value creation.
+
+First quarter revenues were $602 million, a decline of 4% from the year-ago quarter. Adjusted EBITDA for the quarter was $470 million, or 78% of revenue, a decline of 7% as compared to the first quarter of 2014.
+
+During the fourth quarter call, we detailed a number of trends that will pressure our business for the balance of 2015 and continue into 2016. There are no meaningful changes regarding these trends; and as a result, today we are reaffirming our full-year 2015 guidance.
+
+We continue our focus on five priorities in 2015 that will support our long-term growth objectives. I discussed these in our February call. They are, build and place new capacity into service; drive innovation on the ground and in space; create new services for our core customers; maintain leadership in the Government sector; and optimize the use of our orbital rights.
+
+Our commentary highlights this quarter's accomplishments on those priorities, but I'd like to emphasize three elements in particular before we open the bridge for questions. Advancing our satellite programs continues to be our highest priority as we seek to achieve long-term growth. I am pleased to report that our schedule for the five launches planned for 2015 and 2016 is unchanged.
+
+We expect to launch Intelsat 34 in the third quarter and place it into service by early 2016. Both Intelsat 31 and Intelsat 29e remain scheduled to launch in the first quarter of 2016. "31" should enter service in the second quarter of 2016 and "29e" should enter service by mid-year 2016.
+
+Our second priority is driving innovation on the ground and in space. During SATELLITE Week in March, we announced a project to co-design and produce an ultra-thin, electronically steerable Ku-band antenna solution with Phasor. Building upon the Kymeta project we announced last quarter, this antenna will also be optimized for the Intelsat Epic platform and is targeted towards providing a solution for the business jet sector.
+
+Our third operational priority is to develop new service offerings that differentiate our capacity and bring additional value to our customers. In April at NAB, we introduced IntelsatOne Prism, a portfolio of new IP-based distribution services. Prism is designed to allow our media customers to conduct multiple content transmissions using a single platform - for instance, combining linear video, file transfer and voice on a single IP distribution network.
+
+With Prism, customers will continue to use legacy distribution assets which will include satellite, as well as fiber - while deploying our service to expand their distribution capabilities to include other formats. This simplifies their overall content delivery and improves their operational efficiency and bandwidth management.
+
+Annually in April, there is a gathering of prominent commercial and military space interests known as the Space Symposium. The tone of the conference this year reflects a new openness and clear willingness of the DoD to work more closely with commercial space.
+
+The U.S. Strategic Command announced a Commercial Integration Cell within the Joint Space Operations Center to facilitate operational collaboration with industry. Intelsat General was selected as a member of this group. We believe this is an exciting demonstration of the potential for long-term growth from this sector. In summary, we are tracking to our expectations for 2015. Our team is working diligently on the priorities that will allow us to move out quickly when our new capacity comes online.
+
+With that, let's open the bridge for questions.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]. And our first question comes from the line of Michael Funk of Bank of America Merrill Lynch. Your line is now open.
+
+Michael Funk
+
+Two quick ones. Last quarter, you mentioned that some of the currency fluctuations were causing you to reprice some contracts you negotiated with customers over in Europe, I think Russia, specifically. Just wondering, with the recent currency moves we've seen the last month or two, are you feeling less pressure to reprice those contracts?
+
+And then on the projected satellite launches, wanted to get a better sense of when visibility really improves, in terms of the launch window? Is it three months, four months? When do you feel you have the confidence level to nail down a specific quarter versus halves of years?
+
+Michael McDonnell
+
+I would say on the currency fluctuations that what we're seeing is basically in line with what we said on our last call. Obviously, the ruble has recovered a bit. And that was one of the places that we cited as seeing some pressure. But I would say overall, it's a manageable issue for us and it's roughly in line, maybe a little bit better, than the outlook that we saw at the end of the year.
+
+As far as the launch timing, I think what we've given you is our best estimate, at this point. Obviously, there is a queue in front of us to get to the launch platform. And typically, you don't have complete clarity until fairly late in the process, as you get very close to the launch date. Obviously, it improves as you get closer. But you usually don't have full clarity until you get very close to your actual date.
+
+Operator
+
+And our next question comes from Simon Flannery of Morgan Stanley. Your line is now open.
+
+Simon Flannery
+
+Steve, maybe I can just ask you to expand on priority 5 around orbital right optimization? Can you just talk about what initiatives you are taking on there and what might be the opportunities for the Company? And then maybe you can just speak to CANTV and some of the other renewals? What's happening there in terms of incremental revenue or repricing in terms of what that means going forward? Thanks.
+
+Steve Spengler
+
+Regarding the fifth priority, which is really to optimize our spectrum and landing rights to create value, there are probably two aspects to that. One is an ongoing effort in our design of the Intelsat Epic satellites, where we are optimizing every bit of capacity we possibly can. Of course, we're using frequency reuse. So the result of that is that we are really capturing the greatest potential from a particular orbital slot as possible, because of the enhanced and next generations design of those satellites. So that's one ongoing activity.
+
+The second part of it relates to opportunities that we see where we can collaborate with other operators to develop orbital slots. And these may be situations - they are typically situations that are outside of our CapEx and investment plan. They're opportunities where we may want to try to extend revenues with customers or help customers grow with a particular location. And it's also a situation where we may have orbital rights, our partner may have orbital rights; and so together, we can optimize the development of a particular slot and share that slot and develop capabilities on a joint satellite, for instance, to serve each of our respective customers.
+
+The most recent example of that was the project that we announced with Azercosmos at the last call - or just before the last call - where we're developing a joint satellite at 45 degrees. We're going to be serving a number of our DTH customers and network services customers on that satellite and they're going to provide services for their requirements. So those kind of projects are in the pipeline and we're looking at other opportunities to do that. But it's not something that will happen every single quarter.
+
+As to the second question on CANTV, CANTV is a national telecom operator of Venezuela. They've been a long-time customer of Intelsat. They are providing cellular backhaul and corporate network and government networking services there. And this was an opportunity to bring them from an existing Intelsat satellite to Intelsat 29e, the Epic satellite.
+
+Typically, what happens in these renewals and migrations, we're facing competitive pressures, or competitive dynamics - let's say - on every renewal we do. So it's typical that we would treat these opportunities much in the same way as a renewal from one conventional satellite to another. We have to address the needs of the customer. We have to be competitive. We have to provide them with the capabilities that they need. And address terms and conditions.
+
+And so that's typically the case with these transitions. They often will be transitions of existing capacity. In other cases, they may be transitioning and expanding at the same time. Of course, the bigger the commitment, the more they expand, they may have more additional benefits of the Epic performance and economics when they do that.
+
+Simon Flannery
+
+Okay. So when you renew these - and I think you had some government renewals, as well - is it generally on a - is pricing stable, or are you getting lower prices but higher capacity so the dollar amount is the same? And how do you manage the Venezuelan currency risk?
+
+Steve Spengler
+
+First of all, we would normally - the best way to say it again, maybe, is it's a competitive situation. The customer is paying a certain monthly charge one month and we have to offer them a compelling reason to stay with us on to the new satellite. And so that is subject to competitive dynamics.
+
+Again, if they are open to growing, if they need growth or envision growth or want to go long-term, they're going to benefit from better pricing, as they normally would on any kind of commercial deal. And of course, with Epic they would gain some efficiencies and gain some performance advantages.
+
+Michael McDonnell
+
+Simon, just to respond to your point on the currency, some of the economies, like Russia and Venezuela, that depend heavily on oil, obviously, have been hit with some difficult currency situations. And as I mentioned before, it's something that's roughly in line with what we thought before. We're keeping a close eye on it. Venezuela, in particular, is a difficult place to collect from, because of an exhaustive regulatory process that exists. But we are pretty adept at getting through it and all of it's factored into our plan for the year.
+
+Simon Flannery
+
+Okay, so there is no receivables risk there, is there?
+
+Michael McDonnell
+
+Nothing out of the ordinary and nothing that we're overly concerned about. It's pretty much business as usual, but we're keeping an eye on things, as currency fluctuations occur. Because we do become more expensive for our customers that we bill in U.S. dollars in some regions.
+
+Operator
+
+And the next question comes from Phil Cusick of JPMorgan. Your line is now open.
+
+Unidentified Analyst
+
+A couple of questions, one, what are you seeing in terms of pricing trends in the various regions around the world, particularly in Europe, Africa and LatAm? Are they stable or under pressure due to the new capacity from your competitors? And then the second question is, what's the rationale behind getting into the satellite antenna business with your partnership with Phasor and Kymeta? Do you believe your customers need a better antenna solution than currently what's available out there, or do you intend to be a reseller of equipment? Thank you.
+
+Steve Spengler
+
+Regarding pricing trends, let me address that by customer set is probably the best way to do it. First of all, across media, globally, we view it as relatively steady. But we do see some pricing pressures in North America, as well as Russia and Brazil. And Russia and Brazil is more due to foreign exchange type issues.
+
+In government, relatively stable pricing with renewals. But because of the lower demand in this sector, we are seeing some pricing pressure on some of the new contracts and new opportunities that come up. And network services, relatively stable, but we continue to see the pricing pressure in Africa, Europe/Africa region, Middle East. And that is a situation of oversupply more than a low demand dynamic.
+
+In terms of your question about antennas, as we develop Intelsat Epic and develop our next generation of services for our customers across network services, across mobility, across our government customers, we believe that there are three primary areas of focus for what we bring to our customers with this new technology.
+
+First is delivering higher performance for their applications. The second is to deliver better economics to allow them to expand their services, reach new markets and close business cases that they couldn't before. And the third part is accessibility. And when we talk about accessibility, we believe very strongly that it's important to enable new growth applications with technologies and with antenna systems, in particular, that are smaller, high performing and with the proper economics to enable these new services.
+
+So in the case of Phasor, where we are engaged with them to develop an antenna for a particular segment, there is a large opportunity in the small business jet marketplace that is unaddressed today from a broadband standpoint. The barrier to get into this segment is the size of the antenna and the performance on the antenna in a small package. And so what we're doing is to develop a very innovative antenna with a very interesting form factor that allows us to solve that problem which will open up that particular market.
+
+And we think that there are a number of different markets in network services and in government and mobility and media, where stimulation of the ecosystem, with antennas or other technology, can greatly increase the demand and opportunity for growth in the future.
+
+Unidentified Analyst
+
+And do you expect to be a reseller of antenna equipment to your customers?
+
+Steve Spengler
+
+We're providing services, infrastructure services, to our service provider partners. So it's really our service providers that will be part of the ecosystem that will be serving the end users and will be facilitating the implementation and installation of these antenna systems in the customer end-user locations or planes or moving vehicles of some sort.
+
+Operator
+
+And the next question comes from Jason Kim of Goldman Sachs. Your line is now open.
+
+Jason Kim
+
+First question is on, network services actually came in a little bit better than what we had modeled and perhaps a little bit better than your full annual guidance you had given. Can you talk about the drivers of this segment, if it's trending a little bit better than you had thought, or is it more of a timing issue? And then I have some balance sheet follow-up questions afterwards.
+
+Steve Spengler
+
+Well, we still expect network services to perform to our guidance. And so when we look at that guidance and of course, we still have the pressures that we talked about last time that are still affecting the business. But nevertheless, we have seen some opportunities in the mobility space where we've announced some additional progress there in advance of Intelsat Epic. And so activity is still good, but we're dealing with the challenges through the course of the year, when we believe we will be within our guidance range.
+
+Jason Kim
+
+And then maybe a question for Mike about the balance sheet, you have a couple of bonds that are currently callable, but obviously just because a bond is callable, it doesn't mean that you should necessarily finance them, because there's always puts and takes. But at the same time, pushing out maturity is also reduced as a market risk for the company.
+
+Can you remind us how you look at these callable bonds? And I'm more specifically referring to the $1.5 billion of the Jackson Deer coupons. And at the same time, the nearest maturity for the company is actually the $5 million of the Luxembourg 18's. How do you look at that maturity? Is that something that you may be focused on, or is the size of the maturity small enough for you to look at other opportunities first?
+
+Michael McDonnell
+
+I would say that the maturities that you mentioned are still a long ways out. The first one is not until 2018, as you correctly mentioned. The debt that's callable currently and other debt that becomes callable this year, as you also mentioned, that's very different from the maturity. It does create an alternative. But I think that the refinancing work that we did throughout, let's say, 2010 through 2013, we are very happy with. We've staged our maturities well; and I think at this point, we like where we sit. And obviously, we will continue to assess. But at this point, I think we like the profile and we like where we sit and we like the work that we were able to get done in a very favorable market over the course of those years.
+
+Jason Kim
+
+If I could just ask one more follow-up, would you be able to give us a loose ball park on how much incremental debt or capacity you may have at the Jackson guaranteed level without jeopardizing the non-triple C ratings at that part of the capital structure?
+
+Michael McDonnell
+
+In terms of ratings, there is a basket that gives us something, I believe, on the order of about another $600 million or $700 million of guarantee that we could do before we would be having a discussion on ratings. That's something that we would obviously be mindful of. And the key point here is that would have to be incremental guaranteed, so that would only apply in instances where we were putting additional guaranteed debt in place in lieu of something that was not guaranteed.
+
+Operator
+
+And your next question comes from Batya Levi of UBS. Your line is now open.
+
+Batya Levi
+
+Can you please provide a bit more color on the progress in pre-marketing some of the Epic capacity? And maybe if you could quantify the revenue benefits from the new Epic contract you signed, what percent of the capacity is pre-sold at this point?
+
+And then a second question I had is on the network services side. As government gives back some of the inventory, can you talk about maybe some near-term efforts to fill that capacity with other contracts that you see as near-term opportunity? I believe the network services revenues actually fell a bit less than what we were looking for and what you guided for the full year. Do you still expect that piece to drop 7% to 10% in the year, or is there some near-term opportunity to offset it? Thank you.
+
+Steve Spengler
+
+To your first question on progress on the Intelsat Epic satellites, we don't quote specific fill rates at any given time. But we do feel very strongly that we're progressing to our plan. We are pleased with where we are at this stage of our backlog build in advance of Intelsat 29e, which is scheduled for service in the second quarter of next year. The CANTV project was one step in that direction, but our pipeline is strong for that Epic satellite and several of the other ones coming along later.
+
+In terms of the resale of government inventory, yes, in many cases, when government services come back, let's say in the Middle East or North America, that same capacity could be attractive for network services customers in mobility or fixed networks. And so we've been very much focused on marketing that capacity to our network customers wherever we can to capture some backfill of those types of services.
+
+And again, when we look at them, to your last question regarding network services over the course of the year, we still feel that our guidance still holds. And we expect network services to perform in that 7% to 10% range down, as we indicated before.
+
+Operator
+
+And your next question comes from Anthony Klarman of Deutsche Bank. Your line is now open.
+
+Anthony Klarman
+
+A few follow-ups from some prior questions. Maybe first, for Mike, in the quarterly commentary, you mentioned bad debt being somewhat a little bit of pressure for SG&A. And the year-over-year comparisons not incredibly relevant, given that you had credit in the prior year, which is not normal. Could you talk a little bit about the bad debt trends, maybe on a sequential basis, or how we should think about that going forward as it relates to some of the FX pressures that have been created in the business?
+
+Michael McDonnell
+
+I think that the way I would look at the first quarter regarding bad debt is that it's perhaps a bit elevated. The last two years, we've obviously had bad debt that's been a little bit more volatile after many, many years of having bad debt that was sort of in the neighborhood of about $10 million a year. 2013, we had a spike up; and then in 2014, we had an abnormally low level because we recovered a lot of the 2013 accounts that we had reserved.
+
+So I think, as you look at the first quarter, maybe a bit elevated from historical, but nothing that we are overly concerned about. I would say that the currency is something that we are staying very, very close to, because that can manifest in the form of bad debt. But I think we are on top of that. And I think overall that our bad debt is at a very manageable level and overall, we're pleased with the 78% margin that we were able to deliver in the quarter.
+
+Anthony Klarman
+
+And then on the capital side, when we look at the launch schedule that you have in the quarterly summary, could you talk a little bit about - I guess one of the questions that comes up with Epic is, given the long lead times, how you know that the capacity that's going up is going really where it's needed, relative to other capacity from competitors that's going up in the industry. I was hoping you could maybe provide some commentary on how you've thought about the replacement cycle between using traditional birds and using Epic birds for what you have coming up and why you are confident that the satellite capacity that you have coming up over the next couple years is going to hit you in the spot where you need that capacity the most?
+
+Steve Spengler
+
+We constantly look at the dynamics in the marketplace, supply and demand in aggregate and in specific regions, specific countries across specific applications, as we do our planning for our future satellites. In our near-term launches that we've committed to, we feel very confident that we are hitting the mark for where the demand will be across networks, across media, government and other areas, mobility, of course. And testament to that is that the initial launches, as you know, Intelsat 31, Intelsat 26, are largely sold out and going up with large backlog on it.
+
+Intelsat 36 is a media satellite, more conventional, that's later in 2016. That is largely sold out, as well. So we know that those are in good shape. In terms of the Epic satellites, we look across the dynamics of the marketplace and see very strong overall demand for connectivity services, for rural connectivity through cellular networks, specifically. We see solid demand for networking. We see solid demand for mobility, both arrow and mobility and we see government being strong over the longer term.
+
+The key to all of that demand, or unlocking all that demand, is delivering the high-performance, high-throughput services that Epic will deliver. And I want to emphasize services, because it's beyond just bandwidth. It's the services that go along with it.
+
+For the satellites that are further down the list, we're constantly looking at those. What is the optimal design for those satellites for the particular sectors and regions that we want to serve? And we are reevaluating those before we put them into the factory for production. So that is why there is a reference that down that list, it could be subject to some change, as we assess those market dynamics going forward.
+
+Anthony Klarman
+
+Mike, a couple balance sheet follow-ups for you. Have you guys thought at all about open market debt purchases? You mentioned that no additional debt repayments were due during the year, but you do have a decent cash balance on the balance sheet and the numbers indicate you should be throwing off some operating free cash flow this year. Have you given any thought to how the lower market prices from some of your bonds might impact your decisions on how you attack the capital structure next? And then as an adjacent to that, could you maybe refine your views on your thoughts on the use of secured debt in the capital structure going forward, given that you're relatively under levered in the secured market?
+
+Michael McDonnell
+
+Anthony, I would say that open market repurchases, that's something that we obviously wouldn't telegraph. But I would observe that the majority of our bonds are trading at levels that are historically, at least, have traded at levels that are very close to par. And we haven't had a lot of opportunities to do that in a very accretive way.
+
+And I would also say that the cash balance that you have at the end of the first quarter is a bit elevated. I would just remind you that over 80% of our debt service payments fall in the second and fourth quarters, when you add those up. So it's a little bit elevated at the end of the first quarter, because of having less debt service during that quarter.
+
+As it relates to secured debt, I would say that it's something that we do have some additional capacity to do. You're right about that. I think that we look at that relative to the unsecured opportunities, we look at the spreads between the two and we like the tenor and the flexibility of the unsecured. And when the spreads are very small between, call it, a swap adjusted secured rate versus what you can get in an unsecured market, we would think twice before we would put a lot of incremental secured debt in place, I think.
+
+Operator
+
+And your next question comes from Andrew Spinola of Wells Fargo. Your line is now open.
+
+Andrew Spinola
+
+I wanted to ask a high level question on your media business. When you look out over 5, 10 years, longer term and you think about the trends of whether over-the-top viewing or ultra HD potentially hurting or increasing the demand for your services, what are the conversations you are having in this space right now? How should we think about your existing base? And are those customers mostly renewing and looking to renew? What about the opportunities to potentially expand that business? Thank you.
+
+Steve Spengler
+
+Okay. The media business, as you correctly point out, is going through some transition now. There's a lot of different things happening, interesting and exciting things happening in that space. But let me see if I can break it down in different segments.
+
+We look at the DTH segment of media being strong internationally, as there continues to be good demand, strong demand for expansion of DTH services in the developing world. And that ties to the satellite launches we have coming up over the next couple of years, where we try to take advantage of that. International distribution of media content, of television channels, is still in a growth mode, globally, as there is still quite a bit of HD to build out in various marketplaces. So that is still a relatively strong demand area and where we have high fill factors on our satellites for those kinds of services.
+
+In North America, I would say that the change is happening in a more pronounced way. But having said that, though, distribution to cable head ends on a linear basis of channels is going to be around for quite a few years to come. There's still thousands of head ends that are being served by satellite distribution and we expect those customers to stay on the network.
+
+At the same time, TV everywhere and over-the-top type formats are developing. So we are very much engaged with our customers on those discussions. And we believe that over time, we are going to see the advantages that we've been delivering to this sector for traditional linear video will accrue to some of the over-the-top and nonlinear formats, as well.
+
+So our investment and announcement to implement and bring to market the IntelsatOne Prism platform is a reflection of that. It's a very flexible IP platform that's designed for flexibility and to allow multiple formats, multiple types of video to be distributed around the world. So it's an area that we are definitely in contact with our customers on and discussing with them and building out our infrastructure and really expanding the existing infrastructure that we have to support them.
+
+Of course, the other area of growth longer-term is ultra HD, or 4K. And that is coming. It's probably, in our view, a couple of years away from growth and implementation in the broader network. But we are seeing more production in 4K. And I think over time, that's going to enter into the distribution infrastructure in various marketplaces.
+
+Andrew Spinola
+
+Actually, just one follow-up on the previous question about how you are going to earn a return on your investment in both the antennas with Kymeta and Phasor. Are you going to get any revenue from the sale of those antennas, or is there potentially equity stakes involved, anything like that?
+
+Michael McDonnell
+
+These are modest investments that we are making. We're making them gradually. They are tied to milestones and performance standards. But you shouldn't think of us as looking to be a reseller of antennas, where we're going to build inventory and resell them. This is more of a full solution that we would be providing for our customers as part of an integrated product.
+
+Operator
+
+[Operator Instructions]. And your next question comes from Nick Dempsey of Barclays. Your line is now open.
+
+Nick Dempsey
+
+I've got one question left. I wonder if you could give us an update on your thinking ahead of the WRC-15 in November? Do we need to worry about the satellite sector's continuing exclusive use of C-band spectrum within certain bounds? And is that something that could affect your business going into next year?
+
+Steve Spengler
+
+Nick, we and the rest of the industry are obviously very focused on this issue with WRC-15. Protection of C-band services for satellite customers globally is very important. These C-band services deliver television around the globe. They provide cellular backhaul services. They provide other types of networking for governments and militaries, as well.
+
+So it's very important that we do everything we can and we are doing everything we can, to make sure that the parties around the world understand the importance of this spectrum in the satellite space. I'm not going to predict what will happen at WRC-15, because it's a political event. But we're doing everything possible in every single region of the world, as an industry, to make sure that our position is heard and well understood.
+
+Even if there is an impact, there wouldn't be a near-term impact. Because any type of decision on a WRC-15 typically would be phased in over a number of years. And even then, it is not a material - the spectrum we're talking about is not a material part of our business over the longer-term, as well. But nevertheless, it's very important for our customers and we are going to put our best foot forward in that effort.
+
+Operator
+
+And your next question comes from Mike Pace of JPMorgan. Your line is now open.
+
+Mike Pace
+
+Sorry if some of this is a little repetitive. Back on the CANTV transition deal that you did, I'm wondering, if I understood you right, it wasn't for incremental revenue out of the gate, but the reason for doing that is so that they and you can grow that revenue over time and that's a better suited satellite for their potential needs in the future? Is that the right way to think about that?
+
+Steve Spengler
+
+I think that's the right way to think about it, Mike.
+
+Mike Pace
+
+Okay. And then back to network services. I know you reiterated guidance there. Can you help us with, is there any lumpiness in the quarters in terms of contracts rolling off, on those headwinds, whether it's channel, point-to-point or the consumer broadband business there?
+
+Michael McDonnell
+
+Mike, the answer to that is, yes. The point-to-point and the channel, that roll off is heavily tied to when those renewals come up. And they do come up periodically throughout the year and it can create a bit of lumpiness.
+
+Mike Pace
+
+Any quarterly lumpiness to note there?
+
+Michael McDonnell
+
+I don't know that I can say a lot beyond the fact that we acknowledge that the first quarter decline was less than the guidance that we've given for the year, but we still feel that the guidance range that we've given for the year of 7% to 10% down is the right range to give, looking at the year in total.
+
+Mike Pace
+
+Okay. Last question and I appreciate the competitive dynamics of answering this, but I'm going to give it a try anyways. When we think about over the next year and really the story here is Intelsat Epic, but what type of updates can we expect on what that pre-sold utilization rate is on 29e, what sectors you might be selling that into? Can we expect any color before launch, or do we really have to wait until that point in time?
+
+Steve Spengler
+
+As I said earlier, we're not likely to give out fill factor updates on progress. We just don't do that by individual satellites. I would say that we will certainly update at our quarterly calls to make sure that everybody understands where we stand in progress towards it. I guess the other place you should look for updates is when we have a customer that signs up for Epic and they're willing to do a press release with us, where we'll have announcements when they occur.
+
+Operator
+
+And your next question comes from Arun Seshadri of Credit Suisse. Your line is now open.
+
+Arun Seshadri
+
+First, I just wanted to ask, in terms of the balance between cashless EBITDA and prepayments, in the years beyond 2017, should we continue to expect a bit of an imbalance, meaning cashless EBITDA stays flattish while prepayments, generally speaking, look permanently lower than you've seen in the past?
+
+Michael McDonnell
+
+Yes. So it's a little bit counterintuitive on that. The prepayment guidance, as you correctly noted, the level of prepayments is higher in 2015 than it is in 2016 and 2016 is higher than 2017. So the prepayments, based on our current guidance, they actually ramped down. With that said, the amount of cashless EBITDA will tick up a bit, as we launch some of the programs that have prepayments tied to them and those programs include IS-31 and IS-36. If you look at our cashless levels today, those will increase a bit as those satellites come into service throughout 2016 and 2017. But what I would note is that it's something that we monitor carefully and we intend to keep at a manageable level, as we always have.
+
+Arun Seshadri
+
+As far as oil and gas, I don't know if you could give us an update there. How are you seeing demand shape up in 2015? Have you talked about what percentage of your network services oil and gas represents, less than 5%?
+
+Steve Spengler
+
+It's a small part of our business. So I think you have the right estimate there. Oil and gas sector, obviously, is going through one of its cycles at the moment. And it's not a business that we expect to grow this year, but it's an important part of our business. We have a number of service providers that are very active in that sector. We're still active with them in supporting those customers. But given where that overall sector is, it's not a growth opportunity this year.
+
+Arun Seshadri
+
+One last thing, if I could squeeze in. As far as 2017 goes and I think generally folks are expecting some sort of pressure in top line in 2016, at this point. How connected is your expectation for growth in 2017, through deciding whether or not you will address 2018 bonds relative to early [indiscernible]? Thank you.
+
+Michael McDonnell
+
+I would say it's a difficult question to answer, because we don't guide beyond 2015. We have talked about the headwinds that we have in the channel and the point-to-point and we've said that we expect to have those headwinds throughout 2015 and continuing into 2016. Obviously, our hope would be that as the incremental capacity comes into place, IS-34 later this year, along with IS-31 and IS-29e, that we would hope that those satellites would provide growth and then as the headwinds wind down, that would put us in a better position to grow. But in terms of specific guidance related to 2017, that's something that we obviously can't speak directly to.
+
+As it relates to the bonds and your question there, I don't know that they are necessarily tied. I think that overall, we look at our capital structure and our alternatives based on what we see in the current market and the current conditions and we look at our plan and we make those assessments. I wouldn't necessarily tie any decisions there directly to what our 2017 top line would look like.
+
+Operator
+
+And your next question comes from [indiscernible] of Nomura. Your line is now open.
+
+Unidentified Analyst
+
+Just a quick question on the government side. Just the phase in and how we should think about that through the year. Because I remember through 2014, there was a bit of a step change in the third quarter. Is that some sort of seasonality in terms of your business model in negotiating with the government contracts? Or is that just a one-off and clearly you were at the lower end of your 8% to 12% range this quarter. Should we think of a sequential improvement through the year? Thank you.
+
+Michael McDonnell
+
+Yes. I think that what we mentioned at the beginning of the call, or what we put out in our quarterly commentary, we have a 13% decline, when you look at the first quarter versus the first quarter of last year. So we do feel like 8% to 12% is the right range. The comparisons get a bit easier from here, as you look at the quarters, so that's part of what's factored in. And I think as it relates to renewals, they occur throughout the year. And in terms of our expectations around seasonality and all of that, it's not terribly seasonal. And I think that we've got that all captured and factored in with our reaffirmation of the guidance range today.
+
+Steve Spengler
+
+I would just add that we still see the effects of troop withdrawal this year. So that's factored in. But as I mentioned in my opening comments, that we are seeing a greater degree and very positive signs from senior leadership in U.S. government and military, in particular, about cooperation with the commercial industry.
+
+And we view this as really a long-term indicator that there will be closer operational cooperation, there will be closer operation strategically in terms of how satellite communication services are deployed globally and utilized between the government satellites and commercial satellites. Our engagement with the Space Operations Command and the Commercial Integration Cell is a considerable step forward in that regard.
+
+And one further note, tying it to Intelsat Epic, we are getting very good feedback from our government customers on Intelsat Epic and its capabilities. And some of the unique capabilities of Intelsat Epic, in terms of the digital payload, are very much appreciated by government customers. Because the digital payload is actually a next generation - a newest generation of some capabilities that they are used to using today on some of their own satellites. So it's resonating well.
+
+We wish they could do contracts in advance of launch, which they can't, at the moment. But we continue to work for procurement reform to allow them to have the most flexibility, commercially, for long-term contracts, as well. And that's what we're pushing for.

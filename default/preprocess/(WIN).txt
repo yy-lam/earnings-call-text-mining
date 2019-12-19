@@ -1,0 +1,339 @@
+I wanted to begin by reviewing our 2017 accomplishments in what was a very busy and productive year for Windstream as we position the company for the growth opportunities ahead. During the year, we completed the EarthLink and Broadview acquisitions, which have given us a meaningful advantage with significant strategic best-of-breed assets such as SD-WAN expertise, and OfficeSuite, Broadview's UCaaS platform.
+
+We developed and launched SD-WAN Concierge, our flagship SD-WAN product offering, as well as OfficeSuite across our entire company footprint. We expanded our enterprise contribution margin percentage by 200 basis points sequentially and 160 basis points year-over-year. The company exited 2017 at its highest adjusted OIBDAR margin level since prior to the EarthLink acquisition. We delivered our 12th consecutive quarter of consumer ARPU growth in the fourth quarter. We significantly improved the maturity profile of our balance sheet by extending almost $2 billion of maturities out an average of more than two years. And our synergy plans remain on schedule, and will continue to ramp in 2018.
+
+In summary, while we admittedly fell shy of our original full year adjusted OIBDAR guidance by less than 1%, it was a successful year for Windstream as we have positioned the company to be able to take full advantage of the meaningful opportunities in front of us and have improved financial and operating results for almost all metrics across the business. Two examples of this progress are shown in our increased penetration of broadband speeds and our growing SD-WAN sales.
+
+Turning to slide 5. We increased our penetration of speeds of 25 meg or greater by another 300 basis points sequentially to 24%. During 2017, we more than doubled our penetration level of those higher speed tiers. By the end of 2018, we expect the penetration of 25 meg or greater speeds to be 36%. In addition, we enabled 74,000 homes for broadband or faster broadband under the FCC's Connect America Fund II program during the year, which keeps us on or ahead of schedule for all the program's deadlines and goals.
+
+Growing demand for SD-WAN service continued and represented over 15% of total enterprise sales during the quarter, a metric that has increased every quarter throughout 2017. Our strategic enterprise sales, which include Unified Communications as a Service, SD-WAN and on-net sales, accounted for 38.4% of total enterprise sales in the quarter, up 230 basis points sequentially. By the end of 2018, we expect approximately 50% of our enterprise sales to be tied to our strategic products. I want to take this opportunity to personally thank all of our employees for their hard work and dedication throughout the past year.
+
+As we turn to 2018, we've been focused on introducing customers to the new Windstream in both our business units with refreshed brand positions. On slide 6, we highlight our new ILEC Consumer and SMB brand imagery. We continue to see positive impact from our Kinetic premium broadband brand name launch late last year, and the initial response to our launch of DIRECTV on February 1 and DIRECTV NOW late last year has been quite strong. The Kinetic brand highlights our enhanced broadband and entertainment capabilities. We can now provide 1 gig solutions to approximately 100,000 households and premium speeds of 50 meg or higher to over 1.3 million households.
+
+I also want to share our brand launch for Windstream Enterprise and Windstream Wholesale. Our new crisp, differentiated look, as shown on slide 7, highlights our desire to stand out from our competitors. The new brand strategy reflects the transformation that Windstream is undertaking in response to demand for the business market for a more robust, innovative network and communications services provider. We are leveraging the latest technology and a highly agile customer-centric culture to position Windstream as a trusted partner to its Enterprise and Wholesale customers.
+
+The mission of Windstream Enterprise and Wholesale is to help business customers to connect, transform and elevate. We empower customers across four key IT imperatives: providing cloud and connectivity; elevating the customer experience; enabling employee collaboration; enhancing security and compliance. Windstream has invested significant capital to upgrade our network and product portfolio including meaningful advances in software-defined network capabilities and a new cloud core architecture.
+
+We entered 2018 with renewed energy and focus and know the great brand must be met equally with capability and strategy. To advance our strategy in 2018, we have five key priorities as seen on slide 8. First, advance our industry-leading Enterprise and Wholesale product and service capabilities. One key component will be the continued sharp focus on our SD-WAN product as well as our unified communications product, OfficeSuite. The ingenuity of OfficeSuite lies in its simplicity, relevant features and digital approach, and its broad application across our customer base. We will continue to advance our current capabilities including our security solutions and on-net solutions as well as our professional services portfolio. Our strategic product set with our on-net capabilities has us well positioned in the marketplace.
+
+Second, launch next-generation broadband deployment techniques that are faster and more cost effective. We have improved our abilities to deploy faster broadband speeds more rapidly throughout new and existing technologies. This nimble deployment is a must in the competitive broadband environment. We will provide a greater customer experience, improve customer retention, and grow market share by continuing to increase broadband speeds and capacity throughout our footprint.
+
+Third, further simplify our business and transform customer facing and internal user capabilities. This begins with our multi-year information technology integration project, which has allowed us to more efficiently manage our product catalog, price quoting and order management systems, and eliminate duplicative systems as well as generate meaningful cost savings. Our integration of EarthLink and Broadview remains on schedule. Our goal of $180 million of annualized synergies by the end of 2019 remains a key driver of our financial objectives.
+
+Fourth, we will drive revenue improvements through enhanced sales and improved customer retention in both of our business units. Our ILEC Consumer and SMB business unit remains focused on improving our broadband market flow share, while increasing speed and value-added services penetration for each broadband connection, while our Enterprise and Wholesale business is focused on increasing our strategic sales, which consists of SD-WAN, UCaaS and our on-net products and services. In addition to our revenue objectives, we will continue to aggressively drive our ongoing initiatives and network access reduction, automation of processes and enhanced organizational effectiveness.
+
+Lastly, we will continue to optimize our balance sheet. Over the last several months, we've extended almost $2 billion in maturities several years. We realize that investors remain focused on our balance sheet and we will continue to work to opportunistically refinance our nearer-term maturities in 2020 and 2021. Our focused operational strategy for each business segment has the overall objective to grow adjusted OIBDAR. And this, in conjunction with our balance sheet management efforts, will generate strong financial returns for our investors.
+
+We are a fundamentally different company today than we were a year ago, and we will continue to evolve. We have transformed our business model, creating a culture based on doing things differently and driving innovation in our own company. Our new brand identities are a manifestation of our disruptor mindset and our commitment to helping customers find solutions to address their most critical challenges today and in the future.
+
+I'll now turn the call over to Bob to discuss our financial results.
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Thank you, Tony, and good morning, everyone. Turning the slide 9, we show our fourth quarter results which reflect our new business structure. During the quarter, Windstream generated service revenues of approximately $1.5 billion and adjusted OIBDAR of $521 million, which represented a consolidated margin of 34.8%, an increase of 70 basis points year-over-year driven by our strong expense management initiatives.
+
+The margin represents our highest margin level since prior to the EarthLink acquisition as well as a $31 million sequential increase. The ILEC Consumer and SMB segment delivered solid results. For the quarter, service revenue was $476 million, down modestly sequentially. Contribution margin was $282 million or approximately 59%, and grew sequentially by $12 million. Consumer broadband units decreased by approximately 10,800 during the quarter, a slight improvement from a decline of 11,900 subscribers during the fourth quarter of 2016. Additionally, we recorded our 12th consecutive quarter of consumer ARPU growth.
+
+In the Enterprise segment, which also includes our out-of-region small and medium business revenue, service revenue with $760 million and increased $9 million sequentially. And contribution margin was $164 million or approximately 21%, an increase of 200 basis points sequentially and then 160 basis points year-over-year. Contribution margin in this segment grew by $17 million sequentially.
+
+Our focus on reducing network access costs and migrating more of our sales to on-net is driving tangible margin improvements as a majority of these costs reside in our Enterprise segment. Interconnection expenses fell 10% in 2017, consistent with our expectations for our long-term outlook. Additionally, we continue to have a strong pipeline in our strategic product offerings, which we expect to continue to monetize in the coming quarters.
+
+In the Wholesale segment, service revenue was $190 million and contribution margin was $135 million or approximately 71%, up 120 basis points sequentially and 240 basis points year-over-year. Our CLEC Consumer segment, which primarily consists of EarthLink's former consumer business, generated service revenue of $51 million and contribution margin of $28 million or approximately 54%. Our integration and synergy achievement plans remain on track for both Broadview and EarthLink.
+
+As shown on slide 10, we have significantly improved the maturity profile of our balance sheet over the past several months, extending maturities of almost $2 billion of debt, an average of more than two years. We have no meaningful maturities prior to 2020, and we will continue to opportunistically improve the balance sheet over the coming quarters. The various debt exchanges we successfully completed in the fourth quarter also allowed us to achieve consents (00:12:42) on all of our outstanding bond tranches, waiving any alleged defaults related to our Uniti spinoff in 2015.
+
+Turning to slide 11. Our 2018 full year guidance is as follows. We expect service revenue trends to be slightly improved versus 2017 trends, adjusted OIBDAR to be in the range of $1.95 billion to €2.01 billion, adjusted CapEx to be between $750 million and $800 million, and adjusted free cash flow of approximately €165 million, assuming the midpoint of our adjusted OIBDAR and adjusted CapEx ranges. Our guidance assumes cash interest of approximately $385 million. Of note, at the midpoint of our guidance, 2018 results would represent a 400-basis point improvement in adjusted OIBDAR trends year-over-year, and we expect absolute growth in adjusted OIBDAR in 2019.
+
+As part of our continuing efforts to drive efficiencies and cost reductions in our business, we executed on restructuring actions in January that will drive approximately $50 million of in-year 2018 cost savings. These actions included additional head count reductions associated with efficiencies created from our investments in our multi-year systems consolidation efforts and also consolidation of certain corporate support functions. These additional cost reduction efforts, coupled with the continued ramp up in the achievement of acquisitions synergies and reduction of interconnection costs, supports our improved OIBDAR trends in 2018 and beyond.
+
+The overall impact of Windstream from the new tax bill signed into law late last year will be favorable over the long-term, but we are not currently a material cash tax payer due to our net operating loss carryforwards. The new tax bill will allow the company to extend the timeframe for the use of those NOLs and remain a minimal cash taxpayer for the foreseeable future.
+
+Turning to slide 12. We present our directional outlook assumptions for 2018 for each of our business units. For our ILEC Consumer and SMB segment, we expect broadband trends to improve year-over-year with a stable contribution margin percentage. In our Enterprise segment, we expect revenue and contribution margin trends to improve with a material improvement in absolute contribution margin dollars year-over-year, driven by solid growth in our strategic product offerings and interconnection expense reductions. We expect Enterprise to reach a contribution margin level of 24% in 2018.
+
+Our Wholesale segment should continue to see top line pressures as legacy revenue declines continue to offset strategic revenue growth trends. And we expect our CLEC Consumer segment to experience similar trends to 2017.
+
+On slide 13, we laid out our 2018 adjusted capital expenditure plan. The $775 million midpoint of our guidance range would represent a $64 million reduction from 2017 levels or an approximate 8% decline.
+
+Now I'll turn the call back over to Tony for a few closing comments.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+Thanks, Bob. We are pleased with the momentum we are seeing across our company. Revenue trends, subscriber trends and ARPU have sequentially improved in almost every segment of our business for the past couple of quarters. Our focus on strategic enterprise sales is showing strong progress. We expect to see material adjusted OIBDAR trend improvements in 2018, and the steps we have taken to improve the maturity profile on our balance sheet has significantly improved our liquidity for the next several years.
+
+Importantly, we feel confident in saying that we expect adjusted OIBDAR growth year-over-year in 2019. We are well underway in pivoting the company from a telecom reseller to a cloud application connectivity provider in our Enterprise segment and from a phone and Internet provider to a premium broadband and entertainment provider in our ILEC Consumer and SMB segment. The management team and I remain confident that we are headed on the right path to improving revenue trends, driving adjusted OIBDAR growth, and creating value for all of our stakeholders over the coming quarters.
+
+We'll now take your questions. Operator, please review the instructions and open the call to questions.
+
+Question-and-Answer Session
+
+Operator
+
+And our first question comes from the line of Frank Louthan from Raymond James. Your line is now open.
+
+Frank Garreth Louthan - Raymond James & Associates, Inc.
+
+Great. Thank you. I apologize if I missed this. But any thoughts on going forward on potential asset divestitures and so forth, and to what extent, do you – are you seeing some traction with some of the Broadview products with customers outside of your region? I understand the product can be sold more nationally and opportunity for some growth. Where do we stand with that? Thanks.
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Hey, Frank, this is Bob. I'll take the asset sales question, and then have Tony weigh on the Broadview products. As a reminder, we believe we still have significant asset value to monetize within our fiber assets that we own outright, and we've been very active in discussions around that opportunity. We continue to dialogue with multiple parties about potential transactions. And while nothing has been completed or announced at this point, we still remain optimistic about our opportunities to monetize some of that fiber portfolio.
+
+The opportunities, I think, probably going forward, will more likely be smaller transactions on a maybe a more regular basis rather than a very large transaction, for example, with one party. But again, the interest level remains high, and we continue to be optimistic about our opportunities there.
+
+In addition to that, I would say, Frank, that we are also exploring strategic alternatives with our Consumer CLEC business which is largely comprised of our EarthLink consumer business. And while no final decisions have been made on the strategic opportunities with that segment, we continue to be opportunistic and looking for opportunities to optimize the overall business of Windstream with potential monetization of that segment. For your benefit, we do show that segment and those financial results separately now within our disclosures. And so those financials can be analyzed based upon our new disclosures.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+And on the Broadview OfficeSuite rollout, we've now rolled that out across the entire footprint. We did that on August 1 and the momentum we see there are strong. It's our lead UCaaS solution for most of our enterprise customers. We have a full product portfolio that goes from large contact centers down to midsize enterprises to SMB customers. And the beauty of OfficeSuite is just its broad applicability. It's a really well-designed product. It scales well. It has relevant features. It has a digital-centric approach and we're rolling, it's been very successful, especially when coupled with SD-WAN Concierge. The combination of a kind of a cloud-aware architecture like we have in SD-WAN with OfficeSuite, it's just a very comprehensive solution for our customers. And so right now the momentum is good, the funnel is strong. As I talked about earlier, 38.4% of our sales in the fourth quarter came from our strategic product set, and that includes OfficeSuite.
+
+Frank Garreth Louthan - Raymond James & Associates, Inc.
+
+And just to follow up, if you have say a CLEC customer or someone that's on a maybe Type 2 circuit and they switch over to OfficeSuite, can you characterize sort of the cash flow impact from that and how we should think about the benefits to the company from that kind of change?
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+Absolutely, Frank. And I think I'd put it in the context of probably SD-WAN and OfficeSuite. Because when you're going from a Type 2 circuit, for example, an Ethernet circuit to an SD-WAN solution with Windstream's OfficeSuite, it's a much more margin-rich profile. That's because SD-WAN leverages public broadband IP that rolls back into Windstream's core MPLS network. So it's a much higher margin product than you would see on what I call a typical leased circuit on an older technology. So it's a big step up, not only in margin but importantly for customers. It's a huge step up in capability and solution to help solve their critical business issues. So it's a win-win. We're pushing SD-WAN and OfficeSuite aggressively throughout the entire company. We have great products, great core MPLS. MPLS is a great complement or hybrid network with SD-WAN as well as our security and professional services solutions. But put all that together, we're really focused on solving customers' business issues. Now we can do that, and at the same time, drive significantly higher margins into those customer relationships.
+
+Frank Garreth Louthan - Raymond James & Associates, Inc.
+
+When do you think you can get the majority of your Type 2 customers on those types of products?
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+That's going to be a multi-year journey, Frank. But we're aggressively working on those conversions and incentivizing our sales and sales account managers to do those conversions because it's a stickier relationship as well. As demonstrated by Broadview's financial performance, the OfficeSuite product has approximately 1% churn, so very, very low levels of customer loss. So it's a very sticky product. And for all the reasons we know, it's well-designed and it solves the customers' issues.
+
+Frank Garreth Louthan - Raymond James & Associates, Inc.
+
+Great. Thank you very much.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+Thanks for the questions, Frank.
+
+Operator
+
+And our next question comes from the line of Simon Flannery from Morgan Stanley. Your line is now open.
+
+Simon Flannery - Morgan Stanley & Co. LLC
+
+Great. Thank you very much. Good morning. I wanted to unpack the comment, Tony, on EBITDAR growing in 2019. Can you help us with some of the levers around that? Is that full realization of the synergies? Is that additional restructuring? Is that improved revenue trends, business mix, et cetera? What should we be looking for to help get more clarity into that? And then there was a comment around early success with DIRECTV and DIRECTV NOW. But perhaps you could just give us a little bit more color around that and what that means for your business and how the economics. Is this really a churn reduction or maybe getting more gross adds? What do you expect from that to help stabilize the consumer business? Thanks.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+Thanks for the question, Simon. When you look to EBITDA, we're going to build on the momentum that you see in our 2018 guidance as we go into 2019. And we have several levers we're pulling to achieve absolute adjusted OBIDAR growth in 2019. You alluded to some of the levers we have on cost side that includes the continued synergy realization. It includes continued cost takeout efforts we have inside of the company as well as our expectation that we can take out 10% of our interconnection. Importantly, to ensure we have confidence, we've also engaged a third party to do kind of – to work with the Windstream team to ensure we do a comprehensive review of our cost structure, the benefits of which will begin to be realized in 2018 but give us even incremental cost savings as we go into 2019 to ensure our ability to achieve our cost goals.
+
+And then I expect you'll see the strategic product sales in enterprise and the broader penetration of faster speeds and our ILEC Consumer and SMB business improve revenue trends modestly. Importantly, I think I can think about that as upside. The cost side will bring certainty to our ability to achieve 2019 adjusted OIBDAR growth, and we get upside to the ability to achieve that and go faster if we can modestly improve the revenue trends. When you look at...
+
+Simon Flannery - Morgan Stanley & Co. LLC
+
+And does CapEx sort of stay at the same level in 2019? Is that a good intensity to keep?
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Hey, Simon, this is Bob. Our long range guidance on CapEx still is in that 13% to 15% CapEx intensity range. And so we saw a nice step-down year-over-year 2018 versus 2017, just under 10%. I think that just generally, we think we can see some lowering of the IT CapEx spend probably into 2019. And really, I think it comes down to what is our success-based CapEx outcome for 2019. And if it's better, that probably means good things for top line and OIBDAR. If it's a little bit less, maybe it improves the free cash flow from a CapEx standpoint, but we'll see a little bit lessening of the revenue improvement. So that's how we think about CapEx more generally.
+
+Simon Flannery - Morgan Stanley & Co. LLC
+
+Okay. Thank you.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+And then on – in terms of our entertainment options that we've added with DIRECTV which we – the satellite sat on the linear side (00:25:19), on February 1, and course, we launched DIRECTV NOW late last year, I would describe, we say this often, we have our own Kinetic TV product, but we're fairly agnostic on how customers consume content. What we want to do is have a sticky relationship with our customers. If customers want to consume content over-the-top, that's absolutely great. If they want the full range of solutions that you get from Windstream's Kinetic TV offering or from DIRECTV satellite offering, that's great as well. We want to have the entertainment options our customers need. And what we've seen, and we've seen that with our historical relationship with DISH. And when you can bundle TV solutions with the broadband connection, you do get a churn benefit. We also think it helps in terms of brand awareness, in terms of creating more acquisition, more new gross adds. But it's clear, based off the facts and the data we've collected, that bundling a video option with a broadband connection will improve retention rates of customers.
+
+Simon Flannery - Morgan Stanley & Co. LLC
+
+Thank you.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+Thank you, Simon.
+
+Operator
+
+And our next question comes from the line of David Barden from Bank of America. Your line is now open.
+
+David Barden - Bank of America Merrill Lynch
+
+Hey, guys, thanks for taking the questions. I guess first one would just be, Bob, just with respect to the kind of merger synergy EBITDA contribution that's baked into the guidance from the EBITDA side and then the merger integration expenses that are kind of being backed out of the CapEx number, could you kind of talk about the sizing of those two numbers? And then I guess, Tony, is the revenue recognition change a reflection of some incremental change in the kind of business structure or the go-to-market approach that the company is taking, or is this more just to reflect the potential that you're going to try to monetize that legacy EarthLink business in the markets or you're just going to get rid of it? Thanks.
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Hey, David, Bob here. In terms of the synergies, how to think about that for 2018, so as a reminder, for 2017, we exited at around $75 million of annualized OpEx synergy run rate and about $25 million of CapEx benefits. By the end of 2018, we expect the OpEx exit run rate to be about $120 million with CapEx being consistent at $25 million. And then, of course, in 2019, we expect to get the full realization of our synergies which is about $155 million of OpEx and then about $25 million of CapEx for the full $180 million of free cash flow synergies from both deal transaction expectations. And in terms of the cost-to-achieve, if you will, around M&A and integration CapEx, in 2018, we expect to be on track and in line with our original guidance around those types of costs. As a reminder, we mentioned we announced each of those deals that we would incur around 1 times the full run rate synergy over a three-year period. And in 2018, we expect that number to be around $55 million or so, just round numbers.
+
+In addition to that, just to speak more generally about integration and also other costs there come more temporary in nature, we do expect to have litigation and other costs around the bondholder litigation of north of $20 million. So that's a onetime item that obviously we don't see as recurring going forward but it is a cost that we will incur in 2018. And then as Tony mentioned earlier, we're going to be very aggressive with taking costs out of the business through the year and we expect to see severance and real estate exit costs of around $40 million in 2018. All of that in support of really solidifying and ensuring the material improvement of adjusted OIBDAR in 2018, but also setting up for the growth in OIBDAR in 2019 and beyond.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+And, David, in terms of the new revenue and presentation, the financial presentation we provided this quarter, it does reflect the way we're managing the business. We have kind of three reported business units. We have the ILEC Consumer and SMB business unit, led by Jeff Small. That's our residential and SMB business in our on-net, ILEC markets. And then we have Windstream Enterprise and Wholesale that's under a single leader now. We collapsed that in the fourth quarter under Layne Levine. And there are some financial benefits from it, but we thought it was just also a better way to go-to-market in terms of getting to our customers. And you're right, the benefit of breaking the CLEC Consumer business, as Bob just alluded to, is it creates a strategic optionality around strategic opportunities to sell that business. It's definitely not part of our core approach going forward, but it generates good cash flow. But we wanted to make sure we kept the options available to us.
+
+David Barden - Bank of America Merrill Lynch
+
+Great. All right. Thanks, guys. Appreciate it.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+You're welcome.
+
+Operator
+
+And our next question comes from the line of Brett Feldman from Goldman Sachs. Your line is now open.
+
+Brett Feldman - Goldman Sachs & Co. LLC
+
+Thanks. And maybe just one quick follow-up on Dave's question, and I appreciate the color on some of the non-recurring items. I was wondering whether there's any pension OPEB that might be incurred in 2018 that's not included in the adjusted figures. And then you mentioned some new cost efficient ways of deploying broadband using new and existing technologies. I was hoping you maybe could just elaborate on that a little bit. Thanks.
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Hey, Brett, this is Bob. In terms of our pension contribution, we expect that to be less than $20 million for 2018. And our plan would be to fund that primarily through equity, similar to what we've done in past periods
+
+Brett Feldman - Goldman Sachs & Co. LLC
+
+Got it.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+And on the broadband deployment techniques I alluded to, the team spent much of 2017 perfecting new planning and deployment methodologies with the goal of being able to deploy 100 meg plus VDSL2 next-gen technology within 30 days. And we've now, through a combination of planning and software-defined network solutions, are perfecting that. We piloted it or the first phase of it, we deployed in the fourth quarter and we're doing large scale deployments here in the first quarter. So we have a lot of momentum here. We're really excited about the opportunity to deploy these new techniques and get this speed into the hands of our customers.
+
+The other goal we had was to reduce the cost of broadband deployment in half from what we had seen in Project Excel. We will also achieve that goal. The team worked on that in 2017. So, one, we're going to accelerate our ability to have faster speeds, but then we've also been working to ensure we minimize the capital it takes to put broadband into the network, so we can obviously expose faster speeds to more customers. And we think the benefits from that are meaningful. You see our continued commitment to our broadband expansion in our capital budget. We're going to be investing significant capital there in 2018 to bring those speeds – put those speeds in the hands of our customers.
+
+Brett Feldman - Goldman Sachs & Co. LLC
+
+Great. I'm sorry. I forgot I did have one more question. There are some changes in the accounting standards this year and some of your peers have been fairly meaningful. I'm curious whether they're having meaningful impact on your outlook for service revenue or OIBDAR trends in 2018?
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+No, Brett. This is Bob. Really, some of the revenue standards that you're referring to or alluding to, really doesn't have a material impact on our guidance for 2018 and beyond.
+
+Brett Feldman - Goldman Sachs & Co. LLC
+
+Great. Thanks for taking the questions.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+You're welcome.
+
+Operator
+
+And our next question comes from the line of Batya Levi from UBS. Your line is now open.
+
+Batya Levi - UBS Securities LLC
+
+Great. Thank you. Just back to EBITDA. 2017 came in just a bit lower than what you've guided. Can you talk about what drove that downside? And then looking at the cost cutting initiatives and synergies in 2018, can you talk about the pacing on the realization of those and if there are any seasonal expenses that we should think about for the first quarter? And along that thought, efforts to lower interconnection expense, how much do you think we can see this year?
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+I think that's Batya talking. Hey, Batya, this is Bob. In terms of the less than 1% miss on our OIBDAR for last year in fourth quarter, to our expectations, really coming into the quarter, we had a lot of cost reduction efforts really lined up. We, in fact, made considerable progress from third quarter to fourth quarter, down almost $30 million on a sequential basis there on flat revenues. Really, the slight miss to the guidance came in the form of the pace at which we were taking out the interconnection costs. It doesn't – certainly, we're still very optimistic about the aggregate opportunity, and the team's done a great job of taking down a lot of cost there, over 10% reduction on an annual basis which is great. We just – we're a little bit slower in fourth quarter than what we had expected, and that's really where we came up a bit short for the fourth quarter number.
+
+In terms of how you think about the cost takeout for 2018, as I mentioned in my prepared comments, today, we've already taken some actions in, really, January to drive $50 million of cost takeout, that will all occur within year. So that's a good start for us. You should expect us to continue to be aggressive on the cost structure. I would tell you, the interconnection cost savings are more linear. It's almost like a recurring cost takeout, more akin to a recurring revenue model in some ways. So that's just more of a – the pace at which we'll groom and take cost out of the network, and that's been a nice pace or us.
+
+In terms of the other actions that we could take, obviously, we're looking at some actions through the year just around optimizing the cost structure and how we serve our customers. And I think in the next couple of quarters, you could see some step function of benefits that come from that as well with probably a little bit more of a waiting into the kind of middle of the year. In terms of the seasonality for 1Q, thanks for the question, we do typically see some seasonality in 1Q versus 4Q. That typically relates to a reset of benefits and taxes, and also more aggressive spending that we have for advertising type cost. And so I do expect to have a step down in our OIBDAR from 1Q to 4Q, probably in the range of $20 plus million, which is pretty consistent with what we've seen in prior years. Again, because of all the cost initiatives that we've talked about, and obviously, the improvements in revenue that we expect through the year on a year-over-year basis, that's why we expect to see the aggregate improvements in adjusted OIBDAR continue through the year.
+
+Batya Levi - UBS Securities LLC
+
+Got it. That's helpful. Thank you.
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+You're welcome.
+
+Operator
+
+And our next question comes from the line of Amir Rozwadowski from Barclays. Your line is now open.
+
+Amir Rozwadowski - Barclays Capital, Inc.
+
+Thank you very much. Thinking about the OIBDAR improvement expectations for 2019, do you folks have a longer-term target of where you think that could go? It seems like there's confidence around some of the cost synergies and a constructive view in terms of the top line, but was wondering if there's sort of a longer-term target that we should be considering. And then, maybe as sort of a second question, you folks have made some pretty significant inroads on the SD-WAN front. There still seems to be debate around the propensity for SD-WAN going forward, whether or not it is viewed as a sort of displacement for some of the legacy services that are in the marketplace or sort of a complementary sale, how do you view sort of the opportunity set going forward from your standpoint?
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Hey, this is Bob. I'll take the first question around longer-term OIBDAR trends. Speaking more generally about what we expect here, certainly, we expect to build on the momentum that we take from 2018 into 2019. I do think we have great opportunities, of course, to continue to improve from there. The things to focus on longer-term in the business obviously, the investments that we've made within our consumer business have become more competitive from a speed standpoint. I do expect us to continue to make progress on consumer revenues over time and in the consumer flow share. So that's an opportunity for us to moderate the revenue declines within consumer and eventually get to growth there. We've been very successful in taking cost out of that business and staying very efficient. And so, obviously, once the revenue improvements come, that would accrete to the bottom line.
+
+In the Enterprise business, most certainly, we've seen some good momentum there already in terms of contribution margin growth both in 2017. And as you look into 2018, I expect the kind of mid to high single-digit increases in contribution margin to continue. And into 2019 and beyond, as you think about the Enterprise business really, it will be about the pace at which we can penetrate our base and attract new customers with our strategic products and that could moderate and then eventually grow enterprise revenues. Supporting that business, of course, is the material cost takeout opportunity that we have within interconnection, and that's a multi-year effort. That will go on for really four or five more years at this pace and so that gives us a tailwind. And the last thing I'd say that gives us support on the OIBDAR growth would be the synergy opportunities. And maybe one more thing, our systems integration efforts more generally have been quite productive in terms of showing us opportunities to bring efficiencies around the cost structure as we're more efficient in serving our customers through a more rational and efficient systems environment.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+And I'll take the SD-WAN propensity. And obviously, part of our new brand launch in Windstream Enterprise and Wholesale is our commitment to be a disrupter. We do believe SD-WAN will displace much of the legacy MPLS network over time. For many customers, it'll be a hybrid WAN architecture that includes MPLS and SD-WAN, depends on every customer's unique needs. I think the mindset that SD-WAN is not a game changer when it comes to network design is naïve. It is one of the most powerful solutions I have laid eyes on in my 20 plus years in telecom. The ability to get Layer 7 or application layer visibility into your network, the transparency around network performance, Windstream's providing unique capabilities there in terms of how customers can consume it as well as developing internal capabilities and how we ensure customers have a fantastic onboarding experience and how we can support them going forward.
+
+We launched our program, SD-WAN Concierge, a fully managed solution for our customers, and it is going to change how networks get built. It's just that simple. And I'd always tell you, SD-WAN is a product. It's not a solution. You've got to be solving critical business issues for customers and SD-WAN is a part of it. But Windstream brings a full breadth of products to bear and solutions, including security, UCaaS with our OfficeSuite or hiring contact center solutions with either Avaya or Mitel. We just have a really robust product set. And we talked about continuing to maintain our edge as one of our critical priorities in 2018. When you flash forward from where we were at the end of 2014 to today, we have an industry-leading product set, and we plan on maintaining that edge and SD-WAN will be a critical element of how we plan to do that in the marketplace.
+
+And the other thing I would add is what makes Windstream unique in our approach to SD-WAN financially is we were primarily an off-net MPLS provider, meaning we used other carriers' networks typically Ethernet networks. The Type 2 circuits we bought from the carriers are quite expensive. So, when we shift to SD-WAN, we provided that over public IP broadband, and that's dramatically different margin profile for us. So we can make this transition from MPLS to SD-WAN and actually have it being margin accretive, which makes us pretty unique in the industry.
+
+Amir Rozwadowski - Barclays Capital, Inc.
+
+That's very helpful. Thank you very much for the incremental color.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+You're welcome.
+
+Operator
+
+And our next question comes from the line of Aris Asardi from Credit Suisse (00:41:36). Your line is now open.
+
+Unknown Speaker
+
+Yes, hi, thanks for taking my questions. First, I just wanted to ask on the Enterprise side for Q4, sequential revenue grew pretty nicely despite ARPU and customers, I think seems like relatively usual seasonal performance. Just wanted to understand, I noticed that the voice and the miscellaneous and the end user surcharge lines were sequentially up nicely versus the usual trend, just wanted to get some little bit better color around the drivers behind sequential Enterprise growth in Q4.
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Sure. This is Bob. In the quarter, certainly, we did get the benefit of some sequential lift in the quarter, which largely did attribute to Enterprise for the growth from the Broadview being one more month of inclusion in the quarter. So that helped us to the tune of around $25 million, kind of all in, with most of that being in Enterprise. But in addition to that, we did see some progress certainly within our strategic products, where you can kind of focus your attention on that more generally is in the data integrated services line. That's been an area for us that we remain very focused on in terms of driving improvements. And as you look ahead, really as Tony mentioned, the SD-WAN and UCaaS product offerings, that will be what drives the Enterprise trends to improve. We do expect that from a top line standpoint on a year-over-year basis to see improvements in top line. And certainly, as you look ahead into early 1Q, we'll need to build our pipeline and turn all that into installed revenue. But as the year goes on, we expect to make improvements on that.
+
+Unknown Speaker
+
+Got it. Thank you for that, Bob. And then also wanted to ask you in terms of the overall cost savings expectation, is there any way you could bracket what you expect in terms of overall cost saves in 2019 versus 2018?
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Well, we're in a – in terms of the big items, certainly, the synergy realization would be one that I would call out in the aggregate, right. So you're moving from and into the year exit in 2018 of $120 million of OpEx going up to $155 million. And so you'll take an incremental step up there. Obviously, the 10% takeout on interconnection, that's sort of just kind of a regular sizable number on the base of just about $1.5 billion of costs, and so that's a large opportunity that continues into 2019 as well. Absent that, I do think the annualized run rate of some of the cost actions that we'll take out this year will accumulate into meaningful numbers. We haven't disaggregated it or gave a specific guidance on that for 2019, but you can sort of see as we're taking out costs in $50 million chunks, more of that to come this year, that will help us get to a sizable run rate in the future.
+
+Unknown Speaker
+
+Great. Thank you. Last thing from me is – and I think there was some discussion around potentially Uniti monetizing fiber that wasn't fully – that was sort of like not fully utilized by Windstream. Just wanted to see if there's any sort of clarifications or additional comments you can provide in terms of whether that's still an option out there, or all of the asset sales you're talking about are really still stuff that's not encapsulated within the lease? Thanks.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+Yeah, What Bob was referring to were fiber assets that are not encapsulated inside of a lease. Obviously, we have an opportunity to partner with Uniti to potentially monetize underused assets. And that remains an opportunity for both Windstream and Uniti in the future.
+
+Unknown Speaker
+
+Thank you, Tony.
+
+Operator
+
+And our next question comes from the line of Matthew Niknam from Deutsche Bank. Your line is now open.
+
+Whitney Fletcher - Deutsche Bank Securities, Inc.
+
+Hi, this is Whitney on for Matt. Just two if I could. The 24% contribution margin in Enterprise that you're now expecting, is this tied to the resegmentation or greater confidence in the business? And then secondly, how should we think about 2017 revenue growth pro forma for Broadview? And kind of in that context, can you just give us a little bit more color on how 2018 will compare? Thanks.
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+This is Bob. In terms of the resegmentation, what does that really mean to the resetting of the bar from a Enterprise margin standpoint, it was around 50 basis points of improvement. And so, obviously, if you look at our reguided, targeted Enterprise contribution margin percentage, we actually raised it even more than that, up to the 24% level. So just continue to see nice cost opportunities in the synergies, interconnection cost takeout, and other areas. And sorry, the second question was around Broadview revenue contribution in 2017?
+
+Whitney Fletcher - Deutsche Bank Securities, Inc.
+
+Yeah, just if you had a pro forma revenue growth number.
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Yeah, so just generally, around Broadview, Broadview on a full-year basis was around $290 million or so of annualized revenue from a full year basis. That business has been relatively flat in terms of its revenue contribution before synergies. The OIBDAR contribution has been quite good, north of 10% growth, again due to the sort of penetration of their customer base with UCaaS products. It's been a great gross margin and OIBDAR story. As you look into 2018, obviously, we expect similar to improved trends on top line within that separate business. But the more interesting opportunity, of course, is to take all those products and bring it to the much broader Windstream customer base and really start to make improvements on the top line within Enterprise. So we're not really guiding separately for Broadview into 2018, we're just managing the business altogether at this point. But that's generally how you can think about the contribution on a top line basis from that business.
+
+Whitney Fletcher - Deutsche Bank Securities, Inc.
+
+Okay. Thank you.
+
+Operator
+
+And our last question comes from the line of Michael Rollins from Citi. Your line is now open.
+
+Adam Ilkowitz - Citigroup Global Markets, Inc.
+
+Hi, good morning. This is Adam Ilkowitz on for Mike Rollins. Thanks for taking the question. Wanted to ask about free cash flow and with the guidance you gave and there's a number of charges that would be onetime in nature in 2018, how do you guys think about further accelerating synergies, cost cutting, or even lowering CapEx to accelerate cash flow in the near-term to deleverage? Thank you.
+
+Robert E. Gunderman - Windstream Holdings, Inc.
+
+Adam, this is Bob. Well, certainly, as you look from a year-over-year standpoint, as we guided last year, we were making some material investments to drive enablement of synergies, if you will, and that caused free cash flow story to effectively our integration costs sort of offset and exceeded the cost within the adjusted free cash flow. In 2018, there's been a very material improvement in that outcome. Obviously, we're still having integration costs, but within expectations. To the question about whether we can accelerate cost initiatives, certainly, we look to do that every single day. I think right now, we're comfortable with some of the directional commentary we gave earlier on the call. We continue to look for those opportunities and find efficiencies in the business. And to the point of CapEx, the CapEx, again, is about 10% reduction year-over-year. We think that's a very good level of investment to ensure that we can continue to make progress on top line and drive the business in the right direction longer-term. So don't want to do anything unnatural to drive CapEx down that would harm the business prospects over time. And so we think that's the appropriate level at this point to drive the right financial outcomes over time.
+
+Anthony W. Thomas - Windstream Holdings, Inc.
+
+And I think when you look at it, it's a combination of kind of the cost takeout that Bob alluded to, being really efficient with our capital. But of course, it's the asset sales we alluded to, whether those are the fiber that we own outright, the Consumer CLEC strategic optionality we have, or the ability to partner with Uniti and monetize the assets Uniti owns that Windstream operates, so many levers there for which we can generate free cash flow.
